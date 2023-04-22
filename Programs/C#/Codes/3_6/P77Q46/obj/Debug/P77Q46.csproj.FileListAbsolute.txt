@@ -1,0 +1,7 @@
+F:\Computer science\Programs\C#\Codes\3_6\P77Q46\bin\Debug\P77Q46.exe.config
+F:\Computer science\Programs\C#\Codes\3_6\P77Q46\bin\Debug\P77Q46.exe
+F:\Computer science\Programs\C#\Codes\3_6\P77Q46\bin\Debug\P77Q46.pdb
+F:\Computer science\Programs\C#\Codes\3_6\P77Q46\obj\Debug\P77Q46.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\Codes\3_6\P77Q46\obj\Debug\P77Q46.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\Codes\3_6\P77Q46\obj\Debug\P77Q46.exe
+F:\Computer science\Programs\C#\Codes\3_6\P77Q46\obj\Debug\P77Q46.pdb

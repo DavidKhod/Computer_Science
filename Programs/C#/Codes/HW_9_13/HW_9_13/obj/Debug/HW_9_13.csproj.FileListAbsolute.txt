@@ -1,0 +1,9 @@
+C:\Users\David\source\repos\HW_9_13\HW_9_13\bin\Debug\HW_9_13.exe.config
+C:\Users\David\source\repos\HW_9_13\HW_9_13\bin\Debug\HW_9_13.exe
+C:\Users\David\source\repos\HW_9_13\HW_9_13\bin\Debug\HW_9_13.pdb
+C:\Users\David\source\repos\HW_9_13\HW_9_13\bin\Debug\ObjFirstMbt1.dll
+C:\Users\David\source\repos\HW_9_13\HW_9_13\obj\Debug\HW_9_13.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\HW_9_13\HW_9_13\obj\Debug\HW_9_13.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\HW_9_13\HW_9_13\obj\Debug\HW_9_13.csproj.CopyComplete
+C:\Users\David\source\repos\HW_9_13\HW_9_13\obj\Debug\HW_9_13.exe
+C:\Users\David\source\repos\HW_9_13\HW_9_13\obj\Debug\HW_9_13.pdb

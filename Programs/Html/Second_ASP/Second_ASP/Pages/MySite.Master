@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MySite.master.cs" Inherits="Second_ASP.Pages.MySite" ClientIDMode="Static" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+             <head>
+    <meta charset="utf-8" />
+    <title>Home Page</title>
+    <link href="../Style/Css.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="NavBar" id="NavBar">
+        <div class="Logo">
+            <img src="../Pictures/Donkey-06.jpg" width="50" height="50" alt="Site Logo" id="Img-Logo" />
+        </div>
+        <div class="Caption">
+            <a id="Name" href="Home.html">Donkey's  Pages</a>
+        </div>
+        <div class="Pages">
+            <a class="Link" href="Register.html">Register</a>
+            <a class="Link" href="LogIn.html">LogIn</a>
+            <a class="Link" href="Admin.html">Admin</a>
+            <a class="Link" href="Home.html">Home</a>
+        </div>
+    </div>
+    <h1>This is the home page</h1>
+    <h3>Donkyes for sale</h3>
+</body>
+        </div>
+    </form>
+</body>
+</html>

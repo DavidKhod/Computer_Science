@@ -1,0 +1,7 @@
+D:\Computer science\Programs\C#\14_2\CircleTask\bin\Debug\CircleTask.exe.config
+D:\Computer science\Programs\C#\14_2\CircleTask\bin\Debug\CircleTask.exe
+D:\Computer science\Programs\C#\14_2\CircleTask\bin\Debug\CircleTask.pdb
+D:\Computer science\Programs\C#\14_2\CircleTask\obj\Debug\CircleTask.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\14_2\CircleTask\obj\Debug\CircleTask.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\14_2\CircleTask\obj\Debug\CircleTask.exe
+D:\Computer science\Programs\C#\14_2\CircleTask\obj\Debug\CircleTask.pdb

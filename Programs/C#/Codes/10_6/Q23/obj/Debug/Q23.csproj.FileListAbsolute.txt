@@ -1,0 +1,20 @@
+C:\Users\David\source\repos\10_6\Q23\bin\Debug\Q23.exe.config
+C:\Users\David\source\repos\10_6\Q23\bin\Debug\Q23.exe
+C:\Users\David\source\repos\10_6\Q23\bin\Debug\Q23.pdb
+C:\Users\David\source\repos\10_6\Q23\obj\Debug\Q23.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\10_6\Q23\obj\Debug\Q23.exe
+C:\Users\David\source\repos\10_6\Q23\obj\Debug\Q23.pdb
+F:\Computer science\Programs\C#\10_6\Q23\bin\Debug\Q23.exe.config
+F:\Computer science\Programs\C#\10_6\Q23\bin\Debug\Q23.exe
+F:\Computer science\Programs\C#\10_6\Q23\bin\Debug\Q23.pdb
+F:\Computer science\Programs\C#\10_6\Q23\obj\Debug\Q23.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\10_6\Q23\obj\Debug\Q23.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\10_6\Q23\obj\Debug\Q23.exe
+F:\Computer science\Programs\C#\10_6\Q23\obj\Debug\Q23.pdb
+D:\Computer science\Programs\C#\10_6\Q23\bin\Debug\Q23.exe.config
+D:\Computer science\Programs\C#\10_6\Q23\bin\Debug\Q23.exe
+D:\Computer science\Programs\C#\10_6\Q23\bin\Debug\Q23.pdb
+D:\Computer science\Programs\C#\10_6\Q23\obj\Debug\Q23.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\10_6\Q23\obj\Debug\Q23.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\10_6\Q23\obj\Debug\Q23.exe
+D:\Computer science\Programs\C#\10_6\Q23\obj\Debug\Q23.pdb

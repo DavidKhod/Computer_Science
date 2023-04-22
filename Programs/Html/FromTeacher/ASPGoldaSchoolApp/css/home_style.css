@@ -1,0 +1,9 @@
+﻿.home-container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: #c0392b;
+    color:#ffffff;
+    border:3px solid black;
+}

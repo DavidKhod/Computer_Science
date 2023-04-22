@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q1_Avg", "ConsoleApplication1\Q1_Avg.csproj", "{F964E0C0-E75D-44B6-8C1A-7484EC1AA60C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q2_ValExchange", "Q2\Q2_ValExchange.csproj", "{3E94C46B-06CA-4FC9-8FCF-C1524FD35686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q3_DiscountPrice", "Q3\Q3_DiscountPrice.csproj", "{F3D84526-FE49-4681-AC8A-71F73550CA8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F964E0C0-E75D-44B6-8C1A-7484EC1AA60C}.Debug|x86.ActiveCfg = Debug|x86
+		{F964E0C0-E75D-44B6-8C1A-7484EC1AA60C}.Debug|x86.Build.0 = Debug|x86
+		{F964E0C0-E75D-44B6-8C1A-7484EC1AA60C}.Release|x86.ActiveCfg = Release|x86
+		{F964E0C0-E75D-44B6-8C1A-7484EC1AA60C}.Release|x86.Build.0 = Release|x86
+		{3E94C46B-06CA-4FC9-8FCF-C1524FD35686}.Debug|x86.ActiveCfg = Debug|x86
+		{3E94C46B-06CA-4FC9-8FCF-C1524FD35686}.Debug|x86.Build.0 = Debug|x86
+		{3E94C46B-06CA-4FC9-8FCF-C1524FD35686}.Release|x86.ActiveCfg = Release|x86
+		{3E94C46B-06CA-4FC9-8FCF-C1524FD35686}.Release|x86.Build.0 = Release|x86
+		{F3D84526-FE49-4681-AC8A-71F73550CA8E}.Debug|x86.ActiveCfg = Debug|x86
+		{F3D84526-FE49-4681-AC8A-71F73550CA8E}.Debug|x86.Build.0 = Debug|x86
+		{F3D84526-FE49-4681-AC8A-71F73550CA8E}.Release|x86.ActiveCfg = Release|x86
+		{F3D84526-FE49-4681-AC8A-71F73550CA8E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35405685-141D-4B22-B6E1-47C86DC010B9}
+	EndGlobalSection
+EndGlobal

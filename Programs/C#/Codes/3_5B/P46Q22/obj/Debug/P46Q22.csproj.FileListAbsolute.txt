@@ -1,0 +1,13 @@
+F:\Computer science\Programs\C#\Codes\3_5B\P46Q22\bin\Debug\P46Q22.exe.config
+F:\Computer science\Programs\C#\Codes\3_5B\P46Q22\bin\Debug\P46Q22.exe
+F:\Computer science\Programs\C#\Codes\3_5B\P46Q22\bin\Debug\P46Q22.pdb
+F:\Computer science\Programs\C#\Codes\3_5B\P46Q22\obj\Debug\P46Q22.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\Codes\3_5B\P46Q22\obj\Debug\P46Q22.exe
+F:\Computer science\Programs\C#\Codes\3_5B\P46Q22\obj\Debug\P46Q22.pdb
+D:\Computer science\Programs\C#\Codes\3_5B\P46Q22\bin\Debug\P46Q22.exe.config
+D:\Computer science\Programs\C#\Codes\3_5B\P46Q22\bin\Debug\P46Q22.exe
+D:\Computer science\Programs\C#\Codes\3_5B\P46Q22\bin\Debug\P46Q22.pdb
+D:\Computer science\Programs\C#\Codes\3_5B\P46Q22\obj\Debug\P46Q22.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\Codes\3_5B\P46Q22\obj\Debug\P46Q22.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\Codes\3_5B\P46Q22\obj\Debug\P46Q22.exe
+D:\Computer science\Programs\C#\Codes\3_5B\P46Q22\obj\Debug\P46Q22.pdb

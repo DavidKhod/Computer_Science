@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My_first_bucket", "My_first_bucket\My_first_bucket.csproj", "{064E1BB2-B637-44FB-B246-48AC97413EC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{064E1BB2-B637-44FB-B246-48AC97413EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{064E1BB2-B637-44FB-B246-48AC97413EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{064E1BB2-B637-44FB-B246-48AC97413EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{064E1BB2-B637-44FB-B246-48AC97413EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27E6EE85-A34C-4793-B550-F2D288905B09}
+	EndGlobalSection
+EndGlobal

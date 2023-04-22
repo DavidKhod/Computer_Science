@@ -1,0 +1,6 @@
+F:\Computer science\עבודות\stTens\NB1CH7_stTens\bin\Debug\NB1CH7_stTens.exe
+F:\Computer science\עבודות\stTens\NB1CH7_stTens\bin\Debug\NB1CH7_stTens.pdb
+F:\Computer science\עבודות\stTens\NB1CH7_stTens\obj\x86\Debug\NB1CH7_stTens.csproj.CoreCompileInputs.cache
+F:\Computer science\עבודות\stTens\NB1CH7_stTens\obj\x86\Debug\NB1CH7_stTens.exe
+F:\Computer science\עבודות\stTens\NB1CH7_stTens\obj\x86\Debug\NB1CH7_stTens.pdb
+F:\Computer science\עבודות\stTens\NB1CH7_stTens\obj\x86\Debug\NB1CH7_stTens.csproj.AssemblyReference.cache

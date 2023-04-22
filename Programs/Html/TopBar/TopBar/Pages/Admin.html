@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Admin Page</title>
+    <link href="../Style/TopBar.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="NavBar" id="NavBar">
+        <div class="Logo">
+            <img src="../Img/Donkey-06.jpg" width="50" height="50" alt="Site Logo" id="Img-Logo" />
+        </div>
+        <div class="Caption">
+            <a id="Name" href="Home.html">Donkey's Pages</a>
+        </div>
+        <div class="Pages">
+            <a class="Link" href="Register.html">Register</a>
+            <a class="Link" href="LogIn.html">LogIn</a>
+            <a class="Link" href="Admin.html">Admin</a>
+            <a class="Link" href="Home.html">Home</a>
+        </div>
+    </div>
+    <h1>This is the admin page</h1>
+    If you have any issues please contacs us
+    <br />
+    Fill out this form and we'll contacs you as soon as we will fix the problem
+    <form action="names.html">
+        <fieldset>
+            <legend>:</legend>
+            <label for="fname">First name:</label>
+            <input type="text" id="fname" name="fname" required><br><br>
+            <label for="lname">Last name:</label>
+            <input type="text" id="lname" name="lname" required><br><br>
+            <label for="Imail">Email:</label>
+            <input type="Text" id="Imail" name="Imail" required /><br><br>
+            <br />
+            <br />
+            <label for="txt_area">Write Your Text Here</label>
+            <br />
+            <textarea id="txt-area" name="txt_area" rows="10" cols="30"></textarea>
+            <br />
+            <br />
+            <input type="submit" value="Submit">
+        </fieldset>
+    </form>
+</body>
+</html>

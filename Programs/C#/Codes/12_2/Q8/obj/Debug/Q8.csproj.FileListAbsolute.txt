@@ -1,0 +1,14 @@
+D:\Computer science\Programs\C#\12_2\Q8\bin\Debug\Q8.exe.config
+D:\Computer science\Programs\C#\12_2\Q8\bin\Debug\Q8.exe
+D:\Computer science\Programs\C#\12_2\Q8\bin\Debug\Q8.pdb
+D:\Computer science\Programs\C#\12_2\Q8\obj\Debug\Q8.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\12_2\Q8\obj\Debug\Q8.exe
+D:\Computer science\Programs\C#\12_2\Q8\obj\Debug\Q8.pdb
+F:\Computer science\Programs\C#\12_2\Q8\bin\Debug\Q8.exe.config
+F:\Computer science\Programs\C#\12_2\Q8\bin\Debug\Q8.exe
+F:\Computer science\Programs\C#\12_2\Q8\bin\Debug\Q8.pdb
+F:\Computer science\Programs\C#\12_2\Q8\obj\Debug\Q8.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\12_2\Q8\obj\Debug\Q8.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\12_2\Q8\obj\Debug\Q8.exe
+F:\Computer science\Programs\C#\12_2\Q8\obj\Debug\Q8.pdb
+D:\Computer science\Programs\C#\12_2\Q8\obj\Debug\Q8.csproj.AssemblyReference.cache

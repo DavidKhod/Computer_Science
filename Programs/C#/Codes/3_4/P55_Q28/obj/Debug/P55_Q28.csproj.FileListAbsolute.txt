@@ -1,0 +1,14 @@
+F:\Computer science\Programs\C#\Codes\3_4\P55_Q28\bin\Debug\P55_Q28.exe.config
+F:\Computer science\Programs\C#\Codes\3_4\P55_Q28\bin\Debug\P55_Q28.exe
+F:\Computer science\Programs\C#\Codes\3_4\P55_Q28\bin\Debug\P55_Q28.pdb
+F:\Computer science\Programs\C#\Codes\3_4\P55_Q28\obj\Debug\P55_Q28.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\Codes\3_4\P55_Q28\obj\Debug\P55_Q28.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\Codes\3_4\P55_Q28\obj\Debug\P55_Q28.exe
+F:\Computer science\Programs\C#\Codes\3_4\P55_Q28\obj\Debug\P55_Q28.pdb
+D:\Computer science\Programs\C#\Codes\3_4\P55_Q28\bin\Debug\P55_Q28.exe.config
+D:\Computer science\Programs\C#\Codes\3_4\P55_Q28\bin\Debug\P55_Q28.exe
+D:\Computer science\Programs\C#\Codes\3_4\P55_Q28\bin\Debug\P55_Q28.pdb
+D:\Computer science\Programs\C#\Codes\3_4\P55_Q28\obj\Debug\P55_Q28.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\Codes\3_4\P55_Q28\obj\Debug\P55_Q28.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\Codes\3_4\P55_Q28\obj\Debug\P55_Q28.exe
+D:\Computer science\Programs\C#\Codes\3_4\P55_Q28\obj\Debug\P55_Q28.pdb

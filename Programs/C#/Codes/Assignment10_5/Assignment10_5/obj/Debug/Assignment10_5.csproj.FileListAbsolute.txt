@@ -1,0 +1,7 @@
+D:\Computer science\Programs\C#\Assignment10_5\Assignment10_5\bin\Debug\Assignment10_5.exe.config
+D:\Computer science\Programs\C#\Assignment10_5\Assignment10_5\bin\Debug\Assignment10_5.exe
+D:\Computer science\Programs\C#\Assignment10_5\Assignment10_5\bin\Debug\Assignment10_5.pdb
+D:\Computer science\Programs\C#\Assignment10_5\Assignment10_5\obj\Debug\Assignment10_5.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\Assignment10_5\Assignment10_5\obj\Debug\Assignment10_5.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\Assignment10_5\Assignment10_5\obj\Debug\Assignment10_5.exe
+D:\Computer science\Programs\C#\Assignment10_5\Assignment10_5\obj\Debug\Assignment10_5.pdb

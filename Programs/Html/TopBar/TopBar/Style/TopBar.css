@@ -1,0 +1,54 @@
+﻿* {
+    margin:0;
+    padding:0;
+}
+.NavBar {
+    background-image: linear-gradient(to bottom right, red, yellow);
+    height: 70px;
+    margin-top: 0;
+}
+.Logo {
+    float:left;
+    width:40px;
+    height:40px;
+    margin-left:40px;
+    margin-top:10px;
+}
+#Img-Logo{
+    border-radius: 50%;
+}
+.Caption {
+    float: left;
+    margin-left: 15px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Pages{
+    float:right;
+    margin-right:40px;
+    margin-top:20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:x-large;
+    text-decoration:none;
+        
+}
+.link {
+    float: right;
+    margin-left: 30px;
+    text-decoration: none;
+    color: antiquewhite;
+}
+a:hover {
+    color: burlywood;
+}
+#Name {
+    text-decoration: none;
+    color: red;
+}
+
+
+
+
+
+

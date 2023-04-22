@@ -1,0 +1,7 @@
+F:\Computer science\Programs\C#\Codes\CompObject\CompObject\bin\Debug\CompObject.exe.config
+F:\Computer science\Programs\C#\Codes\CompObject\CompObject\bin\Debug\CompObject.exe
+F:\Computer science\Programs\C#\Codes\CompObject\CompObject\bin\Debug\CompObject.pdb
+F:\Computer science\Programs\C#\Codes\CompObject\CompObject\obj\Debug\CompObject.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\Codes\CompObject\CompObject\obj\Debug\CompObject.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\Codes\CompObject\CompObject\obj\Debug\CompObject.exe
+F:\Computer science\Programs\C#\Codes\CompObject\CompObject\obj\Debug\CompObject.pdb

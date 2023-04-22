@@ -1,0 +1,7 @@
+F:\HeadAngle\HeadAngle\obj\Debug\HeadAngle.csproj.AssemblyReference.cache
+F:\HeadAngle\HeadAngle\obj\Debug\HeadAngle.csproj.CoreCompileInputs.cache
+F:\HeadAngle\HeadAngle\bin\Debug\HeadAngle.exe.config
+F:\HeadAngle\HeadAngle\bin\Debug\HeadAngle.exe
+F:\HeadAngle\HeadAngle\bin\Debug\HeadAngle.pdb
+F:\HeadAngle\HeadAngle\obj\Debug\HeadAngle.exe
+F:\HeadAngle\HeadAngle\obj\Debug\HeadAngle.pdb

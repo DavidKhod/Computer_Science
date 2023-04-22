@@ -1,0 +1,14 @@
+F:\Computer science\Programs\C#\Codes\LearningForExam_12_3_23\LearningForExam_12_3_23\bin\Debug\LearningForExam_12_3_23.exe.config
+F:\Computer science\Programs\C#\Codes\LearningForExam_12_3_23\LearningForExam_12_3_23\bin\Debug\LearningForExam_12_3_23.exe
+F:\Computer science\Programs\C#\Codes\LearningForExam_12_3_23\LearningForExam_12_3_23\bin\Debug\LearningForExam_12_3_23.pdb
+F:\Computer science\Programs\C#\Codes\LearningForExam_12_3_23\LearningForExam_12_3_23\obj\Debug\LearningForExam_12_3_23.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\Codes\LearningForExam_12_3_23\LearningForExam_12_3_23\obj\Debug\LearningForExam_12_3_23.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\Codes\LearningForExam_12_3_23\LearningForExam_12_3_23\obj\Debug\LearningForExam_12_3_23.exe
+F:\Computer science\Programs\C#\Codes\LearningForExam_12_3_23\LearningForExam_12_3_23\obj\Debug\LearningForExam_12_3_23.pdb
+D:\Computer science\Programs\C#\Codes\LearningForExam_12_3_23\LearningForExam_12_3_23\bin\Debug\LearningForExam_12_3_23.exe.config
+D:\Computer science\Programs\C#\Codes\LearningForExam_12_3_23\LearningForExam_12_3_23\bin\Debug\LearningForExam_12_3_23.exe
+D:\Computer science\Programs\C#\Codes\LearningForExam_12_3_23\LearningForExam_12_3_23\bin\Debug\LearningForExam_12_3_23.pdb
+D:\Computer science\Programs\C#\Codes\LearningForExam_12_3_23\LearningForExam_12_3_23\obj\Debug\LearningForExam_12_3_23.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\Codes\LearningForExam_12_3_23\LearningForExam_12_3_23\obj\Debug\LearningForExam_12_3_23.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\Codes\LearningForExam_12_3_23\LearningForExam_12_3_23\obj\Debug\LearningForExam_12_3_23.exe
+D:\Computer science\Programs\C#\Codes\LearningForExam_12_3_23\LearningForExam_12_3_23\obj\Debug\LearningForExam_12_3_23.pdb

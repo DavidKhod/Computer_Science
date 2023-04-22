@@ -1,0 +1,14 @@
+F:\Computer science\Programs\C#\Codes\3_4\P55Q30\bin\Debug\P55Q30.exe.config
+F:\Computer science\Programs\C#\Codes\3_4\P55Q30\bin\Debug\P55Q30.exe
+F:\Computer science\Programs\C#\Codes\3_4\P55Q30\bin\Debug\P55Q30.pdb
+F:\Computer science\Programs\C#\Codes\3_4\P55Q30\obj\Debug\P55Q30.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\Codes\3_4\P55Q30\obj\Debug\P55Q30.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\Codes\3_4\P55Q30\obj\Debug\P55Q30.exe
+F:\Computer science\Programs\C#\Codes\3_4\P55Q30\obj\Debug\P55Q30.pdb
+D:\Computer science\Programs\C#\Codes\3_4\P55Q30\bin\Debug\P55Q30.exe.config
+D:\Computer science\Programs\C#\Codes\3_4\P55Q30\bin\Debug\P55Q30.exe
+D:\Computer science\Programs\C#\Codes\3_4\P55Q30\bin\Debug\P55Q30.pdb
+D:\Computer science\Programs\C#\Codes\3_4\P55Q30\obj\Debug\P55Q30.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\Codes\3_4\P55Q30\obj\Debug\P55Q30.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\Codes\3_4\P55Q30\obj\Debug\P55Q30.exe
+D:\Computer science\Programs\C#\Codes\3_4\P55Q30\obj\Debug\P55Q30.pdb

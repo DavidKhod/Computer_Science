@@ -1,0 +1,6 @@
+F:\Computer science\עבודות\NB1CH6-st1-evenOdd\NB1CH6-st1\bin\Debug\NB1CH6-st1.exe
+F:\Computer science\עבודות\NB1CH6-st1-evenOdd\NB1CH6-st1\bin\Debug\NB1CH6-st1.pdb
+F:\Computer science\עבודות\NB1CH6-st1-evenOdd\NB1CH6-st1\obj\x86\Debug\NB1CH6-st1.csproj.AssemblyReference.cache
+F:\Computer science\עבודות\NB1CH6-st1-evenOdd\NB1CH6-st1\obj\x86\Debug\NB1CH6-st1.csproj.CoreCompileInputs.cache
+F:\Computer science\עבודות\NB1CH6-st1-evenOdd\NB1CH6-st1\obj\x86\Debug\NB1CH6-st1.exe
+F:\Computer science\עבודות\NB1CH6-st1-evenOdd\NB1CH6-st1\obj\x86\Debug\NB1CH6-st1.pdb

@@ -1,0 +1,6 @@
+F:\Computer science\Programs\C#\3_3\P47Q19\obj\Debug\P47Q19.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\3_3\P47Q19\bin\Debug\P47Q19.exe.config
+F:\Computer science\Programs\C#\3_3\P47Q19\bin\Debug\P47Q19.exe
+F:\Computer science\Programs\C#\3_3\P47Q19\bin\Debug\P47Q19.pdb
+F:\Computer science\Programs\C#\3_3\P47Q19\obj\Debug\P47Q19.exe
+F:\Computer science\Programs\C#\3_3\P47Q19\obj\Debug\P47Q19.pdb

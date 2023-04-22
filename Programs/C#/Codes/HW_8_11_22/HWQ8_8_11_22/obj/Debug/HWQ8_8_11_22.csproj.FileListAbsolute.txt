@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\HW_8_11_22\HWQ8_8_11_22\bin\Debug\HWQ8_8_11_22.exe.config
+C:\Users\David\source\repos\HW_8_11_22\HWQ8_8_11_22\bin\Debug\HWQ8_8_11_22.exe
+C:\Users\David\source\repos\HW_8_11_22\HWQ8_8_11_22\bin\Debug\HWQ8_8_11_22.pdb
+C:\Users\David\source\repos\HW_8_11_22\HWQ8_8_11_22\obj\Debug\HWQ8_8_11_22.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\HW_8_11_22\HWQ8_8_11_22\obj\Debug\HWQ8_8_11_22.exe
+C:\Users\David\source\repos\HW_8_11_22\HWQ8_8_11_22\obj\Debug\HWQ8_8_11_22.pdb

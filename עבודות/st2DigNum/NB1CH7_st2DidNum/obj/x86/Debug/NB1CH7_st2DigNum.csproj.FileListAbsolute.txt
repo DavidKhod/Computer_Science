@@ -1,0 +1,6 @@
+F:\Computer science\עבודות\st2DigNum\NB1CH7_st2DidNum\bin\Debug\NB1CH7_st2DidNum.exe
+F:\Computer science\עבודות\st2DigNum\NB1CH7_st2DidNum\bin\Debug\NB1CH7_st2DidNum.pdb
+F:\Computer science\עבודות\st2DigNum\NB1CH7_st2DidNum\obj\x86\Debug\NB1CH7_st2DigNum.csproj.AssemblyReference.cache
+F:\Computer science\עבודות\st2DigNum\NB1CH7_st2DidNum\obj\x86\Debug\NB1CH7_st2DigNum.csproj.CoreCompileInputs.cache
+F:\Computer science\עבודות\st2DigNum\NB1CH7_st2DidNum\obj\x86\Debug\NB1CH7_st2DidNum.exe
+F:\Computer science\עבודות\st2DigNum\NB1CH7_st2DidNum\obj\x86\Debug\NB1CH7_st2DidNum.pdb

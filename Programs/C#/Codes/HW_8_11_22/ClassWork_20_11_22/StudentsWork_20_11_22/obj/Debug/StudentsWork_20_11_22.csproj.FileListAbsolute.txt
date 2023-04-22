@@ -1,0 +1,9 @@
+C:\Users\David\source\repos\ClassWork_20_11_22\StudentsWork_20_11_22\bin\Debug\StudentsWork_20_11_22.exe.config
+C:\Users\David\source\repos\ClassWork_20_11_22\StudentsWork_20_11_22\bin\Debug\StudentsWork_20_11_22.exe
+C:\Users\David\source\repos\ClassWork_20_11_22\StudentsWork_20_11_22\bin\Debug\StudentsWork_20_11_22.pdb
+C:\Users\David\source\repos\ClassWork_20_11_22\StudentsWork_20_11_22\bin\Debug\ObjFirstMbt1.dll
+C:\Users\David\source\repos\ClassWork_20_11_22\StudentsWork_20_11_22\obj\Debug\StudentsWork_20_11_22.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ClassWork_20_11_22\StudentsWork_20_11_22\obj\Debug\StudentsWork_20_11_22.csproj.CopyComplete
+C:\Users\David\source\repos\ClassWork_20_11_22\StudentsWork_20_11_22\obj\Debug\StudentsWork_20_11_22.exe
+C:\Users\David\source\repos\ClassWork_20_11_22\StudentsWork_20_11_22\obj\Debug\StudentsWork_20_11_22.pdb
+C:\Users\David\source\repos\ClassWork_20_11_22\StudentsWork_20_11_22\obj\Debug\StudentsWork_20_11_22.csproj.AssemblyReference.cache

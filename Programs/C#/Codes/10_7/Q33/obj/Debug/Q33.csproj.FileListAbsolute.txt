@@ -1,0 +1,14 @@
+F:\Computer science\Programs\C#\10_7\Q33\bin\Debug\Q33.exe.config
+F:\Computer science\Programs\C#\10_7\Q33\bin\Debug\Q33.exe
+F:\Computer science\Programs\C#\10_7\Q33\bin\Debug\Q33.pdb
+F:\Computer science\Programs\C#\10_7\Q33\obj\Debug\Q33.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\10_7\Q33\obj\Debug\Q33.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\10_7\Q33\obj\Debug\Q33.exe
+F:\Computer science\Programs\C#\10_7\Q33\obj\Debug\Q33.pdb
+D:\Computer science\Programs\C#\10_7\Q33\bin\Debug\Q33.exe.config
+D:\Computer science\Programs\C#\10_7\Q33\bin\Debug\Q33.exe
+D:\Computer science\Programs\C#\10_7\Q33\bin\Debug\Q33.pdb
+D:\Computer science\Programs\C#\10_7\Q33\obj\Debug\Q33.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\10_7\Q33\obj\Debug\Q33.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\10_7\Q33\obj\Debug\Q33.exe
+D:\Computer science\Programs\C#\10_7\Q33\obj\Debug\Q33.pdb

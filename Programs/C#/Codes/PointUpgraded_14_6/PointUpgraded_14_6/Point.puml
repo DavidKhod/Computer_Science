@@ -1,0 +1,20 @@
+﻿@startuml
+'' Point
+class Point{
+	{field}double x
+	{field}double y
+	{field}Int sn(serial number)
+	{method}PointCounter
+	{method}Point(double x, double y)
+	{method}double GetX()
+	{method}double GetY()
+	{method}double GetSN()
+	{method}SetX(double x)
+	{method}SetY(double y)
+	{method}double Distance(Point other)
+	{method}Point Middle(Point other)
+	{method}override string ToString()
+}
+
+
+@enduml

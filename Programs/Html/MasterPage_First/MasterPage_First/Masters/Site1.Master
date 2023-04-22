@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="MasterPage_First.Masters.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+             <div class="NavBar" id="NavBar">
+        <div class="Logo">
+            <img src="../Pictures/Donkey-06.jpg"  width="50" height="50" alt="Site Logo" id="Img-Logo"  />
+        </div>
+        <div class="Caption">
+            <a id="Name" href="Home.html">Donkey's  Pages</a>
+        </div>
+        <div class="Pages">
+            <a class="Link" href="Register.html">Register</a>
+            <a class="Link" href="LogIn.html">LogIn</a>
+            <a class="Link" href="Admin.html">Admin</a>
+            <a class="Link" href="Home.html">Home</a>
+        </div>
+    </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

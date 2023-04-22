@@ -1,0 +1,6 @@
+F:\Computer science\Programs\C#\GoingUpGoingDown\Rectangle_30_9_22\bin\Debug\Rectangle_30_9_22.exe.config
+F:\Computer science\Programs\C#\GoingUpGoingDown\Rectangle_30_9_22\bin\Debug\Rectangle_30_9_22.exe
+F:\Computer science\Programs\C#\GoingUpGoingDown\Rectangle_30_9_22\bin\Debug\Rectangle_30_9_22.pdb
+F:\Computer science\Programs\C#\GoingUpGoingDown\Rectangle_30_9_22\obj\Debug\Rectangle_30_9_22.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\GoingUpGoingDown\Rectangle_30_9_22\obj\Debug\Rectangle_30_9_22.exe
+F:\Computer science\Programs\C#\GoingUpGoingDown\Rectangle_30_9_22\obj\Debug\Rectangle_30_9_22.pdb

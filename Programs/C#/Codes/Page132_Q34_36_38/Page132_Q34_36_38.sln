@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Page132_Q34_36_38", "Page132_Q34_36_38\Page132_Q34_36_38.csproj", "{DACE954C-FEB3-49F7-84FE-4AA653FAE9F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q36", "Q36\Q36.csproj", "{80EC29A0-49EA-46B9-B636-6DB500C7F563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q38", "Q38\Q38.csproj", "{3473B2CF-C370-4D23-86D4-7C19C9D3BF46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DACE954C-FEB3-49F7-84FE-4AA653FAE9F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACE954C-FEB3-49F7-84FE-4AA653FAE9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACE954C-FEB3-49F7-84FE-4AA653FAE9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACE954C-FEB3-49F7-84FE-4AA653FAE9F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80EC29A0-49EA-46B9-B636-6DB500C7F563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EC29A0-49EA-46B9-B636-6DB500C7F563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EC29A0-49EA-46B9-B636-6DB500C7F563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EC29A0-49EA-46B9-B636-6DB500C7F563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3473B2CF-C370-4D23-86D4-7C19C9D3BF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3473B2CF-C370-4D23-86D4-7C19C9D3BF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3473B2CF-C370-4D23-86D4-7C19C9D3BF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3473B2CF-C370-4D23-86D4-7C19C9D3BF46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58CEF772-22B3-4C75-BB3E-1752AB59CACF}
+	EndGlobalSection
+EndGlobal

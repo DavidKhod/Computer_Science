@@ -1,0 +1,7 @@
+F:\Computer science\Programs\C#\Codes\3_7\P69Q44\bin\Debug\P69Q44.exe.config
+F:\Computer science\Programs\C#\Codes\3_7\P69Q44\bin\Debug\P69Q44.exe
+F:\Computer science\Programs\C#\Codes\3_7\P69Q44\bin\Debug\P69Q44.pdb
+F:\Computer science\Programs\C#\Codes\3_7\P69Q44\obj\Debug\P69Q44.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\Codes\3_7\P69Q44\obj\Debug\P69Q44.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\Codes\3_7\P69Q44\obj\Debug\P69Q44.exe
+F:\Computer science\Programs\C#\Codes\3_7\P69Q44\obj\Debug\P69Q44.pdb

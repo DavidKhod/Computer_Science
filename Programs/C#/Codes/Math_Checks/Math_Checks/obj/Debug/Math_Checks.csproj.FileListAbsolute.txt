@@ -1,0 +1,7 @@
+F:\Computer science\Programs\C#\Math_Checks\Math_Checks\obj\Debug\Math_Checks.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\Math_Checks\Math_Checks\obj\Debug\Math_Checks.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\Math_Checks\Math_Checks\bin\Debug\Math_Checks.exe.config
+F:\Computer science\Programs\C#\Math_Checks\Math_Checks\bin\Debug\Math_Checks.exe
+F:\Computer science\Programs\C#\Math_Checks\Math_Checks\bin\Debug\Math_Checks.pdb
+F:\Computer science\Programs\C#\Math_Checks\Math_Checks\obj\Debug\Math_Checks.exe
+F:\Computer science\Programs\C#\Math_Checks\Math_Checks\obj\Debug\Math_Checks.pdb

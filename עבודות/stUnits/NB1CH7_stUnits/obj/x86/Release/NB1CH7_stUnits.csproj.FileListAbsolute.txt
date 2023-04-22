@@ -1,0 +1,12 @@
+G:\0 - תשעז\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 7 - מנה ושארית והספריה המתמטית\תרגול עצמי\NB1CH7_stUnits\NB1CH7_stUnits\bin\Release\NB1CH7_stUnits.exe
+G:\0 - תשעז\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 7 - מנה ושארית והספריה המתמטית\תרגול עצמי\NB1CH7_stUnits\NB1CH7_stUnits\bin\Release\NB1CH7_stUnits.pdb
+G:\0 - תשעז\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 7 - מנה ושארית והספריה המתמטית\תרגול עצמי\NB1CH7_stUnits\NB1CH7_stUnits\obj\x86\Release\NB1CH7_stUnits.exe
+G:\0 - תשעז\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 7 - מנה ושארית והספריה המתמטית\תרגול עצמי\NB1CH7_stUnits\NB1CH7_stUnits\obj\x86\Release\NB1CH7_stUnits.pdb
+E:\Z תשף\י הנדסת תוכנה\יסודות מדעי המחשב 1\פרק 7 - מנה ושארית חילוק\קבצי תרגילים\NB1CH7_stUnits\NB1CH7_stUnits\obj\x86\Release\NB1CH7_stUnits.exe
+E:\Z תשף\י הנדסת תוכנה\יסודות מדעי המחשב 1\פרק 7 - מנה ושארית חילוק\קבצי תרגילים\NB1CH7_stUnits\NB1CH7_stUnits\obj\x86\Release\NB1CH7_stUnits.pdb
+F:\Computer science\עבודות\stUnits\NB1CH7_stUnits\bin\Release\NB1CH7_stUnits.exe
+F:\Computer science\עבודות\stUnits\NB1CH7_stUnits\bin\Release\NB1CH7_stUnits.pdb
+F:\Computer science\עבודות\stUnits\NB1CH7_stUnits\obj\x86\Release\NB1CH7_stUnits.csproj.AssemblyReference.cache
+F:\Computer science\עבודות\stUnits\NB1CH7_stUnits\obj\x86\Release\NB1CH7_stUnits.csproj.CoreCompileInputs.cache
+F:\Computer science\עבודות\stUnits\NB1CH7_stUnits\obj\x86\Release\NB1CH7_stUnits.exe
+F:\Computer science\עבודות\stUnits\NB1CH7_stUnits\obj\x86\Release\NB1CH7_stUnits.pdb

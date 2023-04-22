@@ -1,0 +1,40 @@
+﻿body {
+    background: #ff00c8;
+    text-align: center;
+    text-decoration-style: double;
+    color:darkblue;
+    font-size: x-large;
+    font-style:italic;
+    font-weight:100;
+    font-weight:bold;
+    /*background gradiand*/
+  /*  background-image:linear-gradient(blue,yellow,red,aqua);*/
+    /*repeating gradiand*/
+   /* background-image:repeating-linear-gradient(green 50%,blue 50%);*/
+    background-image: linear-gradient(to right,orange,yellow,green,blue,indigo,violet);
+    text-shadow:2px 2px yellow;
+        
+}
+
+#SendBtn {
+    background: #45e417;
+    width:90px;
+    height:69px;
+    font-size:xx-large;
+    border-radius:15px;
+
+}
+#FnTB{
+    background:#d9ef11;
+    font:#45e417;
+    border-radius:25px;
+}
+#FnT{
+    border-radius:15px;
+}
+#Lnt{
+    background:#f37c09;
+}
+
+
+

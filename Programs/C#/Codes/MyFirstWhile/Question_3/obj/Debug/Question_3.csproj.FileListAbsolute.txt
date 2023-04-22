@@ -1,0 +1,6 @@
+D:\Computer science\Programs\C#\MyFirstWhile\Question_3\bin\Debug\Question_3.exe.config
+D:\Computer science\Programs\C#\MyFirstWhile\Question_3\bin\Debug\Question_3.exe
+D:\Computer science\Programs\C#\MyFirstWhile\Question_3\bin\Debug\Question_3.pdb
+D:\Computer science\Programs\C#\MyFirstWhile\Question_3\obj\Debug\Question_3.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\MyFirstWhile\Question_3\obj\Debug\Question_3.exe
+D:\Computer science\Programs\C#\MyFirstWhile\Question_3\obj\Debug\Question_3.pdb

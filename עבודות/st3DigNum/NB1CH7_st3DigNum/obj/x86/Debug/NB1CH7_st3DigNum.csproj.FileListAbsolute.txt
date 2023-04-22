@@ -1,0 +1,6 @@
+F:\Computer science\עבודות\st3DigNum\NB1CH7_st3DigNum\bin\Debug\NB1CH7_st3DigNum.exe
+F:\Computer science\עבודות\st3DigNum\NB1CH7_st3DigNum\bin\Debug\NB1CH7_st3DigNum.pdb
+F:\Computer science\עבודות\st3DigNum\NB1CH7_st3DigNum\obj\x86\Debug\NB1CH7_st3DigNum.csproj.AssemblyReference.cache
+F:\Computer science\עבודות\st3DigNum\NB1CH7_st3DigNum\obj\x86\Debug\NB1CH7_st3DigNum.csproj.CoreCompileInputs.cache
+F:\Computer science\עבודות\st3DigNum\NB1CH7_st3DigNum\obj\x86\Debug\NB1CH7_st3DigNum.exe
+F:\Computer science\עבודות\st3DigNum\NB1CH7_st3DigNum\obj\x86\Debug\NB1CH7_st3DigNum.pdb

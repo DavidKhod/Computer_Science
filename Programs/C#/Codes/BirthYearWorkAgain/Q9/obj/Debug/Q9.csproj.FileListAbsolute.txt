@@ -1,0 +1,7 @@
+F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\Q9\bin\Debug\Q9.exe.config
+F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\Q9\bin\Debug\Q9.exe
+F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\Q9\bin\Debug\Q9.pdb
+F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\Q9\obj\Debug\Q9.csproj.AssemblyReference.cache
+F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\Q9\obj\Debug\Q9.csproj.CoreCompileInputs.cache
+F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\Q9\obj\Debug\Q9.exe
+F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\Q9\obj\Debug\Q9.pdb

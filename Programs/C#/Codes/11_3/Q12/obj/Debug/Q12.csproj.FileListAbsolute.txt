@@ -1,0 +1,7 @@
+F:\Computer science\Programs\C#\11_3\Q12\bin\Debug\Q12.exe.config
+F:\Computer science\Programs\C#\11_3\Q12\bin\Debug\Q12.exe
+F:\Computer science\Programs\C#\11_3\Q12\bin\Debug\Q12.pdb
+F:\Computer science\Programs\C#\11_3\Q12\obj\Debug\Q12.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\11_3\Q12\obj\Debug\Q12.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\11_3\Q12\obj\Debug\Q12.exe
+F:\Computer science\Programs\C#\11_3\Q12\obj\Debug\Q12.pdb

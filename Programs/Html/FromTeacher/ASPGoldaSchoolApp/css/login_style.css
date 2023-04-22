@@ -1,0 +1,39 @@
+﻿.login-form {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 3px solid #161d1e;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+.btn-login {
+    width: 170px;
+    height: 30px;
+    background: #2ecc71;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.login-container {
+    margin-top:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+    height:220px;
+   
+}
+
+.errMsg {
+    color: red;
+    font-size: 19px;
+}
+
+
+.error-container {
+    margin-top: 125px;
+   
+}

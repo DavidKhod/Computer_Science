@@ -1,0 +1,7 @@
+D:\Computer science\Programs\C#\3_1B2\P44Q7\bin\Debug\P44Q7.exe.config
+D:\Computer science\Programs\C#\3_1B2\P44Q7\bin\Debug\P44Q7.exe
+D:\Computer science\Programs\C#\3_1B2\P44Q7\bin\Debug\P44Q7.pdb
+D:\Computer science\Programs\C#\3_1B2\P44Q7\obj\Debug\P44Q7.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\3_1B2\P44Q7\obj\Debug\P44Q7.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\3_1B2\P44Q7\obj\Debug\P44Q7.exe
+D:\Computer science\Programs\C#\3_1B2\P44Q7\obj\Debug\P44Q7.pdb

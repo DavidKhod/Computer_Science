@@ -1,0 +1,16 @@
+﻿@startuml
+'' Rational
+Class Rational{
+	{field}Private int x
+	{field}Private int y
+	{method}Rational(int x, int y)
+	{method}int GetNumerator()
+	{method}int GetDenominator()
+	{method}bool IsEqual(Rational other)
+	{method}Rational Multiply(Rational other)
+	{method}Rational Divide(Rational other)
+	{method}override string ToString()
+	{method}Rational Plus(Rational other)
+	{method}Rational Minus (Rational other)
+}
+@enduml

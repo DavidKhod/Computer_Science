@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\P117Q10to13_28_11_22\P117Q10to13_28_11_22\bin\Debug\P117Q10to13_28_11_22.exe.config
+C:\Users\David\source\repos\P117Q10to13_28_11_22\P117Q10to13_28_11_22\bin\Debug\P117Q10to13_28_11_22.exe
+C:\Users\David\source\repos\P117Q10to13_28_11_22\P117Q10to13_28_11_22\bin\Debug\P117Q10to13_28_11_22.pdb
+C:\Users\David\source\repos\P117Q10to13_28_11_22\P117Q10to13_28_11_22\obj\Debug\P117Q10to13_28_11_22.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\P117Q10to13_28_11_22\P117Q10to13_28_11_22\obj\Debug\P117Q10to13_28_11_22.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\P117Q10to13_28_11_22\P117Q10to13_28_11_22\obj\Debug\P117Q10to13_28_11_22.exe
+C:\Users\David\source\repos\P117Q10to13_28_11_22\P117Q10to13_28_11_22\obj\Debug\P117Q10to13_28_11_22.pdb

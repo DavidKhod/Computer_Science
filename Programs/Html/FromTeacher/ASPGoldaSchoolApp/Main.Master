@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="ASPGoldaSchoolApp.Main" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="css/style.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+         <div class="navbar"  id="navbar">
+            <div class="logo">
+                <img src="../img/pizza_logo.png" width="40" height="40" alt="site logo" id="img-logo" />
+            </div>
+            <div class="caption">
+               <a id="name" href="home.html">Pizza's Pages</a>  
+            </div>
+            <a class="link" href="~/PagesWithMasterPage/RegisterPage.aspx" id="register" runat="server">Register</a>
+            <a class="link" href="~/PagesWithMasterPage/LoginPage.aspx" id="login" runat="server">Login</a>
+            <a class="link" href="~/PagesWithMasterPage/LogoutPage.aspx" id="logout" runat="server">Logout</a>
+            <a class="link" href="HomePage.aspx">Home</a>
+            <a class="link" href="~/PagesWithMasterPage/AdminPage.aspx" id="admin" runat="server">Admin</a>
+        </div>
+        <br />
+        <br />
+      
+        <div>
+            <p style="width: 20%; color: #34495e; font-size: 25px;" class="wellcome-text"><%="Wellcome " + Session["UserName"] %> </p>
+            <div class="registrationTxt">
+                <p id="registrationTxt" runat="server">Please Register to See Other Pages and Back to Home Page for Navigation</p>
+            </div>
+        </div>
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,7 @@
+F:\Computer science\Programs\C#\P85_HM\P85_HM\bin\Debug\P85_HM.exe.config
+F:\Computer science\Programs\C#\P85_HM\P85_HM\bin\Debug\P85_HM.exe
+F:\Computer science\Programs\C#\P85_HM\P85_HM\bin\Debug\P85_HM.pdb
+F:\Computer science\Programs\C#\P85_HM\P85_HM\obj\Debug\P85_HM.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\P85_HM\P85_HM\obj\Debug\P85_HM.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\P85_HM\P85_HM\obj\Debug\P85_HM.exe
+F:\Computer science\Programs\C#\P85_HM\P85_HM\obj\Debug\P85_HM.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominosClass", "DominosClass\DominosClass.csproj", "{DBA48A63-2BEE-49EB-98DE-CED98E88B838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSeriesClass", "MathSeriesClass\MathSeriesClass.csproj", "{B7122AA7-6971-43CE-A258-7CEBBBDE6781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA48A63-2BEE-49EB-98DE-CED98E88B838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA48A63-2BEE-49EB-98DE-CED98E88B838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA48A63-2BEE-49EB-98DE-CED98E88B838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA48A63-2BEE-49EB-98DE-CED98E88B838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7122AA7-6971-43CE-A258-7CEBBBDE6781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7122AA7-6971-43CE-A258-7CEBBBDE6781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7122AA7-6971-43CE-A258-7CEBBBDE6781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7122AA7-6971-43CE-A258-7CEBBBDE6781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA379544-95DA-49B8-90D4-F0FCB2D0B107}
+	EndGlobalSection
+EndGlobal

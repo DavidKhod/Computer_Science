@@ -1,0 +1,18 @@
+﻿@startuml
+'' plantumlfile1
+class Box{
+	{field} double height
+	{field} double width
+	{field} double height
+	{method}Box(double length, double width, double height)
+	{method}Box(double size)
+	{method}double GetLength()
+	{method}double GetWidth()
+	{method}double GetHeight()
+	{method}void SetLength(double length)
+	{method}void SetWidth(double width)
+	{method}void SetHeight(double height)
+	{method}double GetVolume()
+	{method}override string ToString()
+}
+@enduml

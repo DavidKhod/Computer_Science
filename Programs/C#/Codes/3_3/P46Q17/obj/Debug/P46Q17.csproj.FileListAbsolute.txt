@@ -1,0 +1,14 @@
+F:\Computer science\Programs\C#\3_3\P46Q17\bin\Debug\P46Q17.exe.config
+F:\Computer science\Programs\C#\3_3\P46Q17\bin\Debug\P46Q17.exe
+F:\Computer science\Programs\C#\3_3\P46Q17\bin\Debug\P46Q17.pdb
+F:\Computer science\Programs\C#\3_3\P46Q17\obj\Debug\P46Q17.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\3_3\P46Q17\obj\Debug\P46Q17.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\3_3\P46Q17\obj\Debug\P46Q17.exe
+F:\Computer science\Programs\C#\3_3\P46Q17\obj\Debug\P46Q17.pdb
+D:\Computer science\Programs\C#\3_3\P46Q17\bin\Debug\P46Q17.exe.config
+D:\Computer science\Programs\C#\3_3\P46Q17\bin\Debug\P46Q17.exe
+D:\Computer science\Programs\C#\3_3\P46Q17\bin\Debug\P46Q17.pdb
+D:\Computer science\Programs\C#\3_3\P46Q17\obj\Debug\P46Q17.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\3_3\P46Q17\obj\Debug\P46Q17.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\3_3\P46Q17\obj\Debug\P46Q17.exe
+D:\Computer science\Programs\C#\3_3\P46Q17\obj\Debug\P46Q17.pdb

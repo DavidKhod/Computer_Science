@@ -1,0 +1,6 @@
+F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\X_Plus_1\bin\Debug\X_Plus_1.exe.config
+F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\X_Plus_1\bin\Debug\X_Plus_1.exe
+F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\X_Plus_1\bin\Debug\X_Plus_1.pdb
+F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\X_Plus_1\obj\Debug\X_Plus_1.csproj.CoreCompileInputs.cache
+F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\X_Plus_1\obj\Debug\X_Plus_1.exe
+F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\X_Plus_1\obj\Debug\X_Plus_1.pdb

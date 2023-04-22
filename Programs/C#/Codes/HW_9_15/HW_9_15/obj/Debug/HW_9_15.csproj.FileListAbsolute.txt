@@ -1,0 +1,7 @@
+F:\Computer science\Programs\C#\HW_9_15\HW_9_15\bin\Debug\HW_9_15.exe.config
+F:\Computer science\Programs\C#\HW_9_15\HW_9_15\bin\Debug\HW_9_15.exe
+F:\Computer science\Programs\C#\HW_9_15\HW_9_15\bin\Debug\HW_9_15.pdb
+F:\Computer science\Programs\C#\HW_9_15\HW_9_15\obj\Debug\HW_9_15.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\HW_9_15\HW_9_15\obj\Debug\HW_9_15.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\HW_9_15\HW_9_15\obj\Debug\HW_9_15.exe
+F:\Computer science\Programs\C#\HW_9_15\HW_9_15\obj\Debug\HW_9_15.pdb

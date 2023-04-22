@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\FirstTest_2_11_22\FirstTest_2_11_22\bin\Debug\FirstTest_2_11_22.exe.config
+C:\Users\David\source\repos\FirstTest_2_11_22\FirstTest_2_11_22\bin\Debug\FirstTest_2_11_22.exe
+C:\Users\David\source\repos\FirstTest_2_11_22\FirstTest_2_11_22\bin\Debug\FirstTest_2_11_22.pdb
+C:\Users\David\source\repos\FirstTest_2_11_22\FirstTest_2_11_22\obj\Debug\FirstTest_2_11_22.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\FirstTest_2_11_22\FirstTest_2_11_22\obj\Debug\FirstTest_2_11_22.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\FirstTest_2_11_22\FirstTest_2_11_22\obj\Debug\FirstTest_2_11_22.exe
+C:\Users\David\source\repos\FirstTest_2_11_22\FirstTest_2_11_22\obj\Debug\FirstTest_2_11_22.pdb

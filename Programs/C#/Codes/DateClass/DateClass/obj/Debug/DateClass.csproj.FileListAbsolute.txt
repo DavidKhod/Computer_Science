@@ -1,0 +1,14 @@
+F:\Computer science\Programs\C#\DateClass\DateClass\bin\Debug\DateClass.exe.config
+F:\Computer science\Programs\C#\DateClass\DateClass\bin\Debug\DateClass.exe
+F:\Computer science\Programs\C#\DateClass\DateClass\bin\Debug\DateClass.pdb
+F:\Computer science\Programs\C#\DateClass\DateClass\obj\Debug\DateClass.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\DateClass\DateClass\obj\Debug\DateClass.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\DateClass\DateClass\obj\Debug\DateClass.exe
+F:\Computer science\Programs\C#\DateClass\DateClass\obj\Debug\DateClass.pdb
+D:\Computer science\Programs\C#\DateClass\DateClass\bin\Debug\DateClass.exe.config
+D:\Computer science\Programs\C#\DateClass\DateClass\bin\Debug\DateClass.exe
+D:\Computer science\Programs\C#\DateClass\DateClass\bin\Debug\DateClass.pdb
+D:\Computer science\Programs\C#\DateClass\DateClass\obj\Debug\DateClass.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\DateClass\DateClass\obj\Debug\DateClass.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\DateClass\DateClass\obj\Debug\DateClass.exe
+D:\Computer science\Programs\C#\DateClass\DateClass\obj\Debug\DateClass.pdb

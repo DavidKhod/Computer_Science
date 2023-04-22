@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\TIcTacToe\TIcTacToe\bin\Debug\TIcTacToe.exe.config
+C:\Users\David\source\repos\TIcTacToe\TIcTacToe\bin\Debug\TIcTacToe.exe
+C:\Users\David\source\repos\TIcTacToe\TIcTacToe\bin\Debug\TIcTacToe.pdb
+C:\Users\David\source\repos\TIcTacToe\TIcTacToe\obj\Debug\TIcTacToe.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\TIcTacToe\TIcTacToe\obj\Debug\TIcTacToe.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\TIcTacToe\TIcTacToe\obj\Debug\TIcTacToe.exe
+C:\Users\David\source\repos\TIcTacToe\TIcTacToe\obj\Debug\TIcTacToe.pdb
+C:\Users\David\VsC#\Codes\TIcTacToe\TIcTacToe\bin\Debug\TIcTacToe.exe.config
+C:\Users\David\VsC#\Codes\TIcTacToe\TIcTacToe\bin\Debug\TIcTacToe.exe
+C:\Users\David\VsC#\Codes\TIcTacToe\TIcTacToe\bin\Debug\TIcTacToe.pdb
+C:\Users\David\VsC#\Codes\TIcTacToe\TIcTacToe\obj\Debug\TIcTacToe.csproj.AssemblyReference.cache
+C:\Users\David\VsC#\Codes\TIcTacToe\TIcTacToe\obj\Debug\TIcTacToe.csproj.CoreCompileInputs.cache
+C:\Users\David\VsC#\Codes\TIcTacToe\TIcTacToe\obj\Debug\TIcTacToe.exe
+C:\Users\David\VsC#\Codes\TIcTacToe\TIcTacToe\obj\Debug\TIcTacToe.pdb

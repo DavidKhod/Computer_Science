@@ -1,0 +1,7 @@
+D:\Computer science\Programs\C#\12_7\Q14\bin\Debug\Q14.exe.config
+D:\Computer science\Programs\C#\12_7\Q14\bin\Debug\Q14.exe
+D:\Computer science\Programs\C#\12_7\Q14\bin\Debug\Q14.pdb
+D:\Computer science\Programs\C#\12_7\Q14\obj\Debug\Q14.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\12_7\Q14\obj\Debug\Q14.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\12_7\Q14\obj\Debug\Q14.exe
+D:\Computer science\Programs\C#\12_7\Q14\obj\Debug\Q14.pdb

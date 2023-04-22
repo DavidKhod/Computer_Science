@@ -1,0 +1,6 @@
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעו\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_intro\EX6_Scope\bin\Release\EX6_Scope.exe
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעו\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_intro\EX6_Scope\bin\Release\EX6_Scope.pdb
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעו\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_intro\EX6_Scope\bin\Release\Games.dll
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעו\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_intro\EX6_Scope\obj\x86\Release\ResolveAssemblyReference.cache
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעו\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_intro\EX6_Scope\obj\x86\Release\EX6_Scope.exe
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעו\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_intro\EX6_Scope\obj\x86\Release\EX6_Scope.pdb

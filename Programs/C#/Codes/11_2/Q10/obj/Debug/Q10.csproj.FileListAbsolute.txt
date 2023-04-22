@@ -1,0 +1,13 @@
+F:\Computer science\Programs\C#\11_2\Q10\bin\Debug\Q10.exe.config
+F:\Computer science\Programs\C#\11_2\Q10\bin\Debug\Q10.exe
+F:\Computer science\Programs\C#\11_2\Q10\bin\Debug\Q10.pdb
+F:\Computer science\Programs\C#\11_2\Q10\obj\Debug\Q10.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\11_2\Q10\obj\Debug\Q10.exe
+F:\Computer science\Programs\C#\11_2\Q10\obj\Debug\Q10.pdb
+D:\Computer science\Programs\C#\11_2\Q10\bin\Debug\Q10.exe.config
+D:\Computer science\Programs\C#\11_2\Q10\bin\Debug\Q10.exe
+D:\Computer science\Programs\C#\11_2\Q10\bin\Debug\Q10.pdb
+D:\Computer science\Programs\C#\11_2\Q10\obj\Debug\Q10.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\11_2\Q10\obj\Debug\Q10.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\11_2\Q10\obj\Debug\Q10.exe
+D:\Computer science\Programs\C#\11_2\Q10\obj\Debug\Q10.pdb

@@ -1,0 +1,6 @@
+F:\מדעי מחשב\עבודות\SelfExercise2\ConsoleApplication1\obj\x86\Debug\Q1_Avg.csproj.AssemblyReference.cache
+F:\מדעי מחשב\עבודות\SelfExercise2\ConsoleApplication1\obj\x86\Debug\Q1_Avg.csproj.CoreCompileInputs.cache
+F:\מדעי מחשב\עבודות\SelfExercise2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\מדעי מחשב\עבודות\SelfExercise2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\מדעי מחשב\עבודות\SelfExercise2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+F:\מדעי מחשב\עבודות\SelfExercise2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,6 @@
+F:\Computer science\Programs\C#\Codes\3_5\P63Q38\bin\Debug\P63Q38.exe.config
+F:\Computer science\Programs\C#\Codes\3_5\P63Q38\bin\Debug\P63Q38.exe
+F:\Computer science\Programs\C#\Codes\3_5\P63Q38\bin\Debug\P63Q38.pdb
+F:\Computer science\Programs\C#\Codes\3_5\P63Q38\obj\Debug\P63Q38.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\Codes\3_5\P63Q38\obj\Debug\P63Q38.exe
+F:\Computer science\Programs\C#\Codes\3_5\P63Q38\obj\Debug\P63Q38.pdb

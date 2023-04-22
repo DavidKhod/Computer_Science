@@ -1,0 +1,7 @@
+D:\Computer science\Programs\C#\BucketClass\BucketClass\bin\Debug\BucketClass.exe.config
+D:\Computer science\Programs\C#\BucketClass\BucketClass\bin\Debug\BucketClass.exe
+D:\Computer science\Programs\C#\BucketClass\BucketClass\bin\Debug\BucketClass.pdb
+D:\Computer science\Programs\C#\BucketClass\BucketClass\obj\Debug\BucketClass.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\BucketClass\BucketClass\obj\Debug\BucketClass.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\BucketClass\BucketClass\obj\Debug\BucketClass.exe
+D:\Computer science\Programs\C#\BucketClass\BucketClass\obj\Debug\BucketClass.pdb

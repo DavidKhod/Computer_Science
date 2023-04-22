@@ -1,0 +1,7 @@
+F:\מדעי מחשב\Programs\C#\Just_rndm\Just_rndm\obj\Debug\Just_rndm.csproj.AssemblyReference.cache
+F:\מדעי מחשב\Programs\C#\Just_rndm\Just_rndm\obj\Debug\Just_rndm.csproj.CoreCompileInputs.cache
+F:\מדעי מחשב\Programs\C#\Just_rndm\Just_rndm\bin\Debug\Just_rndm.exe.config
+F:\מדעי מחשב\Programs\C#\Just_rndm\Just_rndm\bin\Debug\Just_rndm.exe
+F:\מדעי מחשב\Programs\C#\Just_rndm\Just_rndm\bin\Debug\Just_rndm.pdb
+F:\מדעי מחשב\Programs\C#\Just_rndm\Just_rndm\obj\Debug\Just_rndm.exe
+F:\מדעי מחשב\Programs\C#\Just_rndm\Just_rndm\obj\Debug\Just_rndm.pdb

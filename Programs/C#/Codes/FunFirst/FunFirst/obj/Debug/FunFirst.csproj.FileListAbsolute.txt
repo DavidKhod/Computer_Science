@@ -1,0 +1,14 @@
+D:\Computer science\Programs\C#\FunFirst\FunFirst\bin\Debug\FunFirst.exe.config
+D:\Computer science\Programs\C#\FunFirst\FunFirst\bin\Debug\FunFirst.exe
+D:\Computer science\Programs\C#\FunFirst\FunFirst\bin\Debug\FunFirst.pdb
+D:\Computer science\Programs\C#\FunFirst\FunFirst\obj\Debug\FunFirst.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\FunFirst\FunFirst\obj\Debug\FunFirst.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\FunFirst\FunFirst\obj\Debug\FunFirst.exe
+D:\Computer science\Programs\C#\FunFirst\FunFirst\obj\Debug\FunFirst.pdb
+F:\Computer science\Programs\C#\FunFirst\FunFirst\bin\Debug\FunFirst.exe.config
+F:\Computer science\Programs\C#\FunFirst\FunFirst\bin\Debug\FunFirst.exe
+F:\Computer science\Programs\C#\FunFirst\FunFirst\bin\Debug\FunFirst.pdb
+F:\Computer science\Programs\C#\FunFirst\FunFirst\obj\Debug\FunFirst.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\FunFirst\FunFirst\obj\Debug\FunFirst.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\FunFirst\FunFirst\obj\Debug\FunFirst.exe
+F:\Computer science\Programs\C#\FunFirst\FunFirst\obj\Debug\FunFirst.pdb

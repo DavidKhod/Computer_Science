@@ -1,0 +1,14 @@
+D:\Computer science\Programs\C#\Codes\3_6\P67Q45\bin\Debug\P67Q45.exe.config
+D:\Computer science\Programs\C#\Codes\3_6\P67Q45\bin\Debug\P67Q45.exe
+D:\Computer science\Programs\C#\Codes\3_6\P67Q45\bin\Debug\P67Q45.pdb
+D:\Computer science\Programs\C#\Codes\3_6\P67Q45\obj\Debug\P67Q45.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\Codes\3_6\P67Q45\obj\Debug\P67Q45.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\Codes\3_6\P67Q45\obj\Debug\P67Q45.exe
+D:\Computer science\Programs\C#\Codes\3_6\P67Q45\obj\Debug\P67Q45.pdb
+F:\Computer science\Programs\C#\Codes\3_6\P67Q45\bin\Debug\P67Q45.exe.config
+F:\Computer science\Programs\C#\Codes\3_6\P67Q45\bin\Debug\P67Q45.exe
+F:\Computer science\Programs\C#\Codes\3_6\P67Q45\bin\Debug\P67Q45.pdb
+F:\Computer science\Programs\C#\Codes\3_6\P67Q45\obj\Debug\P67Q45.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\Codes\3_6\P67Q45\obj\Debug\P67Q45.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\Codes\3_6\P67Q45\obj\Debug\P67Q45.exe
+F:\Computer science\Programs\C#\Codes\3_6\P67Q45\obj\Debug\P67Q45.pdb

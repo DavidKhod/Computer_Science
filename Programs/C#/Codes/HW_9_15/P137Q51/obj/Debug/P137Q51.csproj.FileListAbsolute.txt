@@ -1,0 +1,6 @@
+F:\Computer science\Programs\C#\HW_9_15\P137Q51\bin\Debug\P137Q51.exe.config
+F:\Computer science\Programs\C#\HW_9_15\P137Q51\bin\Debug\P137Q51.exe
+F:\Computer science\Programs\C#\HW_9_15\P137Q51\bin\Debug\P137Q51.pdb
+F:\Computer science\Programs\C#\HW_9_15\P137Q51\obj\Debug\P137Q51.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\HW_9_15\P137Q51\obj\Debug\P137Q51.exe
+F:\Computer science\Programs\C#\HW_9_15\P137Q51\obj\Debug\P137Q51.pdb

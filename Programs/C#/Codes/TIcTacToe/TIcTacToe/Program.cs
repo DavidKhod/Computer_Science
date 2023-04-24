@@ -39,6 +39,7 @@ namespace TIcTacToe
                         }
                         game.Choose(position, 'O');
                     }
+                    Console.Clear();
                     step++;
                     game.PrintGame();
                 }

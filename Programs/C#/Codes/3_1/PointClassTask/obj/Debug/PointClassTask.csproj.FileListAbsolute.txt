@@ -12,3 +12,10 @@ D:\Computer science\Programs\C#\3_1\PointClassTask\obj\Debug\PointClassTask.cspr
 D:\Computer science\Programs\C#\3_1\PointClassTask\obj\Debug\PointClassTask.csproj.CoreCompileInputs.cache
 D:\Computer science\Programs\C#\3_1\PointClassTask\obj\Debug\PointClassTask.exe
 D:\Computer science\Programs\C#\3_1\PointClassTask\obj\Debug\PointClassTask.pdb
+C:\Users\David\Computer_Science\Programs\C#\Codes\3_1\PointClassTask\bin\Debug\PointClassTask.exe.config
+C:\Users\David\Computer_Science\Programs\C#\Codes\3_1\PointClassTask\bin\Debug\PointClassTask.exe
+C:\Users\David\Computer_Science\Programs\C#\Codes\3_1\PointClassTask\bin\Debug\PointClassTask.pdb
+C:\Users\David\Computer_Science\Programs\C#\Codes\3_1\PointClassTask\obj\Debug\PointClassTask.csproj.AssemblyReference.cache
+C:\Users\David\Computer_Science\Programs\C#\Codes\3_1\PointClassTask\obj\Debug\PointClassTask.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_Science\Programs\C#\Codes\3_1\PointClassTask\obj\Debug\PointClassTask.exe
+C:\Users\David\Computer_Science\Programs\C#\Codes\3_1\PointClassTask\obj\Debug\PointClassTask.pdb

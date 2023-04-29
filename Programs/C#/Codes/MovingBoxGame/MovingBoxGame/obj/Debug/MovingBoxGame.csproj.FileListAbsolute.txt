@@ -1,0 +1,7 @@
+C:\Users\David\Computer_science\Programs\C#\Codes\MovingBoxGame\MovingBoxGame\bin\Debug\MovingBoxGame.exe.config
+C:\Users\David\Computer_science\Programs\C#\Codes\MovingBoxGame\MovingBoxGame\bin\Debug\MovingBoxGame.exe
+C:\Users\David\Computer_science\Programs\C#\Codes\MovingBoxGame\MovingBoxGame\bin\Debug\MovingBoxGame.pdb
+C:\Users\David\Computer_science\Programs\C#\Codes\MovingBoxGame\MovingBoxGame\obj\Debug\MovingBoxGame.csproj.AssemblyReference.cache
+C:\Users\David\Computer_science\Programs\C#\Codes\MovingBoxGame\MovingBoxGame\obj\Debug\MovingBoxGame.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Programs\C#\Codes\MovingBoxGame\MovingBoxGame\obj\Debug\MovingBoxGame.exe
+C:\Users\David\Computer_science\Programs\C#\Codes\MovingBoxGame\MovingBoxGame\obj\Debug\MovingBoxGame.pdb

@@ -1,0 +1,7 @@
+C:\Users\David\Computer_science\Programs\C#\Codes\CubeClass\CubeClass\bin\Debug\CubeClass.exe.config
+C:\Users\David\Computer_science\Programs\C#\Codes\CubeClass\CubeClass\bin\Debug\CubeClass.exe
+C:\Users\David\Computer_science\Programs\C#\Codes\CubeClass\CubeClass\bin\Debug\CubeClass.pdb
+C:\Users\David\Computer_science\Programs\C#\Codes\CubeClass\CubeClass\obj\Debug\CubeClass.csproj.AssemblyReference.cache
+C:\Users\David\Computer_science\Programs\C#\Codes\CubeClass\CubeClass\obj\Debug\CubeClass.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Programs\C#\Codes\CubeClass\CubeClass\obj\Debug\CubeClass.exe
+C:\Users\David\Computer_science\Programs\C#\Codes\CubeClass\CubeClass\obj\Debug\CubeClass.pdb

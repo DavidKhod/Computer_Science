@@ -13,10 +13,10 @@ namespace MovingBoxGame
             MoveNPush game = new MoveNPush();
             game.InitBoard();
             Console.WriteLine($"{game.ToString()}");
-            for (int i = 1; i <= 1000; i++)
-            {
-                Console.WriteLine($"{i}: {Convert.ToChar(i)}");
-            }
+            game.Move("w");
+            Console.WriteLine($"{game.ToString()}");
+            game.Move("S");
+            Console.WriteLine($"{game.ToString()}");
         }
 
     }

@@ -28,5 +28,10 @@ namespace MovingBoxGame
             get { return this.y; }
             set { this.y = value; }
         }
+
+        public override string ToString()
+        {
+            return $"{this.y},{this.x}";
+        }
     }
 }

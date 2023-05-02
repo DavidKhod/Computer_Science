@@ -11,18 +11,22 @@ namespace MovingBoxGame
         static void Main(string[] args)
         {
             MoveNPush game = new MoveNPush();
-            game.InitBoard();
-            Console.WriteLine($"{game.ToString()}");
-            game.Move("w");
-            Console.WriteLine($"{game.ToString()}");
-            game.Move("S");
-            Console.WriteLine($"{game.ToString()}");
-            game.Move("s");
-            Console.WriteLine($"{game.ToString()}");
-            game.Move("s");
-            Console.WriteLine($"{game.ToString()}");
-            Console.WriteLine("---");
-            Console.WriteLine($"{game.ToString()}");
+            string decision = "";
+            do
+            {
+                game.InitBoard();
+                while (game.BoxInSpot() == false)
+                {
+                    Console.WriteLine($"{game.ToString()}");
+                    Console.WriteLine($"W - Up | S - Down - | D - Right | A - Left");
+                    game.Move(Console.ReadLine());
+                    Console.Clear();
+                }
+                Console.WriteLine($"Again(y -> yes || N -> no)");
+                decision = Console.ReadLine();
+            } while (decision == "Y" || decision == "y");
+            Console.WriteLine($"Yov'e done {game.GetRounds()} rounds");
+
         }
 
     }

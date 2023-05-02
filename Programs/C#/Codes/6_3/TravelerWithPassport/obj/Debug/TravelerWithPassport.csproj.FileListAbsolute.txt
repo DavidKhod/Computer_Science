@@ -5,3 +5,10 @@ C:\Users\David\Computer science\Programs\C#\Codes\6_3\TravelerWithPassport\obj\D
 C:\Users\David\Computer science\Programs\C#\Codes\6_3\TravelerWithPassport\obj\Debug\TravelerWithPassport.csproj.CoreCompileInputs.cache
 C:\Users\David\Computer science\Programs\C#\Codes\6_3\TravelerWithPassport\obj\Debug\TravelerWithPassport.exe
 C:\Users\David\Computer science\Programs\C#\Codes\6_3\TravelerWithPassport\obj\Debug\TravelerWithPassport.pdb
+C:\Users\David\Computer_science\Programs\C#\Codes\6_3\TravelerWithPassport\bin\Debug\TravelerWithPassport.exe.config
+C:\Users\David\Computer_science\Programs\C#\Codes\6_3\TravelerWithPassport\bin\Debug\TravelerWithPassport.exe
+C:\Users\David\Computer_science\Programs\C#\Codes\6_3\TravelerWithPassport\bin\Debug\TravelerWithPassport.pdb
+C:\Users\David\Computer_science\Programs\C#\Codes\6_3\TravelerWithPassport\obj\Debug\TravelerWithPassport.csproj.AssemblyReference.cache
+C:\Users\David\Computer_science\Programs\C#\Codes\6_3\TravelerWithPassport\obj\Debug\TravelerWithPassport.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Programs\C#\Codes\6_3\TravelerWithPassport\obj\Debug\TravelerWithPassport.exe
+C:\Users\David\Computer_science\Programs\C#\Codes\6_3\TravelerWithPassport\obj\Debug\TravelerWithPassport.pdb

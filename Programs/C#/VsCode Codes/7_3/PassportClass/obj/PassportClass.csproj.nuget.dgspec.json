@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David\\Computer science\\Programs\\C#\\VsCode Codes\\7_3\\PassportClass\\PassportClass.csproj": {}
+    "C:\\Users\\David\\Computer_science\\Programs\\C#\\VsCode Codes\\7_3\\PassportClass\\PassportClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David\\Computer science\\Programs\\C#\\VsCode Codes\\7_3\\PassportClass\\PassportClass.csproj": {
+    "C:\\Users\\David\\Computer_science\\Programs\\C#\\VsCode Codes\\7_3\\PassportClass\\PassportClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\Computer science\\Programs\\C#\\VsCode Codes\\7_3\\PassportClass\\PassportClass.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Computer_science\\Programs\\C#\\VsCode Codes\\7_3\\PassportClass\\PassportClass.csproj",
         "projectName": "PassportClass",
-        "projectPath": "C:\\Users\\David\\Computer science\\Programs\\C#\\VsCode Codes\\7_3\\PassportClass\\PassportClass.csproj",
+        "projectPath": "C:\\Users\\David\\Computer_science\\Programs\\C#\\VsCode Codes\\7_3\\PassportClass\\PassportClass.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\Computer science\\Programs\\C#\\VsCode Codes\\7_3\\PassportClass\\obj\\",
+        "outputPath": "C:\\Users\\David\\Computer_science\\Programs\\C#\\VsCode Codes\\7_3\\PassportClass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

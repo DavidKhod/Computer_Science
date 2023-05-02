@@ -17,6 +17,12 @@ namespace MovingBoxGame
             Console.WriteLine($"{game.ToString()}");
             game.Move("S");
             Console.WriteLine($"{game.ToString()}");
+            game.Move("s");
+            Console.WriteLine($"{game.ToString()}");
+            game.Move("s");
+            Console.WriteLine($"{game.ToString()}");
+            Console.WriteLine("---");
+            Console.WriteLine($"{game.ToString()}");
         }
 
     }

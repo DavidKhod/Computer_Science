@@ -41,7 +41,7 @@ namespace TIcTacToe
             int row = 0;
             for (int i = 1; i <= 3; i++)
             {
-                if(Game[1 + row] == Choice && Game[1 + row + 1] == Choice && Game[1 + row + 2] == Choice)
+                if(Game[0 + row] == Choice && Game[0 + row + 1] == Choice && Game[0 + row + 2] == Choice)
                 {
                     WonLetter = 'X';
                     return true;
@@ -67,7 +67,7 @@ namespace TIcTacToe
 
             //Finding if O Won
             Choice = 'O';
-            row = 1;
+            row = 0;
             for (int i = 1; i <= 3; i++)
             {
                 if (Game[1 + row] == Choice && Game[1 + row + 1] == Choice && Game[1 + row + 2] == Choice)

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PracticeForExam_12_6/1.0.0": {
+        "runtime": {
+          "PracticeForExam_12_6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticeForExam_12_6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

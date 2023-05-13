@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix_SelfPractice", "Matrix_SelfPractice\Matrix_SelfPractice.csproj", "{932FEEBD-6304-4100-820E-25670415A872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{932FEEBD-6304-4100-820E-25670415A872}.Debug|x86.ActiveCfg = Debug|x86
+		{932FEEBD-6304-4100-820E-25670415A872}.Debug|x86.Build.0 = Debug|x86
+		{932FEEBD-6304-4100-820E-25670415A872}.Release|x86.ActiveCfg = Release|x86
+		{932FEEBD-6304-4100-820E-25670415A872}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF34DB5E-CE4B-486E-9C95-DC5DE81746BD}
+	EndGlobalSection
+EndGlobal

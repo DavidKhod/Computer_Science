@@ -1,0 +1,13 @@
+        static int[,] CreateIntMatrix(int rows, int cols)
+        {
+            int[,] mat = new int[rows, cols];
+            for (int i = 0; i < mat.GetLength(0); i++)
+            {
+                for (int j = 0; j < mat.GetLength(1); j++)
+                {
+                    Console.Write($"({i},{j})Enter a number: ");
+                    mat[i, j] = int.Parse(Console.ReadLine());
+                }
+            }
+            return mat;
+        }

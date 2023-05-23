@@ -1,0 +1,7 @@
+C:\Users\David\Computer_science\Programs\C#\Codes\4_3\P106Q3\bin\Debug\P106Q3.exe.config
+C:\Users\David\Computer_science\Programs\C#\Codes\4_3\P106Q3\bin\Debug\P106Q3.exe
+C:\Users\David\Computer_science\Programs\C#\Codes\4_3\P106Q3\bin\Debug\P106Q3.pdb
+C:\Users\David\Computer_science\Programs\C#\Codes\4_3\P106Q3\obj\Debug\P106Q3.csproj.AssemblyReference.cache
+C:\Users\David\Computer_science\Programs\C#\Codes\4_3\P106Q3\obj\Debug\P106Q3.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Programs\C#\Codes\4_3\P106Q3\obj\Debug\P106Q3.exe
+C:\Users\David\Computer_science\Programs\C#\Codes\4_3\P106Q3\obj\Debug\P106Q3.pdb

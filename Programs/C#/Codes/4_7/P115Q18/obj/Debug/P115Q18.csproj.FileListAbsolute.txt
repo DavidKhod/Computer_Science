@@ -1,0 +1,7 @@
+C:\Users\David\Computer_science\Programs\C#\Codes\4_7\P115Q18\bin\Debug\P115Q18.exe.config
+C:\Users\David\Computer_science\Programs\C#\Codes\4_7\P115Q18\bin\Debug\P115Q18.exe
+C:\Users\David\Computer_science\Programs\C#\Codes\4_7\P115Q18\bin\Debug\P115Q18.pdb
+C:\Users\David\Computer_science\Programs\C#\Codes\4_7\P115Q18\obj\Debug\P115Q18.csproj.AssemblyReference.cache
+C:\Users\David\Computer_science\Programs\C#\Codes\4_7\P115Q18\obj\Debug\P115Q18.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Programs\C#\Codes\4_7\P115Q18\obj\Debug\P115Q18.exe
+C:\Users\David\Computer_science\Programs\C#\Codes\4_7\P115Q18\obj\Debug\P115Q18.pdb

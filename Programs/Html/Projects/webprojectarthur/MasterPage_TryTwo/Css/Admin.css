@@ -1,0 +1,48 @@
+﻿.AdminTbl {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    clear: both;
+}
+
+.adminActionBtn {
+    background: #0275d8;
+    color: #ffffff;
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+    .adminActionBtn:hover {
+        background-color: #025aa5;
+        transform: scale(1.05);
+        cursor: pointer;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    }
+
+.promtTxt {
+    font-size: 18px;
+    color: #333333;
+}
+
+/* Additional Styles */
+.AdminTbl:hover .adminActionBtn {
+    background-color: #025aa5;
+}
+
+    .AdminTbl:hover .adminActionBtn:before {
+        content: "\f135";
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        margin-right: 5px;
+    }
+
+    .AdminTbl:hover .adminActionBtn:hover {
+        background-color: #ff9900;
+    }

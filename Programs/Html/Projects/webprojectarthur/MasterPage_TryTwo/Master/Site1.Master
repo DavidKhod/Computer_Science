@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="MasterPage_TryTwo.Pages.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../Css/Style.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="NavBarTop" runat="server">
+      <div class="NavBar" id="NavBar">
+        <div class="Logo">
+            <img src="../Pic/Donkey%20Logo.jpg"   width="50" height="50" alt="Site Logo" id="Img-Logo" />
+        </div>
+        <div class="Caption">
+            <a class="link" id="CaptionID" runat="server"  href= "~/NewPages/Home.aspx">Donkey_Wiki</a>
+        </div>
+        <div class="Pages">
+            <a class="link" id="HomePage" href= "Home.aspx" >Home</a>
+            <a class="link" id ="Login"   runat="server"  href="~/NewPages/Login.aspx" >Login</a>
+            <a class="link" id="Register" runat="server"  href="~/NewPages/Register.aspx" >Register</a>
+            <a class="link" id="logout"   runat="server"  href="~/NewPages/Logout.aspx" >Logout</a>     
+            <a class="link" id="admin"    runat="server"  href="~/NewPages/Admin.aspx" >Admin</a>
+            <a Class="link" id="ShopPage" runat="server"  href="~/NewPages/ShopPage.aspx">Wiki</a>
+        </div>
+    </div>
+        <div class="First_Text">
+        <p style="Width: 20%; font-size: 25px;" Class="Welcome_Text" ><%= "Welcome " + Session["UserName"] %></p>
+        <div class = "registrationtxt">
+            <p id ="registrationtxt" runat ="server">Please Login or register to view other pages</p>
+        </div>
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <script src="../Scripts/Script_First.js"></script>
+            </asp:ContentPlaceHolder>
+        </div>
+
+    </form>
+</body>
+    <script src="../Scripts/Script_First.js"></script>
+</html>
+    

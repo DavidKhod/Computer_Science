@@ -1,12 +1,12 @@
-        static int[,] CreateIntMatrix(int rows, int cols)
+        static Random rnd = new Random();
+        static int[,] CreateRandomIntMatrix(int rows, int cols, int from, int to)
         {
             int[,] mat = new int[rows, cols];
             for (int i = 0; i < mat.GetLength(0); i++)
             {
                 for (int j = 0; j < mat.GetLength(1); j++)
                 {
-                    Console.Write($"({i},{j})Enter a number: ");
-                    mat[i, j] = int.Parse(Console.ReadLine());
+                    mat[i, j] = rnd.Next(from, to + 1);
                 }
             }
             return mat;

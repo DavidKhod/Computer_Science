@@ -24,6 +24,7 @@ namespace Q1
             }
             return cnt;
         }
+
         static void Main(string[] args)
         {
             string sentence = "I am David and I am a person";

@@ -5,16 +5,7 @@ namespace Q5
     {
         static int FindLongestPolindrom(string str)
         {
-            int placeOfCenter = -1;
-            bool found = false;
-            for (int i = 0; i < str.Length && !found; i++)
-            {
-                if (str[i] == '*')
-                {
-                    placeOfCenter = i;
-                    found = true;
-                }
-            }
+            int placeOfCenter = str.IndexOf('*');
             bool endedRun = false;
             int max = 0;
             string maxWord = "";

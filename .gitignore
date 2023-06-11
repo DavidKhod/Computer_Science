@@ -37,6 +37,5 @@ Thumbs.db
 //Another files
 *.pdb
 *.cache
-*.txt
 *.suo
-!\Programs\C#\C# Things
+*.FileListAbsolute.txt

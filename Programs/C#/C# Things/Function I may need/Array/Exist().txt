@@ -1,0 +1,17 @@
+/// <summary>
+/// Find if the integer inputed exists with the array inputed
+/// </summary>
+/// <param name="num">An integer looking for if exists within the int array</param>
+/// <param name="arr">The int array inputed</param>
+/// <returns>True if the integer exist within the array,False if not</returns>
+static bool Exist(int num, int[] arr)
+{
+    for (int i = 0; i < arr.Length; i++)
+    {
+         if (arr[i] == num)
+         {
+            return true;
+         }
+    }
+    return false;
+}

@@ -1,0 +1,13 @@
+static Random rnd = new Random();
+        static int[,] CreateRandomIntMatrix(int rows, int cols, int from, int to)
+        {
+            int[,] mat = new int[rows, cols];
+            for (int i = 0; i < mat.GetLength(0); i++)
+            {
+                for (int j = 0; j < mat.GetLength(1); j++)
+                {
+                    mat[i, j] = rnd.Next(from, to + 1);
+                }
+            }
+            return mat;
+        }

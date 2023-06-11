@@ -1,0 +1,17 @@
+/// <summary>
+/// Creates an int Array from the users input
+/// </summary>
+/// <returns>an int Array with the users input</returns>
+static int[] CreatintArray()
+{
+    int length;
+    Console.Write("Enter the length of the Array to be created:");
+    length = int.Parse(Console.ReadLine());
+    int[] arr = new int[length];
+    Console.WriteLine($"Enter {length} numbers");
+    for (int i = 0; i < length; i++)
+    {
+        arr[i] = int.Parse(Console.ReadLine());
+    }
+    return arr;
+}

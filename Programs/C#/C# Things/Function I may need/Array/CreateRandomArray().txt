@@ -1,0 +1,18 @@
+static Random rnd = new Random();
+/// <summary>
+/// Creates an int Array from the field inputed by the user
+/// </summary>
+/// <param name="length">The length of the Array</param>
+/// <param name="from">The smallest value of the field</param>
+/// <param name="until">The largest value of field</param>
+/// <returns>An int Array</returns>
+static int[] CreateRndArray(int length, int from, int until)
+{
+    static Random rnd = new Random();
+    int[] arr = new int[length];
+    for (int i = 0; i < arr.Length; i++)
+    {
+        arr[i] = rnd.Next(from, until + 1);
+    }
+    return arr;
+}

@@ -1,0 +1,2 @@
+C:\Users\David\Computer_Science\Programs\C#\Codes\NewStringDemo\NewStringDemo\obj\x86\Debug\NewStringDemo.csproj.AssemblyReference.cache
+C:\Users\David\Computer_Science\Programs\C#\Codes\NewStringDemo\NewStringDemo\obj\x86\Debug\NewStringDemo.csproj.CoreCompileInputs.cache

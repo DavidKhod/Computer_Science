@@ -1,19 +1,15 @@
 static void BubbleSort(int[] arr)
         {
-            int min;
             int tempnum;
             for (int i = 0; i < arr.Length; i++)
             {
-                min = arr[i];
-                tempnum = 0;
-                for (int j = i; j < arr.Length; j++)
+                for (int j = i; j < arr.Length - 1; j++)
                 {
-                    if (arr[j] < min)
-                    {
-                        min = arr[j];
-                        tempnum = arr[i];
-                        arr[i] = min;
-                        arr[j] = tempnum;
+                    if (arr[j] > arr[j+1])
+                {
+                        tempnum = arr[j];
+			arr[j] = arr[j+1]
+                        arr[j+1] = tempnum;
                     }
                 }
             }

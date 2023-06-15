@@ -1,20 +1,19 @@
-static void BubbleSort(int[] arr)
+static bool binarySearch(int[] arr, int num)
         {
-            int min;
-            int tempnum;
-            for (int i = 0; i < arr.Length; i++)
+            int left = 0;
+            int right = arr.Length - 1;
+
+            while (left <= right)
             {
-                min = arr[i];
-                tempnum = 0;
-                for (int j = i; j < arr.Length; j++)
-                {
-                    if (arr[j] < min)
-                    {
-                        min = arr[j];
-                        tempnum = arr[i];
-                        arr[i] = min;
-                        arr[j] = tempnum;
-                    }
-                }
+                int mid = left + (right - left) / 2;
+
+                if (arr[mid] == num)
+                    return true;
+
+                if (arr[mid] < num)
+                    left = mid + 1;
+                else
+                    right = mid - 1;
             }
+            return false;
         }

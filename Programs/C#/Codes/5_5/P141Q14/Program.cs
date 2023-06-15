@@ -1,47 +1,46 @@
 ﻿using System;
 
-namespace MergingSortedArrays
+namespace P141Q14
 {
     class Program
     {
         /// <summary>
-        /// Input an unsorted Int Array
+        /// Find if the integer inputed exists with the array inputed
         /// </summary>
-        /// <param name="arr1">The unsorted Int Array</param>
-        /// <returns>The Array sorted in a rising order</returns>
-        static int[] MergeSelectionSort(int[] arr1, int[] arr2)
+        /// <param name="num">An integer looking for if exists within the int array</param>
+        /// <param name="arr">The int array inputed</param>
+        /// <returns>True if the integer exist within the array,False if not</returns>
+        static bool Exist(int[] arr, int num)
         {
-            int[] newArr = new int[arr1.Length + arr2.Length];
-            for (int i = 0; i < arr1.Length; i++)
+            for (int i = 0; i < arr.Length; i++)
             {
-                newArr[i] = arr1[i];
-            }
-
-            for (int i = 0; i < arr2.Length; i++)
-            {
-                newArr[i + arr1.Length] = arr2[i];
-            }
-            int min;
-            int indexOfMin;
-            for (int i = 0; i < newArr.Length - 1; i++)
-            {
-                min = newArr[i];
-                indexOfMin = i;
-                for (int j = i + 1; j < newArr.Length; j++)
+                if (arr[i] == num)
                 {
-                    if (min > newArr[j])
-                    {
-                        min = newArr[j];
-                        indexOfMin = j;
-                    }
+                    return true;
                 }
-                int temp = newArr[i];
-                newArr[i] = min;
-                newArr[indexOfMin] = temp;
             }
-            return newArr;
+            return false;
         }
 
+        static int[] IntoOnlyOnceAppearingNumbersArray(int[] arr)
+        {
+            int[] newArr = new int[arr.Length];
+            int cnt = 0;
+            for (int i = 0; i < arr.Length; i++)
+            {
+                if(!Exist(newArr,arr[i]))
+                {
+                    newArr[cnt] = arr[i];
+                    cnt++;
+                }
+            }
+            int[] toReturn = new int[cnt];
+            for (int i = 0; i < toReturn.Length; i++)
+            {
+                toReturn[i] = newArr[i];
+            }
+            return toReturn;
+        }
         static int[] MergeSortedArr(int[] arr1, int[] arr2)
         {
             int[] newArr = new int[arr1.Length + arr2.Length];
@@ -89,7 +88,8 @@ namespace MergingSortedArrays
                 }
                 cnt++;
             }
-            return newArr;
+            int[] toReturn = IntoOnlyOnceAppearingNumbersArray(newArr);
+            return toReturn;
         }
 
         /// <summary>
@@ -106,19 +106,9 @@ namespace MergingSortedArrays
         }
         static void Main(string[] args)
         {
-            int[] arr1 = { 6, 8, 11, 12, 16, 19 };
-            int[] arr2 = { 5, 10, 14, 15 };
-            int[] newArr = MergeSelectionSort(arr1, arr2);
-            PrintArray(newArr);
-            Console.WriteLine();
-            int[] newArr2 = MergeSortedArr(arr1, arr2);
-            PrintArray(newArr2);
-            int[] arr3 = { 1, 3, 5, 7, 9 };
-            int[] arr4 = { 2, 4, 6, 8, 10 };
-            PrintArray(MergeSortedArr(arr3, arr4));
-            int[] arr5 = { -10, 0, 10, 20, 30 };
-            int[] arr6 = { -5, 45, 55, 65, 75 };
-            PrintArray(MergeSortedArr(arr5, arr6));
+            int[] arr1 = { 1, 2, 3, 4, 5 };
+            int[] arr2 = { 1, 6, 7, 8 ,9};
+            PrintArray(MergeSortedArr(arr1, arr2));
         }
     }
 }

@@ -94,11 +94,6 @@ namespace GameOfLife
                 RemoveAlive(position);
                 return true;
             }
-            if (!alivePositions.Exists(p => p.X == position.X && p.Y == position.Y))
-            {
-                alivePositions.Add(position);
-                Board[position.Y, position.X] = 1;
-            }
             return false;
         }
 
@@ -170,15 +165,16 @@ namespace GameOfLife
 
         static void UpdateBoard()
         {
-            for (int i = 0; i < alivePositions.Count; i++)
-            {
-                Board[alivePositions[i].Y, alivePositions[i].X] = 1;
-            }
+            //for (int i = 0; i < alivePositions.Count; i++)
+            //{
+            //    Board[alivePositions[i].Y, alivePositions[i].X] = 1;
+            //}
             for (int i = 0; i < Board.GetLength(0); i++)
             {
                 for (int j = 0; j < Board.GetLength(1); j++)
                 {
-                    RepoOrDie(new Position(i, j));
+                    Repopulate(new Position(i, j));
+                    Die(new Position(i, j));
                 }
             }
 
@@ -202,7 +198,7 @@ namespace GameOfLife
             {
                 for (int j = 0; j < Board.GetLength(1); j++)
                 {
-                    if (ContainsInList(new Position(i, j)))
+                    if (Board[i,j] == 1)
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
                         Console.Write("|X|");

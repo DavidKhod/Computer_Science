@@ -1,0 +1,31 @@
+	/// <summary>
+        /// The function inputs a number,the amount of numbers already inputed/exist in the array, and the array itself
+        /// </summary>
+        /// <param name="num">The number to add to the array</param>
+        /// <param name="amountOfInputed">The amount of numbers already inputed/exist in the array</param>
+        /// <param name="arr">The array adding to</param>
+        static void InsertionSort(int num, int amountOfInputed, int[] arr)
+        {
+            bool found = false;
+            if (amountOfInputed == 0)
+            {
+                arr[0] = num;
+            }
+            else if (amountOfInputed < arr.Length)
+            {
+                for (int i = 0; i < amountOfInputed && !found; i++)
+                {
+                    if (num < arr[i])
+                    {
+                        for (int j = amountOfInputed; j > i; j--)
+                        {
+                            arr[j] = arr[j - 1];
+                        }
+                        arr[i] = num;
+                        found = true;
+                    }
+                }
+                if (!found)
+                    arr[amountOfInputed] = num;
+            }
+        }

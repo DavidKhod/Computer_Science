@@ -1,6 +1,0 @@
-F:\Computer science\Programs\C#\MyFirstWhile\Question_5\bin\Debug\Question_5.exe.config
-F:\Computer science\Programs\C#\MyFirstWhile\Question_5\bin\Debug\Question_5.exe
-F:\Computer science\Programs\C#\MyFirstWhile\Question_5\bin\Debug\Question_5.pdb
-F:\Computer science\Programs\C#\MyFirstWhile\Question_5\obj\Debug\Question_5.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\MyFirstWhile\Question_5\obj\Debug\Question_5.exe
-F:\Computer science\Programs\C#\MyFirstWhile\Question_5\obj\Debug\Question_5.pdb

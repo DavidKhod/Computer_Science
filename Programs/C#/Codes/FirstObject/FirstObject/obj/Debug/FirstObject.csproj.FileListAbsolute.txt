@@ -1,7 +1,0 @@
-D:\Computer science\Programs\C#\FirstObject\FirstObject\bin\Debug\FirstObject.exe.config
-D:\Computer science\Programs\C#\FirstObject\FirstObject\bin\Debug\FirstObject.exe
-D:\Computer science\Programs\C#\FirstObject\FirstObject\bin\Debug\FirstObject.pdb
-D:\Computer science\Programs\C#\FirstObject\FirstObject\obj\Debug\FirstObject.csproj.AssemblyReference.cache
-D:\Computer science\Programs\C#\FirstObject\FirstObject\obj\Debug\FirstObject.csproj.CoreCompileInputs.cache
-D:\Computer science\Programs\C#\FirstObject\FirstObject\obj\Debug\FirstObject.exe
-D:\Computer science\Programs\C#\FirstObject\FirstObject\obj\Debug\FirstObject.pdb

@@ -1,7 +1,0 @@
-F:\Computer science\Programs\C#\12_7\Q16\bin\Debug\Q16.exe.config
-F:\Computer science\Programs\C#\12_7\Q16\bin\Debug\Q16.exe
-F:\Computer science\Programs\C#\12_7\Q16\bin\Debug\Q16.pdb
-F:\Computer science\Programs\C#\12_7\Q16\obj\Debug\Q16.csproj.AssemblyReference.cache
-F:\Computer science\Programs\C#\12_7\Q16\obj\Debug\Q16.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\12_7\Q16\obj\Debug\Q16.exe
-F:\Computer science\Programs\C#\12_7\Q16\obj\Debug\Q16.pdb

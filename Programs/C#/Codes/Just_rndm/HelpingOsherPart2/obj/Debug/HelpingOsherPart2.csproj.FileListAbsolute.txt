@@ -1,6 +1,0 @@
-F:\Computer science\Programs\C#\Just_rndm\HelpingOsherPart2\bin\Debug\HelpingOsherPart2.exe.config
-F:\Computer science\Programs\C#\Just_rndm\HelpingOsherPart2\bin\Debug\HelpingOsherPart2.exe
-F:\Computer science\Programs\C#\Just_rndm\HelpingOsherPart2\bin\Debug\HelpingOsherPart2.pdb
-F:\Computer science\Programs\C#\Just_rndm\HelpingOsherPart2\obj\Debug\HelpingOsherPart2.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\Just_rndm\HelpingOsherPart2\obj\Debug\HelpingOsherPart2.exe
-F:\Computer science\Programs\C#\Just_rndm\HelpingOsherPart2\obj\Debug\HelpingOsherPart2.pdb

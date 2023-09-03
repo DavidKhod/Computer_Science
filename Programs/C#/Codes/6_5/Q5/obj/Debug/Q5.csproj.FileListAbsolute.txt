@@ -1,6 +1,0 @@
-C:\Users\David\Computer_Science\Programs\C#\Codes\6_5\Q5\bin\Debug\Q5.exe.config
-C:\Users\David\Computer_Science\Programs\C#\Codes\6_5\Q5\bin\Debug\Q5.exe
-C:\Users\David\Computer_Science\Programs\C#\Codes\6_5\Q5\bin\Debug\Q5.pdb
-C:\Users\David\Computer_Science\Programs\C#\Codes\6_5\Q5\obj\Debug\Q5.csproj.CoreCompileInputs.cache
-C:\Users\David\Computer_Science\Programs\C#\Codes\6_5\Q5\obj\Debug\Q5.exe
-C:\Users\David\Computer_Science\Programs\C#\Codes\6_5\Q5\obj\Debug\Q5.pdb

@@ -1,7 +1,0 @@
-D:\Computer science\Programs\C#\FirstArray\FirstArray\bin\Debug\FirstArray.exe.config
-D:\Computer science\Programs\C#\FirstArray\FirstArray\bin\Debug\FirstArray.exe
-D:\Computer science\Programs\C#\FirstArray\FirstArray\bin\Debug\FirstArray.pdb
-D:\Computer science\Programs\C#\FirstArray\FirstArray\obj\Debug\FirstArray.csproj.AssemblyReference.cache
-D:\Computer science\Programs\C#\FirstArray\FirstArray\obj\Debug\FirstArray.csproj.CoreCompileInputs.cache
-D:\Computer science\Programs\C#\FirstArray\FirstArray\obj\Debug\FirstArray.exe
-D:\Computer science\Programs\C#\FirstArray\FirstArray\obj\Debug\FirstArray.pdb

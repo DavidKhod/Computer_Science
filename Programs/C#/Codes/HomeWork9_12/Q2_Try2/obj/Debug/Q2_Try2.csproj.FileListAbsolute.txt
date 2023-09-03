@@ -1,7 +1,0 @@
-D:\Computer science\Programs\C#\HomeWork9_12\Q2_Try2\bin\Debug\Q2_Try2.exe.config
-D:\Computer science\Programs\C#\HomeWork9_12\Q2_Try2\bin\Debug\Q2_Try2.exe
-D:\Computer science\Programs\C#\HomeWork9_12\Q2_Try2\bin\Debug\Q2_Try2.pdb
-D:\Computer science\Programs\C#\HomeWork9_12\Q2_Try2\obj\Debug\Q2_Try2.csproj.AssemblyReference.cache
-D:\Computer science\Programs\C#\HomeWork9_12\Q2_Try2\obj\Debug\Q2_Try2.csproj.CoreCompileInputs.cache
-D:\Computer science\Programs\C#\HomeWork9_12\Q2_Try2\obj\Debug\Q2_Try2.exe
-D:\Computer science\Programs\C#\HomeWork9_12\Q2_Try2\obj\Debug\Q2_Try2.pdb

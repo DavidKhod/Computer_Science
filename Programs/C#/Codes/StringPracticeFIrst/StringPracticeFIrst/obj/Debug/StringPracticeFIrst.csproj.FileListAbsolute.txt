@@ -1,7 +1,0 @@
-C:\Users\David\Computer_Science\Programs\C#\Codes\StringPracticeFIrst\StringPracticeFIrst\bin\Debug\StringPracticeFIrst.exe.config
-C:\Users\David\Computer_Science\Programs\C#\Codes\StringPracticeFIrst\StringPracticeFIrst\bin\Debug\StringPracticeFIrst.exe
-C:\Users\David\Computer_Science\Programs\C#\Codes\StringPracticeFIrst\StringPracticeFIrst\bin\Debug\StringPracticeFIrst.pdb
-C:\Users\David\Computer_Science\Programs\C#\Codes\StringPracticeFIrst\StringPracticeFIrst\obj\Debug\StringPracticeFIrst.csproj.AssemblyReference.cache
-C:\Users\David\Computer_Science\Programs\C#\Codes\StringPracticeFIrst\StringPracticeFIrst\obj\Debug\StringPracticeFIrst.csproj.CoreCompileInputs.cache
-C:\Users\David\Computer_Science\Programs\C#\Codes\StringPracticeFIrst\StringPracticeFIrst\obj\Debug\StringPracticeFIrst.exe
-C:\Users\David\Computer_Science\Programs\C#\Codes\StringPracticeFIrst\StringPracticeFIrst\obj\Debug\StringPracticeFIrst.pdb

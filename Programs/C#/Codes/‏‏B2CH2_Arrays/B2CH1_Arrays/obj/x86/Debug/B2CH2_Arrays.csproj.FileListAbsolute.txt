@@ -1,6 +1,0 @@
-F:\Computer science\Programs\C#\‏‏B2CH2_Arrays\B2CH1_Arrays\bin\Debug\B2CH1_Arrays.exe
-F:\Computer science\Programs\C#\‏‏B2CH2_Arrays\B2CH1_Arrays\bin\Debug\B2CH1_Arrays.pdb
-F:\Computer science\Programs\C#\‏‏B2CH2_Arrays\B2CH1_Arrays\obj\x86\Debug\B2CH2_Arrays.csproj.AssemblyReference.cache
-F:\Computer science\Programs\C#\‏‏B2CH2_Arrays\B2CH1_Arrays\obj\x86\Debug\B2CH2_Arrays.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\‏‏B2CH2_Arrays\B2CH1_Arrays\obj\x86\Debug\B2CH1_Arrays.exe
-F:\Computer science\Programs\C#\‏‏B2CH2_Arrays\B2CH1_Arrays\obj\x86\Debug\B2CH1_Arrays.pdb

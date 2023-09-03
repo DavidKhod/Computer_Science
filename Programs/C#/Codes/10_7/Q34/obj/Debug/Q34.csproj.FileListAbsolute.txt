@@ -1,6 +1,0 @@
-F:\Computer science\Programs\C#\10_7\Q34\bin\Debug\Q34.exe.config
-F:\Computer science\Programs\C#\10_7\Q34\bin\Debug\Q34.exe
-F:\Computer science\Programs\C#\10_7\Q34\bin\Debug\Q34.pdb
-F:\Computer science\Programs\C#\10_7\Q34\obj\Debug\Q34.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\10_7\Q34\obj\Debug\Q34.exe
-F:\Computer science\Programs\C#\10_7\Q34\obj\Debug\Q34.pdb

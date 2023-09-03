@@ -1,7 +1,0 @@
-F:\Computer science\Programs\C#\P85_HM\Q44\bin\Debug\Q44.exe.config
-F:\Computer science\Programs\C#\P85_HM\Q44\bin\Debug\Q44.exe
-F:\Computer science\Programs\C#\P85_HM\Q44\bin\Debug\Q44.pdb
-F:\Computer science\Programs\C#\P85_HM\Q44\obj\Debug\Q44.csproj.AssemblyReference.cache
-F:\Computer science\Programs\C#\P85_HM\Q44\obj\Debug\Q44.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\P85_HM\Q44\obj\Debug\Q44.exe
-F:\Computer science\Programs\C#\P85_HM\Q44\obj\Debug\Q44.pdb

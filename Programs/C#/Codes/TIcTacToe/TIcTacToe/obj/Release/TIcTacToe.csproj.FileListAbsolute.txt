@@ -1,7 +1,0 @@
-C:\Users\David\Computer_Science\Programs\C#\Codes\TIcTacToe\TIcTacToe\bin\Release\TIcTacToe.exe.config
-C:\Users\David\Computer_Science\Programs\C#\Codes\TIcTacToe\TIcTacToe\bin\Release\TIcTacToe.exe
-C:\Users\David\Computer_Science\Programs\C#\Codes\TIcTacToe\TIcTacToe\bin\Release\TIcTacToe.pdb
-C:\Users\David\Computer_Science\Programs\C#\Codes\TIcTacToe\TIcTacToe\obj\Release\TIcTacToe.csproj.AssemblyReference.cache
-C:\Users\David\Computer_Science\Programs\C#\Codes\TIcTacToe\TIcTacToe\obj\Release\TIcTacToe.csproj.CoreCompileInputs.cache
-C:\Users\David\Computer_Science\Programs\C#\Codes\TIcTacToe\TIcTacToe\obj\Release\TIcTacToe.exe
-C:\Users\David\Computer_Science\Programs\C#\Codes\TIcTacToe\TIcTacToe\obj\Release\TIcTacToe.pdb

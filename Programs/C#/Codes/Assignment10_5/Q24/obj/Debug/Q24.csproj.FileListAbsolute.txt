@@ -1,6 +1,0 @@
-D:\Computer science\Programs\C#\Assignment10_5\Q24\bin\Debug\Q24.exe.config
-D:\Computer science\Programs\C#\Assignment10_5\Q24\bin\Debug\Q24.exe
-D:\Computer science\Programs\C#\Assignment10_5\Q24\bin\Debug\Q24.pdb
-D:\Computer science\Programs\C#\Assignment10_5\Q24\obj\Debug\Q24.csproj.CoreCompileInputs.cache
-D:\Computer science\Programs\C#\Assignment10_5\Q24\obj\Debug\Q24.exe
-D:\Computer science\Programs\C#\Assignment10_5\Q24\obj\Debug\Q24.pdb

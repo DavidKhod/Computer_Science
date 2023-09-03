@@ -1,7 +1,0 @@
-F:\Computer science\Programs\C#\Codes\3_5\P62Q34\bin\Debug\P62Q34.exe.config
-F:\Computer science\Programs\C#\Codes\3_5\P62Q34\bin\Debug\P62Q34.exe
-F:\Computer science\Programs\C#\Codes\3_5\P62Q34\bin\Debug\P62Q34.pdb
-F:\Computer science\Programs\C#\Codes\3_5\P62Q34\obj\Debug\P62Q34.csproj.AssemblyReference.cache
-F:\Computer science\Programs\C#\Codes\3_5\P62Q34\obj\Debug\P62Q34.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\Codes\3_5\P62Q34\obj\Debug\P62Q34.exe
-F:\Computer science\Programs\C#\Codes\3_5\P62Q34\obj\Debug\P62Q34.pdb

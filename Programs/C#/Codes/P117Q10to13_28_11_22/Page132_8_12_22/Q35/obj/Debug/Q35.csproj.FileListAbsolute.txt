@@ -1,6 +1,0 @@
-C:\Users\David\source\repos\Page132_8_12_22\Q35\bin\Debug\Q35.exe.config
-C:\Users\David\source\repos\Page132_8_12_22\Q35\bin\Debug\Q35.exe
-C:\Users\David\source\repos\Page132_8_12_22\Q35\bin\Debug\Q35.pdb
-C:\Users\David\source\repos\Page132_8_12_22\Q35\obj\Debug\Q35.csproj.CoreCompileInputs.cache
-C:\Users\David\source\repos\Page132_8_12_22\Q35\obj\Debug\Q35.exe
-C:\Users\David\source\repos\Page132_8_12_22\Q35\obj\Debug\Q35.pdb

@@ -1,7 +1,0 @@
-F:\Computer science\Programs\C#\ClassW_9_11_22\P107Q10_10_11_22\bin\Debug\P107Q10_10_11_22.exe.config
-F:\Computer science\Programs\C#\ClassW_9_11_22\P107Q10_10_11_22\bin\Debug\P107Q10_10_11_22.exe
-F:\Computer science\Programs\C#\ClassW_9_11_22\P107Q10_10_11_22\bin\Debug\P107Q10_10_11_22.pdb
-F:\Computer science\Programs\C#\ClassW_9_11_22\P107Q10_10_11_22\obj\Debug\P107Q10_10_11_22.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\ClassW_9_11_22\P107Q10_10_11_22\obj\Debug\P107Q10_10_11_22.exe
-F:\Computer science\Programs\C#\ClassW_9_11_22\P107Q10_10_11_22\obj\Debug\P107Q10_10_11_22.pdb
-F:\Computer science\Programs\C#\ClassW_9_11_22\P107Q10_10_11_22\obj\Debug\P107Q10_10_11_22.csproj.AssemblyReference.cache

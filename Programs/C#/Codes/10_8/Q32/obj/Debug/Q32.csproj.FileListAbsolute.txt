@@ -1,8 +1,0 @@
-C:\Users\David\source\repos\10_8\Q32\bin\Debug\Q32.exe.config
-C:\Users\David\source\repos\10_8\Q32\bin\Debug\Q32.exe
-C:\Users\David\source\repos\10_8\Q32\bin\Debug\Q32.pdb
-C:\Users\David\source\repos\10_8\Q32\bin\Debug\ObjFirstMbt1.dll
-C:\Users\David\source\repos\10_8\Q32\obj\Debug\Q32.csproj.CoreCompileInputs.cache
-C:\Users\David\source\repos\10_8\Q32\obj\Debug\Q32.csproj.CopyComplete
-C:\Users\David\source\repos\10_8\Q32\obj\Debug\Q32.exe
-C:\Users\David\source\repos\10_8\Q32\obj\Debug\Q32.pdb

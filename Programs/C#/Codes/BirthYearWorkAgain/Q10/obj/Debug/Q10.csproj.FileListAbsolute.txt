@@ -1,7 +1,0 @@
-F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\Q10\bin\Debug\Q10.exe.config
-F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\Q10\bin\Debug\Q10.exe
-F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\Q10\bin\Debug\Q10.pdb
-F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\Q10\obj\Debug\Q10.csproj.CoreCompileInputs.cache
-F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\Q10\obj\Debug\Q10.exe
-F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\Q10\obj\Debug\Q10.pdb
-F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\Q10\obj\Debug\Q10.csproj.AssemblyReference.cache

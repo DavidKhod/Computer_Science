@@ -1,7 +1,0 @@
-C:\Users\David\Computer_science\Programs\C#\Codes\PracticeExam_12_6\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
-C:\Users\David\Computer_science\Programs\C#\Codes\PracticeExam_12_6\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
-C:\Users\David\Computer_science\Programs\C#\Codes\PracticeExam_12_6\PhoneBook\bin\Debug\PhoneBook.exe.config
-C:\Users\David\Computer_science\Programs\C#\Codes\PracticeExam_12_6\PhoneBook\bin\Debug\PhoneBook.exe
-C:\Users\David\Computer_science\Programs\C#\Codes\PracticeExam_12_6\PhoneBook\bin\Debug\PhoneBook.pdb
-C:\Users\David\Computer_science\Programs\C#\Codes\PracticeExam_12_6\PhoneBook\obj\Debug\PhoneBook.exe
-C:\Users\David\Computer_science\Programs\C#\Codes\PracticeExam_12_6\PhoneBook\obj\Debug\PhoneBook.pdb

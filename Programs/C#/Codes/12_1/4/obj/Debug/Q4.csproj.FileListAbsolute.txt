@@ -1,7 +1,0 @@
-D:\Computer science\Programs\C#\12_1\4\bin\Debug\4.exe.config
-D:\Computer science\Programs\C#\12_1\4\bin\Debug\4.exe
-D:\Computer science\Programs\C#\12_1\4\bin\Debug\4.pdb
-D:\Computer science\Programs\C#\12_1\4\obj\Debug\Q4.csproj.AssemblyReference.cache
-D:\Computer science\Programs\C#\12_1\4\obj\Debug\Q4.csproj.CoreCompileInputs.cache
-D:\Computer science\Programs\C#\12_1\4\obj\Debug\4.exe
-D:\Computer science\Programs\C#\12_1\4\obj\Debug\4.pdb

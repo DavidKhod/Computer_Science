@@ -1,6 +1,0 @@
-F:\מדעי מחשב\Programs\C#\SelfExercise2\Q3\obj\x86\Debug\Q3_DiscountPrice.csproj.AssemblyReference.cache
-F:\מדעי מחשב\Programs\C#\SelfExercise2\Q3\obj\x86\Debug\Q3_DiscountPrice.csproj.CoreCompileInputs.cache
-F:\מדעי מחשב\Programs\C#\SelfExercise2\Q3\bin\Debug\Q3.exe
-F:\מדעי מחשב\Programs\C#\SelfExercise2\Q3\bin\Debug\Q3.pdb
-F:\מדעי מחשב\Programs\C#\SelfExercise2\Q3\obj\x86\Debug\Q3.exe
-F:\מדעי מחשב\Programs\C#\SelfExercise2\Q3\obj\x86\Debug\Q3.pdb

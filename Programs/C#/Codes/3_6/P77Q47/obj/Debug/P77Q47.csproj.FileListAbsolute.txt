@@ -1,7 +1,0 @@
-F:\Computer science\Programs\C#\Codes\3_6\P77Q47\bin\Debug\P77Q47.exe.config
-F:\Computer science\Programs\C#\Codes\3_6\P77Q47\bin\Debug\P77Q47.exe
-F:\Computer science\Programs\C#\Codes\3_6\P77Q47\bin\Debug\P77Q47.pdb
-F:\Computer science\Programs\C#\Codes\3_6\P77Q47\obj\Debug\P77Q47.csproj.AssemblyReference.cache
-F:\Computer science\Programs\C#\Codes\3_6\P77Q47\obj\Debug\P77Q47.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\Codes\3_6\P77Q47\obj\Debug\P77Q47.exe
-F:\Computer science\Programs\C#\Codes\3_6\P77Q47\obj\Debug\P77Q47.pdb

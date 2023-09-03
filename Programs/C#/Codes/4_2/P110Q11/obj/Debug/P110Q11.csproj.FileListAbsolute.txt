@@ -1,6 +1,0 @@
-C:\Users\David\Computer_science\Programs\C#\Codes\4_2\P110Q11\bin\Debug\P110Q11.exe.config
-C:\Users\David\Computer_science\Programs\C#\Codes\4_2\P110Q11\bin\Debug\P110Q11.exe
-C:\Users\David\Computer_science\Programs\C#\Codes\4_2\P110Q11\bin\Debug\P110Q11.pdb
-C:\Users\David\Computer_science\Programs\C#\Codes\4_2\P110Q11\obj\Debug\P110Q11.csproj.CoreCompileInputs.cache
-C:\Users\David\Computer_science\Programs\C#\Codes\4_2\P110Q11\obj\Debug\P110Q11.exe
-C:\Users\David\Computer_science\Programs\C#\Codes\4_2\P110Q11\obj\Debug\P110Q11.pdb

@@ -1,7 +1,0 @@
-F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\BirthYearWorkAgain\bin\Debug\BirthYearWorkAgain.exe.config
-F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\BirthYearWorkAgain\bin\Debug\BirthYearWorkAgain.exe
-F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\BirthYearWorkAgain\bin\Debug\BirthYearWorkAgain.pdb
-F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\BirthYearWorkAgain\obj\Debug\BirthYearWorkAgain.csproj.AssemblyReference.cache
-F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\BirthYearWorkAgain\obj\Debug\BirthYearWorkAgain.csproj.CoreCompileInputs.cache
-F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\BirthYearWorkAgain\obj\Debug\BirthYearWorkAgain.exe
-F:\מדעי מחשב\Programs\C#\BirthYearWorkAgain\BirthYearWorkAgain\obj\Debug\BirthYearWorkAgain.pdb

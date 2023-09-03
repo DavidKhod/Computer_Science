@@ -1,7 +1,0 @@
-F:\Computer science\Programs\C#\MyFirstIf\MyFirstIf\bin\Debug\MyFirstIf.exe.config
-F:\Computer science\Programs\C#\MyFirstIf\MyFirstIf\bin\Debug\MyFirstIf.exe
-F:\Computer science\Programs\C#\MyFirstIf\MyFirstIf\bin\Debug\MyFirstIf.pdb
-F:\Computer science\Programs\C#\MyFirstIf\MyFirstIf\obj\Debug\MyFirstIf.csproj.AssemblyReference.cache
-F:\Computer science\Programs\C#\MyFirstIf\MyFirstIf\obj\Debug\MyFirstIf.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\MyFirstIf\MyFirstIf\obj\Debug\MyFirstIf.exe
-F:\Computer science\Programs\C#\MyFirstIf\MyFirstIf\obj\Debug\MyFirstIf.pdb

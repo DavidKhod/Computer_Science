@@ -1,8 +1,0 @@
-C:\Users\David\source\repos\HW_9_13\Studens_2\bin\Debug\Studens_2.exe.config
-C:\Users\David\source\repos\HW_9_13\Studens_2\bin\Debug\Studens_2.exe
-C:\Users\David\source\repos\HW_9_13\Studens_2\bin\Debug\Studens_2.pdb
-C:\Users\David\source\repos\HW_9_13\Studens_2\bin\Debug\ObjFirstMbt1.dll
-C:\Users\David\source\repos\HW_9_13\Studens_2\obj\Debug\Studens_2.csproj.CoreCompileInputs.cache
-C:\Users\David\source\repos\HW_9_13\Studens_2\obj\Debug\Studens_2.csproj.CopyComplete
-C:\Users\David\source\repos\HW_9_13\Studens_2\obj\Debug\Studens_2.exe
-C:\Users\David\source\repos\HW_9_13\Studens_2\obj\Debug\Studens_2.pdb

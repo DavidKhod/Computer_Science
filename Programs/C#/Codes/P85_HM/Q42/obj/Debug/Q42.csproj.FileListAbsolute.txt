@@ -1,6 +1,0 @@
-F:\Computer science\Programs\C#\P85_HM\Q42\bin\Debug\Q42.exe.config
-F:\Computer science\Programs\C#\P85_HM\Q42\bin\Debug\Q42.exe
-F:\Computer science\Programs\C#\P85_HM\Q42\bin\Debug\Q42.pdb
-F:\Computer science\Programs\C#\P85_HM\Q42\obj\Debug\Q42.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\P85_HM\Q42\obj\Debug\Q42.exe
-F:\Computer science\Programs\C#\P85_HM\Q42\obj\Debug\Q42.pdb

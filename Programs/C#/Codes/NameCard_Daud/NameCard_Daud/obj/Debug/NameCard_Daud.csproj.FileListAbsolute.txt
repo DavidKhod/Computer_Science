@@ -1,7 +1,0 @@
-F:\מדעי מחשב\NameCard_Daud\NameCard_Daud\obj\Debug\NameCard_Daud.csproj.AssemblyReference.cache
-F:\מדעי מחשב\NameCard_Daud\NameCard_Daud\obj\Debug\NameCard_Daud.csproj.CoreCompileInputs.cache
-F:\מדעי מחשב\NameCard_Daud\NameCard_Daud\bin\Debug\NameCard_Daud.exe.config
-F:\מדעי מחשב\NameCard_Daud\NameCard_Daud\bin\Debug\NameCard_Daud.exe
-F:\מדעי מחשב\NameCard_Daud\NameCard_Daud\bin\Debug\NameCard_Daud.pdb
-F:\מדעי מחשב\NameCard_Daud\NameCard_Daud\obj\Debug\NameCard_Daud.exe
-F:\מדעי מחשב\NameCard_Daud\NameCard_Daud\obj\Debug\NameCard_Daud.pdb

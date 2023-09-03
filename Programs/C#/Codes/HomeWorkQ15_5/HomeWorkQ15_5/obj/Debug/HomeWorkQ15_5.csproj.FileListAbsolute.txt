@@ -1,9 +1,0 @@
-F:\Computer science\Programs\C#\HomeWorkQ15_5\HomeWorkQ15_5\obj\Debug\HomeWorkQ15_5.csproj.AssemblyReference.cache
-F:\Computer science\Programs\C#\HomeWorkQ15_5\HomeWorkQ15_5\obj\Debug\HomeWorkQ15_5.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\HomeWorkQ15_5\HomeWorkQ15_5\bin\Debug\HomeWorkQ15_5.exe.config
-F:\Computer science\Programs\C#\HomeWorkQ15_5\HomeWorkQ15_5\bin\Debug\HomeWorkQ15_5.exe
-F:\Computer science\Programs\C#\HomeWorkQ15_5\HomeWorkQ15_5\bin\Debug\HomeWorkQ15_5.pdb
-F:\Computer science\Programs\C#\HomeWorkQ15_5\HomeWorkQ15_5\bin\Debug\ObjFirstMbt1.dll
-F:\Computer science\Programs\C#\HomeWorkQ15_5\HomeWorkQ15_5\obj\Debug\HomeWorkQ15_5.csproj.CopyComplete
-F:\Computer science\Programs\C#\HomeWorkQ15_5\HomeWorkQ15_5\obj\Debug\HomeWorkQ15_5.exe
-F:\Computer science\Programs\C#\HomeWorkQ15_5\HomeWorkQ15_5\obj\Debug\HomeWorkQ15_5.pdb

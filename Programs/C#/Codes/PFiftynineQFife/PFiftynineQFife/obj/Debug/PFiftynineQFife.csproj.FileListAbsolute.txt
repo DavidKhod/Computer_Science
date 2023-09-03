@@ -1,7 +1,0 @@
-F:\מדעי מחשב\Programs\C#\PFiftynineQFife\PFiftynineQFife\bin\Debug\PFiftynineQFife.exe.config
-F:\מדעי מחשב\Programs\C#\PFiftynineQFife\PFiftynineQFife\bin\Debug\PFiftynineQFife.exe
-F:\מדעי מחשב\Programs\C#\PFiftynineQFife\PFiftynineQFife\bin\Debug\PFiftynineQFife.pdb
-F:\מדעי מחשב\Programs\C#\PFiftynineQFife\PFiftynineQFife\obj\Debug\PFiftynineQFife.csproj.AssemblyReference.cache
-F:\מדעי מחשב\Programs\C#\PFiftynineQFife\PFiftynineQFife\obj\Debug\PFiftynineQFife.csproj.CoreCompileInputs.cache
-F:\מדעי מחשב\Programs\C#\PFiftynineQFife\PFiftynineQFife\obj\Debug\PFiftynineQFife.exe
-F:\מדעי מחשב\Programs\C#\PFiftynineQFife\PFiftynineQFife\obj\Debug\PFiftynineQFife.pdb

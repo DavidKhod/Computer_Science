@@ -1,6 +1,0 @@
-F:\מדעי מחשב\Programs\C#\PFiftynineQFife\Q6\bin\Debug\Q6.exe.config
-F:\מדעי מחשב\Programs\C#\PFiftynineQFife\Q6\bin\Debug\Q6.exe
-F:\מדעי מחשב\Programs\C#\PFiftynineQFife\Q6\bin\Debug\Q6.pdb
-F:\מדעי מחשב\Programs\C#\PFiftynineQFife\Q6\obj\Debug\Q6.csproj.CoreCompileInputs.cache
-F:\מדעי מחשב\Programs\C#\PFiftynineQFife\Q6\obj\Debug\Q6.exe
-F:\מדעי מחשב\Programs\C#\PFiftynineQFife\Q6\obj\Debug\Q6.pdb

@@ -1,7 +1,0 @@
-F:\Computer science\Programs\C#\Page132_Q34_36_38\Q38\bin\Debug\Q38.exe.config
-F:\Computer science\Programs\C#\Page132_Q34_36_38\Q38\bin\Debug\Q38.exe
-F:\Computer science\Programs\C#\Page132_Q34_36_38\Q38\bin\Debug\Q38.pdb
-F:\Computer science\Programs\C#\Page132_Q34_36_38\Q38\obj\Debug\Q38.csproj.AssemblyReference.cache
-F:\Computer science\Programs\C#\Page132_Q34_36_38\Q38\obj\Debug\Q38.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\Page132_Q34_36_38\Q38\obj\Debug\Q38.exe
-F:\Computer science\Programs\C#\Page132_Q34_36_38\Q38\obj\Debug\Q38.pdb

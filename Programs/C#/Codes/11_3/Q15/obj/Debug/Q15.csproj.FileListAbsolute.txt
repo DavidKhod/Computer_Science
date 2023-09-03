@@ -1,6 +1,0 @@
-F:\Computer science\Programs\C#\11_3\Q15\obj\Debug\Q15.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\11_3\Q15\bin\Debug\Q15.exe.config
-F:\Computer science\Programs\C#\11_3\Q15\bin\Debug\Q15.exe
-F:\Computer science\Programs\C#\11_3\Q15\bin\Debug\Q15.pdb
-F:\Computer science\Programs\C#\11_3\Q15\obj\Debug\Q15.exe
-F:\Computer science\Programs\C#\11_3\Q15\obj\Debug\Q15.pdb

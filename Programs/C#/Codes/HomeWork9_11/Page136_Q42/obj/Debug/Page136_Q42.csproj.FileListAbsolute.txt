@@ -1,6 +1,0 @@
-C:\Users\David\source\repos\HomeWork9_11\Page136_Q42\bin\Debug\Page136_Q42.exe.config
-C:\Users\David\source\repos\HomeWork9_11\Page136_Q42\bin\Debug\Page136_Q42.exe
-C:\Users\David\source\repos\HomeWork9_11\Page136_Q42\bin\Debug\Page136_Q42.pdb
-C:\Users\David\source\repos\HomeWork9_11\Page136_Q42\obj\Debug\Page136_Q42.csproj.CoreCompileInputs.cache
-C:\Users\David\source\repos\HomeWork9_11\Page136_Q42\obj\Debug\Page136_Q42.exe
-C:\Users\David\source\repos\HomeWork9_11\Page136_Q42\obj\Debug\Page136_Q42.pdb

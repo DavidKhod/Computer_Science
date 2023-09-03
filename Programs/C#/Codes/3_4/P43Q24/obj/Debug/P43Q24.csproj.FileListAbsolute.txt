@@ -1,7 +1,0 @@
-F:\Computer science\Programs\C#\Codes\3_4\P43Q24\bin\Debug\P43Q24.exe.config
-F:\Computer science\Programs\C#\Codes\3_4\P43Q24\bin\Debug\P43Q24.exe
-F:\Computer science\Programs\C#\Codes\3_4\P43Q24\bin\Debug\P43Q24.pdb
-F:\Computer science\Programs\C#\Codes\3_4\P43Q24\obj\Debug\P43Q24.csproj.AssemblyReference.cache
-F:\Computer science\Programs\C#\Codes\3_4\P43Q24\obj\Debug\P43Q24.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\Codes\3_4\P43Q24\obj\Debug\P43Q24.exe
-F:\Computer science\Programs\C#\Codes\3_4\P43Q24\obj\Debug\P43Q24.pdb

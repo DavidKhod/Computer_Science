@@ -1,7 +1,0 @@
-F:\Computer science\Programs\C#\Just_rndm\OsherWantsHelp\bin\Debug\OsherWantsHelp.exe.config
-F:\Computer science\Programs\C#\Just_rndm\OsherWantsHelp\bin\Debug\OsherWantsHelp.exe
-F:\Computer science\Programs\C#\Just_rndm\OsherWantsHelp\bin\Debug\OsherWantsHelp.pdb
-F:\Computer science\Programs\C#\Just_rndm\OsherWantsHelp\obj\Debug\OsherWantsHelp.csproj.AssemblyReference.cache
-F:\Computer science\Programs\C#\Just_rndm\OsherWantsHelp\obj\Debug\OsherWantsHelp.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\Just_rndm\OsherWantsHelp\obj\Debug\OsherWantsHelp.exe
-F:\Computer science\Programs\C#\Just_rndm\OsherWantsHelp\obj\Debug\OsherWantsHelp.pdb

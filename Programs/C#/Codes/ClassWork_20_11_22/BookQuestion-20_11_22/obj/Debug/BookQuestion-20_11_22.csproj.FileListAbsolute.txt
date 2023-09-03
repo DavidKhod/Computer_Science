@@ -1,8 +1,0 @@
-C:\Users\David\source\repos\ClassWork_20_11_22\BookQuestion-20_11_22\bin\Debug\BookQuestion-20_11_22.exe.config
-C:\Users\David\source\repos\ClassWork_20_11_22\BookQuestion-20_11_22\bin\Debug\BookQuestion-20_11_22.exe
-C:\Users\David\source\repos\ClassWork_20_11_22\BookQuestion-20_11_22\bin\Debug\BookQuestion-20_11_22.pdb
-C:\Users\David\source\repos\ClassWork_20_11_22\BookQuestion-20_11_22\bin\Debug\ObjFirstMbt1.dll
-C:\Users\David\source\repos\ClassWork_20_11_22\BookQuestion-20_11_22\obj\Debug\BookQuestion-20_11_22.csproj.CoreCompileInputs.cache
-C:\Users\David\source\repos\ClassWork_20_11_22\BookQuestion-20_11_22\obj\Debug\BookQuestion-20_11_22.csproj.CopyComplete
-C:\Users\David\source\repos\ClassWork_20_11_22\BookQuestion-20_11_22\obj\Debug\BookQuestion-20_11_22.exe
-C:\Users\David\source\repos\ClassWork_20_11_22\BookQuestion-20_11_22\obj\Debug\BookQuestion-20_11_22.pdb

@@ -1,7 +1,0 @@
-F:\Input-output_1\Input-output_1\bin\Debug\Input-output_1.exe.config
-F:\Input-output_1\Input-output_1\bin\Debug\Input-output_1.exe
-F:\Input-output_1\Input-output_1\bin\Debug\Input-output_1.pdb
-F:\Input-output_1\Input-output_1\obj\Debug\Input-output_1.csproj.AssemblyReference.cache
-F:\Input-output_1\Input-output_1\obj\Debug\Input-output_1.csproj.CoreCompileInputs.cache
-F:\Input-output_1\Input-output_1\obj\Debug\Input-output_1.exe
-F:\Input-output_1\Input-output_1\obj\Debug\Input-output_1.pdb

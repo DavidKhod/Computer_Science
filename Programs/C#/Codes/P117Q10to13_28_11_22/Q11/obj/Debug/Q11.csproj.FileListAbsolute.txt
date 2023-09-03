@@ -1,6 +1,0 @@
-C:\Users\David\source\repos\P117Q10to13_28_11_22\Q11\bin\Debug\Q11.exe.config
-C:\Users\David\source\repos\P117Q10to13_28_11_22\Q11\bin\Debug\Q11.exe
-C:\Users\David\source\repos\P117Q10to13_28_11_22\Q11\bin\Debug\Q11.pdb
-C:\Users\David\source\repos\P117Q10to13_28_11_22\Q11\obj\Debug\Q11.csproj.CoreCompileInputs.cache
-C:\Users\David\source\repos\P117Q10to13_28_11_22\Q11\obj\Debug\Q11.exe
-C:\Users\David\source\repos\P117Q10to13_28_11_22\Q11\obj\Debug\Q11.pdb

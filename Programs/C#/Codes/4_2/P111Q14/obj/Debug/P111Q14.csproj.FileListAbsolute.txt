@@ -1,7 +1,0 @@
-C:\Users\David\Computer_science\Programs\C#\Codes\4_2\P111Q14\bin\Debug\P111Q14.exe.config
-C:\Users\David\Computer_science\Programs\C#\Codes\4_2\P111Q14\bin\Debug\P111Q14.exe
-C:\Users\David\Computer_science\Programs\C#\Codes\4_2\P111Q14\bin\Debug\P111Q14.pdb
-C:\Users\David\Computer_science\Programs\C#\Codes\4_2\P111Q14\obj\Debug\P111Q14.csproj.AssemblyReference.cache
-C:\Users\David\Computer_science\Programs\C#\Codes\4_2\P111Q14\obj\Debug\P111Q14.csproj.CoreCompileInputs.cache
-C:\Users\David\Computer_science\Programs\C#\Codes\4_2\P111Q14\obj\Debug\P111Q14.exe
-C:\Users\David\Computer_science\Programs\C#\Codes\4_2\P111Q14\obj\Debug\P111Q14.pdb

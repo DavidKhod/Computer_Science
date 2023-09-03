@@ -1,7 +1,0 @@
-F:\Computer science\Programs\C#\Codes\3_4\P54Q25\bin\Debug\P54Q25.exe.config
-F:\Computer science\Programs\C#\Codes\3_4\P54Q25\bin\Debug\P54Q25.exe
-F:\Computer science\Programs\C#\Codes\3_4\P54Q25\bin\Debug\P54Q25.pdb
-F:\Computer science\Programs\C#\Codes\3_4\P54Q25\obj\Debug\P54Q25.csproj.AssemblyReference.cache
-F:\Computer science\Programs\C#\Codes\3_4\P54Q25\obj\Debug\P54Q25.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\Codes\3_4\P54Q25\obj\Debug\P54Q25.exe
-F:\Computer science\Programs\C#\Codes\3_4\P54Q25\obj\Debug\P54Q25.pdb

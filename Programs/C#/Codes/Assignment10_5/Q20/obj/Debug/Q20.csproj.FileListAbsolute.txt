@@ -1,6 +1,0 @@
-D:\Computer science\Programs\C#\Assignment10_5\Q20\bin\Debug\Q20.exe.config
-D:\Computer science\Programs\C#\Assignment10_5\Q20\bin\Debug\Q20.exe
-D:\Computer science\Programs\C#\Assignment10_5\Q20\bin\Debug\Q20.pdb
-D:\Computer science\Programs\C#\Assignment10_5\Q20\obj\Debug\Q20.csproj.CoreCompileInputs.cache
-D:\Computer science\Programs\C#\Assignment10_5\Q20\obj\Debug\Q20.exe
-D:\Computer science\Programs\C#\Assignment10_5\Q20\obj\Debug\Q20.pdb

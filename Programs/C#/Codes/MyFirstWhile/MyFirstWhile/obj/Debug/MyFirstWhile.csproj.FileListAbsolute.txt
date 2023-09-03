@@ -1,7 +1,0 @@
-D:\Computer science\Programs\C#\MyFirstWhile\MyFirstWhile\bin\Debug\MyFirstWhile.exe.config
-D:\Computer science\Programs\C#\MyFirstWhile\MyFirstWhile\bin\Debug\MyFirstWhile.exe
-D:\Computer science\Programs\C#\MyFirstWhile\MyFirstWhile\bin\Debug\MyFirstWhile.pdb
-D:\Computer science\Programs\C#\MyFirstWhile\MyFirstWhile\obj\Debug\MyFirstWhile.csproj.AssemblyReference.cache
-D:\Computer science\Programs\C#\MyFirstWhile\MyFirstWhile\obj\Debug\MyFirstWhile.csproj.CoreCompileInputs.cache
-D:\Computer science\Programs\C#\MyFirstWhile\MyFirstWhile\obj\Debug\MyFirstWhile.exe
-D:\Computer science\Programs\C#\MyFirstWhile\MyFirstWhile\obj\Debug\MyFirstWhile.pdb

@@ -1,9 +1,0 @@
-C:\Users\STUDENT\source\repos\My_First_OOP\My_First_OOP\bin\Debug\My_First_OOP.exe.config
-C:\Users\STUDENT\source\repos\My_First_OOP\My_First_OOP\bin\Debug\My_First_OOP.exe
-C:\Users\STUDENT\source\repos\My_First_OOP\My_First_OOP\bin\Debug\My_First_OOP.pdb
-C:\Users\STUDENT\source\repos\My_First_OOP\My_First_OOP\bin\Debug\Box.dll
-C:\Users\STUDENT\source\repos\My_First_OOP\My_First_OOP\obj\Debug\My_First_OOP.csproj.AssemblyReference.cache
-C:\Users\STUDENT\source\repos\My_First_OOP\My_First_OOP\obj\Debug\My_First_OOP.csproj.CoreCompileInputs.cache
-C:\Users\STUDENT\source\repos\My_First_OOP\My_First_OOP\obj\Debug\My_First_OOP.csproj.CopyComplete
-C:\Users\STUDENT\source\repos\My_First_OOP\My_First_OOP\obj\Debug\My_First_OOP.exe
-C:\Users\STUDENT\source\repos\My_First_OOP\My_First_OOP\obj\Debug\My_First_OOP.pdb

@@ -1,6 +1,0 @@
-F:\Computer science\Programs\C#\HW_9_15\P138Q52\bin\Debug\P138Q52.exe.config
-F:\Computer science\Programs\C#\HW_9_15\P138Q52\bin\Debug\P138Q52.exe
-F:\Computer science\Programs\C#\HW_9_15\P138Q52\bin\Debug\P138Q52.pdb
-F:\Computer science\Programs\C#\HW_9_15\P138Q52\obj\Debug\P138Q52.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\HW_9_15\P138Q52\obj\Debug\P138Q52.exe
-F:\Computer science\Programs\C#\HW_9_15\P138Q52\obj\Debug\P138Q52.pdb

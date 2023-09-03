@@ -1,7 +1,0 @@
-F:\Computer science\Programs\C#\GoingUpGoingDown\GoingUpGoingDown\bin\Debug\GoingUpGoingDown.exe.config
-F:\Computer science\Programs\C#\GoingUpGoingDown\GoingUpGoingDown\bin\Debug\GoingUpGoingDown.exe
-F:\Computer science\Programs\C#\GoingUpGoingDown\GoingUpGoingDown\bin\Debug\GoingUpGoingDown.pdb
-F:\Computer science\Programs\C#\GoingUpGoingDown\GoingUpGoingDown\obj\Debug\GoingUpGoingDown.csproj.AssemblyReference.cache
-F:\Computer science\Programs\C#\GoingUpGoingDown\GoingUpGoingDown\obj\Debug\GoingUpGoingDown.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\GoingUpGoingDown\GoingUpGoingDown\obj\Debug\GoingUpGoingDown.exe
-F:\Computer science\Programs\C#\GoingUpGoingDown\GoingUpGoingDown\obj\Debug\GoingUpGoingDown.pdb

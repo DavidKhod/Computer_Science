@@ -1,7 +1,0 @@
-D:\Computer science\Programs\C#\HWQ1_11_11_22\HWQ3_11_11_22\bin\Debug\HWQ3_11_11_22.exe.config
-D:\Computer science\Programs\C#\HWQ1_11_11_22\HWQ3_11_11_22\bin\Debug\HWQ3_11_11_22.exe
-D:\Computer science\Programs\C#\HWQ1_11_11_22\HWQ3_11_11_22\bin\Debug\HWQ3_11_11_22.pdb
-D:\Computer science\Programs\C#\HWQ1_11_11_22\HWQ3_11_11_22\obj\Debug\HWQ3_11_11_22.csproj.CoreCompileInputs.cache
-D:\Computer science\Programs\C#\HWQ1_11_11_22\HWQ3_11_11_22\obj\Debug\HWQ3_11_11_22.exe
-D:\Computer science\Programs\C#\HWQ1_11_11_22\HWQ3_11_11_22\obj\Debug\HWQ3_11_11_22.pdb
-D:\Computer science\Programs\C#\HWQ1_11_11_22\HWQ3_11_11_22\obj\Debug\HWQ3_11_11_22.csproj.AssemblyReference.cache

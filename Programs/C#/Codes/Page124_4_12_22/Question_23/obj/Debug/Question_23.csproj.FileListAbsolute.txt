@@ -1,6 +1,0 @@
-C:\Users\David\source\repos\Page124_4_12_22\Question_23\bin\Debug\Question_23.exe.config
-C:\Users\David\source\repos\Page124_4_12_22\Question_23\bin\Debug\Question_23.exe
-C:\Users\David\source\repos\Page124_4_12_22\Question_23\bin\Debug\Question_23.pdb
-C:\Users\David\source\repos\Page124_4_12_22\Question_23\obj\Debug\Question_23.csproj.CoreCompileInputs.cache
-C:\Users\David\source\repos\Page124_4_12_22\Question_23\obj\Debug\Question_23.exe
-C:\Users\David\source\repos\Page124_4_12_22\Question_23\obj\Debug\Question_23.pdb

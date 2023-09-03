@@ -1,6 +1,0 @@
-D:\Computer science\Programs\C#\P146_147\Q10\bin\Debug\Q10.exe.config
-D:\Computer science\Programs\C#\P146_147\Q10\bin\Debug\Q10.exe
-D:\Computer science\Programs\C#\P146_147\Q10\bin\Debug\Q10.pdb
-D:\Computer science\Programs\C#\P146_147\Q10\obj\Debug\Q10.csproj.CoreCompileInputs.cache
-D:\Computer science\Programs\C#\P146_147\Q10\obj\Debug\Q10.exe
-D:\Computer science\Programs\C#\P146_147\Q10\obj\Debug\Q10.pdb

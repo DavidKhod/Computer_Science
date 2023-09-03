@@ -1,7 +1,0 @@
-F:\Computer science\Programs\C#\3_1B2\P45Q12\bin\Debug\P45Q12.exe.config
-F:\Computer science\Programs\C#\3_1B2\P45Q12\bin\Debug\P45Q12.exe
-F:\Computer science\Programs\C#\3_1B2\P45Q12\bin\Debug\P45Q12.pdb
-F:\Computer science\Programs\C#\3_1B2\P45Q12\obj\Debug\P45Q12.csproj.AssemblyReference.cache
-F:\Computer science\Programs\C#\3_1B2\P45Q12\obj\Debug\P45Q12.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\3_1B2\P45Q12\obj\Debug\P45Q12.exe
-F:\Computer science\Programs\C#\3_1B2\P45Q12\obj\Debug\P45Q12.pdb

@@ -1,6 +1,0 @@
-F:\Computer science\Programs\C#\3_1B2\P45Q9\bin\Debug\P45Q9.exe.config
-F:\Computer science\Programs\C#\3_1B2\P45Q9\bin\Debug\P45Q9.exe
-F:\Computer science\Programs\C#\3_1B2\P45Q9\bin\Debug\P45Q9.pdb
-F:\Computer science\Programs\C#\3_1B2\P45Q9\obj\Debug\P45Q9.csproj.CoreCompileInputs.cache
-F:\Computer science\Programs\C#\3_1B2\P45Q9\obj\Debug\P45Q9.exe
-F:\Computer science\Programs\C#\3_1B2\P45Q9\obj\Debug\P45Q9.pdb

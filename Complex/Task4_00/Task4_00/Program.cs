@@ -3,9 +3,10 @@ namespace Task4_00
 {
     class Program
     {
-        static double Avg(int[] arr)//2n + 3
+        static double Avg(int[] arr)//3n + 3
         {
             int sum = 0;//1
+
                         //1         n           n
             for (int i = 0; i < arr.Length; i++)
             {
@@ -17,10 +18,11 @@ namespace Task4_00
         static void BubbleSort(int[] arr)//6n^2 + 3n + 2
         {
             int tempnum;//1
+
                         //1         n           n
             for (int i = 0; i < arr.Length; i++)
             {            //n        n^2              n^2
-                for (int j = i; j < arr.Length - 1; j++)
+                for (int j = i; j < arr.Length; j++)
                 {
                     if (arr[j] > arr[j + 1])//n^2
                     {
@@ -48,6 +50,7 @@ namespace Task4_00
             int n1Len = NumLength(n1);//3n+2
             int n2Len = NumLength(n2);//3n+2
             int cnt = 0, temp;//2
+
                               //1        //n      //n
             for (int i = 0; i < n1Len; i++)
             {
@@ -82,7 +85,7 @@ namespace Task4_00
         static bool AllTheSame(int[,] mat) //n = mat.x = mat.y,3n^2 + 3n + 3
         {
             int n = mat[0, 0];//1
-                              //1        n                n
+                        //1        n                n
             for (int i = 0; i < mat.GetLength(0); i++)
             {           //n          n^2               n^2
                 for (int j = 0; j < mat.GetLength(1); j++)

@@ -110,7 +110,7 @@ namespace Task4_3
             int x = 1;//1
                       //1      n      n
             for (int i = 1; i <= n; i++)
-            {//            n    n^2+n    n^2+n
+            {//            n     n^2+n n^2+n
                 for (int j = 1; j <= i; j++)
                     x = x * j; //n^2+n 
                 Console.Write(x);//n

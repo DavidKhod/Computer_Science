@@ -1,5 +1,4 @@
-﻿using System;
-//The class IntNode presents a node with integers only
+﻿//The class IntNode presents a node with integers only
 public class IntNode
 {
     private int value;//The value
@@ -53,7 +52,6 @@ public class IntNode
     {
         this.next = next;
     }
-
     public bool HasNext()
     {
         return this.GetNext() != null;

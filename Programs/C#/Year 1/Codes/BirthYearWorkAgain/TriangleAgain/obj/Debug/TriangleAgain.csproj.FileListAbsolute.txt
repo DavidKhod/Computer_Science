@@ -1,0 +1,7 @@
+F:\Computer science\Programs\C#\BirthYearWorkAgain\TriangleAgain\bin\Debug\TriangleAgain.exe.config
+F:\Computer science\Programs\C#\BirthYearWorkAgain\TriangleAgain\bin\Debug\TriangleAgain.exe
+F:\Computer science\Programs\C#\BirthYearWorkAgain\TriangleAgain\bin\Debug\TriangleAgain.pdb
+F:\Computer science\Programs\C#\BirthYearWorkAgain\TriangleAgain\obj\Debug\TriangleAgain.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\BirthYearWorkAgain\TriangleAgain\obj\Debug\TriangleAgain.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\BirthYearWorkAgain\TriangleAgain\obj\Debug\TriangleAgain.exe
+F:\Computer science\Programs\C#\BirthYearWorkAgain\TriangleAgain\obj\Debug\TriangleAgain.pdb

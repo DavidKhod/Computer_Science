@@ -1,0 +1,23 @@
+C:\Documents and Settings\אודי.ORIT\Local Settings\Application Data\Temporary Projects\CH8_SelfTest\bin\Release\CH8_SelfTest.exe
+C:\Documents and Settings\אודי.ORIT\Local Settings\Application Data\Temporary Projects\CH8_SelfTest\bin\Release\CH8_SelfTest.pdb
+C:\Documents and Settings\אודי.ORIT\Local Settings\Application Data\Temporary Projects\CH8_SelfTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\אודי.ORIT\Local Settings\Application Data\Temporary Projects\CH8_SelfTest\obj\x86\Release\CH8_SelfTest.exe
+C:\Documents and Settings\אודי.ORIT\Local Settings\Application Data\Temporary Projects\CH8_SelfTest\obj\x86\Release\CH8_SelfTest.pdb
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעה\מדעי המחשב\יסודות - עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_SelfTest\CH8_SelfTest\obj\x86\Release\CH8_SelfTest.exe
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעה\מדעי המחשב\יסודות - עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_SelfTest\CH8_SelfTest\obj\x86\Release\CH8_SelfTest.pdb
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעו\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_SelfTest\CH8_SelfTest\obj\x86\Release\CH8_SelfTest.exe
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעו\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_SelfTest\CH8_SelfTest\obj\x86\Release\CH8_SelfTest.pdb
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעז\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_SelfTest\CH8_SelfTest\obj\x86\Release\CH8_SelfTest.exe
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעז\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_SelfTest\CH8_SelfTest\obj\x86\Release\CH8_SelfTest.pdb
+D:\Computer science\Programs\C#\CH9_SelfPractice\CH8_SelfTest\bin\Release\CH8_SelfTest.exe
+D:\Computer science\Programs\C#\CH9_SelfPractice\CH8_SelfTest\bin\Release\CH8_SelfTest.pdb
+D:\Computer science\Programs\C#\CH9_SelfPractice\CH8_SelfTest\obj\x86\Release\CH8_SelfTest.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\CH9_SelfPractice\CH8_SelfTest\obj\x86\Release\CH8_SelfTest.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\CH9_SelfPractice\CH8_SelfTest\obj\x86\Release\CH8_SelfTest.exe
+D:\Computer science\Programs\C#\CH9_SelfPractice\CH8_SelfTest\obj\x86\Release\CH8_SelfTest.pdb
+F:\Computer science\Programs\C#\CH9_SelfPractice\CH8_SelfTest\bin\Release\CH8_SelfTest.exe
+F:\Computer science\Programs\C#\CH9_SelfPractice\CH8_SelfTest\bin\Release\CH8_SelfTest.pdb
+F:\Computer science\Programs\C#\CH9_SelfPractice\CH8_SelfTest\obj\x86\Release\CH8_SelfTest.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\CH9_SelfPractice\CH8_SelfTest\obj\x86\Release\CH8_SelfTest.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\CH9_SelfPractice\CH8_SelfTest\obj\x86\Release\CH8_SelfTest.exe
+F:\Computer science\Programs\C#\CH9_SelfPractice\CH8_SelfTest\obj\x86\Release\CH8_SelfTest.pdb

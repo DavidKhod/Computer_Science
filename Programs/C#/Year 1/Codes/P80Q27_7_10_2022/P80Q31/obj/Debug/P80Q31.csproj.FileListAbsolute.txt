@@ -1,0 +1,14 @@
+D:\Computer science\Programs\C#\P80Q27_7_10_2022\P80Q31\bin\Debug\P80Q31.exe.config
+D:\Computer science\Programs\C#\P80Q27_7_10_2022\P80Q31\bin\Debug\P80Q31.exe
+D:\Computer science\Programs\C#\P80Q27_7_10_2022\P80Q31\bin\Debug\P80Q31.pdb
+D:\Computer science\Programs\C#\P80Q27_7_10_2022\P80Q31\obj\Debug\P80Q31.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\P80Q27_7_10_2022\P80Q31\obj\Debug\P80Q31.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\P80Q27_7_10_2022\P80Q31\obj\Debug\P80Q31.exe
+D:\Computer science\Programs\C#\P80Q27_7_10_2022\P80Q31\obj\Debug\P80Q31.pdb
+F:\Computer science\Programs\C#\P80Q27_7_10_2022\P80Q31\bin\Debug\P80Q31.exe.config
+F:\Computer science\Programs\C#\P80Q27_7_10_2022\P80Q31\bin\Debug\P80Q31.exe
+F:\Computer science\Programs\C#\P80Q27_7_10_2022\P80Q31\bin\Debug\P80Q31.pdb
+F:\Computer science\Programs\C#\P80Q27_7_10_2022\P80Q31\obj\Debug\P80Q31.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\P80Q27_7_10_2022\P80Q31\obj\Debug\P80Q31.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\P80Q27_7_10_2022\P80Q31\obj\Debug\P80Q31.exe
+F:\Computer science\Programs\C#\P80Q27_7_10_2022\P80Q31\obj\Debug\P80Q31.pdb

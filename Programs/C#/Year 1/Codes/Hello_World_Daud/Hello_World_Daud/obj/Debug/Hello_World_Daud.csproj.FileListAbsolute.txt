@@ -1,0 +1,7 @@
+F:\מדעי מחשב\Hello_World_Daud\Hello_World_Daud\bin\Debug\Hello_World_Daud.exe.config
+F:\מדעי מחשב\Hello_World_Daud\Hello_World_Daud\bin\Debug\Hello_World_Daud.exe
+F:\מדעי מחשב\Hello_World_Daud\Hello_World_Daud\bin\Debug\Hello_World_Daud.pdb
+F:\מדעי מחשב\Hello_World_Daud\Hello_World_Daud\obj\Debug\Hello_World_Daud.csproj.AssemblyReference.cache
+F:\מדעי מחשב\Hello_World_Daud\Hello_World_Daud\obj\Debug\Hello_World_Daud.csproj.CoreCompileInputs.cache
+F:\מדעי מחשב\Hello_World_Daud\Hello_World_Daud\obj\Debug\Hello_World_Daud.exe
+F:\מדעי מחשב\Hello_World_Daud\Hello_World_Daud\obj\Debug\Hello_World_Daud.pdb

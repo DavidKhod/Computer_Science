@@ -1,0 +1,13 @@
+F:\Computer science\Programs\C#\12_6\Q19\bin\Debug\Q19.exe.config
+F:\Computer science\Programs\C#\12_6\Q19\bin\Debug\Q19.exe
+F:\Computer science\Programs\C#\12_6\Q19\bin\Debug\Q19.pdb
+F:\Computer science\Programs\C#\12_6\Q19\obj\Debug\Q19.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\12_6\Q19\obj\Debug\Q19.exe
+F:\Computer science\Programs\C#\12_6\Q19\obj\Debug\Q19.pdb
+D:\Computer science\Programs\C#\12_6\Q19\bin\Debug\Q19.exe.config
+D:\Computer science\Programs\C#\12_6\Q19\bin\Debug\Q19.exe
+D:\Computer science\Programs\C#\12_6\Q19\bin\Debug\Q19.pdb
+D:\Computer science\Programs\C#\12_6\Q19\obj\Debug\Q19.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\12_6\Q19\obj\Debug\Q19.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\12_6\Q19\obj\Debug\Q19.exe
+D:\Computer science\Programs\C#\12_6\Q19\obj\Debug\Q19.pdb

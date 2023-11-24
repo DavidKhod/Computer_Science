@@ -1,0 +1,14 @@
+F:\Computer science\Programs\C#\HW_9_14\HW_9_14\bin\Debug\HW_9_14.exe.config
+F:\Computer science\Programs\C#\HW_9_14\HW_9_14\bin\Debug\HW_9_14.exe
+F:\Computer science\Programs\C#\HW_9_14\HW_9_14\bin\Debug\HW_9_14.pdb
+F:\Computer science\Programs\C#\HW_9_14\HW_9_14\obj\Debug\HW_9_14.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\HW_9_14\HW_9_14\obj\Debug\HW_9_14.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\HW_9_14\HW_9_14\obj\Debug\HW_9_14.exe
+F:\Computer science\Programs\C#\HW_9_14\HW_9_14\obj\Debug\HW_9_14.pdb
+D:\Computer science\Programs\C#\HW_9_14\HW_9_14\bin\Debug\HW_9_14.exe.config
+D:\Computer science\Programs\C#\HW_9_14\HW_9_14\bin\Debug\HW_9_14.exe
+D:\Computer science\Programs\C#\HW_9_14\HW_9_14\bin\Debug\HW_9_14.pdb
+D:\Computer science\Programs\C#\HW_9_14\HW_9_14\obj\Debug\HW_9_14.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\HW_9_14\HW_9_14\obj\Debug\HW_9_14.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\HW_9_14\HW_9_14\obj\Debug\HW_9_14.exe
+D:\Computer science\Programs\C#\HW_9_14\HW_9_14\obj\Debug\HW_9_14.pdb

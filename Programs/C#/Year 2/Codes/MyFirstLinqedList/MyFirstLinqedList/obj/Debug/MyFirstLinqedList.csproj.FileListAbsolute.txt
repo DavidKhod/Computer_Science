@@ -1,0 +1,7 @@
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\MyFirstLinqedList\MyFirstLinqedList\bin\Debug\MyFirstLinqedList.exe.config
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\MyFirstLinqedList\MyFirstLinqedList\bin\Debug\MyFirstLinqedList.exe
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\MyFirstLinqedList\MyFirstLinqedList\bin\Debug\MyFirstLinqedList.pdb
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\MyFirstLinqedList\MyFirstLinqedList\obj\Debug\MyFirstLinqedList.csproj.AssemblyReference.cache
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\MyFirstLinqedList\MyFirstLinqedList\obj\Debug\MyFirstLinqedList.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\MyFirstLinqedList\MyFirstLinqedList\obj\Debug\MyFirstLinqedList.exe
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\MyFirstLinqedList\MyFirstLinqedList\obj\Debug\MyFirstLinqedList.pdb

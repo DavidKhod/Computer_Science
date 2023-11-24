@@ -1,0 +1,14 @@
+F:\Computer science\Programs\C#\RationalClass\RationalClass\bin\Debug\RationalClass.exe.config
+F:\Computer science\Programs\C#\RationalClass\RationalClass\bin\Debug\RationalClass.exe
+F:\Computer science\Programs\C#\RationalClass\RationalClass\bin\Debug\RationalClass.pdb
+F:\Computer science\Programs\C#\RationalClass\RationalClass\obj\Debug\RationalClass.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\RationalClass\RationalClass\obj\Debug\RationalClass.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\RationalClass\RationalClass\obj\Debug\RationalClass.exe
+F:\Computer science\Programs\C#\RationalClass\RationalClass\obj\Debug\RationalClass.pdb
+D:\Computer science\Programs\C#\RationalClass\RationalClass\bin\Debug\RationalClass.exe.config
+D:\Computer science\Programs\C#\RationalClass\RationalClass\bin\Debug\RationalClass.exe
+D:\Computer science\Programs\C#\RationalClass\RationalClass\bin\Debug\RationalClass.pdb
+D:\Computer science\Programs\C#\RationalClass\RationalClass\obj\Debug\RationalClass.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\RationalClass\RationalClass\obj\Debug\RationalClass.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\RationalClass\RationalClass\obj\Debug\RationalClass.exe
+D:\Computer science\Programs\C#\RationalClass\RationalClass\obj\Debug\RationalClass.pdb

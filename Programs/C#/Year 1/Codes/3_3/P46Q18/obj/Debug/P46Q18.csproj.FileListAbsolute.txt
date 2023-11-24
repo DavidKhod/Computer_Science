@@ -1,0 +1,7 @@
+F:\Computer science\Programs\C#\3_3\P46Q18\bin\Debug\P46Q18.exe.config
+F:\Computer science\Programs\C#\3_3\P46Q18\bin\Debug\P46Q18.exe
+F:\Computer science\Programs\C#\3_3\P46Q18\bin\Debug\P46Q18.pdb
+F:\Computer science\Programs\C#\3_3\P46Q18\obj\Debug\P46Q18.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\3_3\P46Q18\obj\Debug\P46Q18.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\3_3\P46Q18\obj\Debug\P46Q18.exe
+F:\Computer science\Programs\C#\3_3\P46Q18\obj\Debug\P46Q18.pdb

@@ -1,0 +1,7 @@
+F:\Computer science\Programs\C#\11_2\Q9\bin\Debug\Q9.exe.config
+F:\Computer science\Programs\C#\11_2\Q9\bin\Debug\Q9.exe
+F:\Computer science\Programs\C#\11_2\Q9\bin\Debug\Q9.pdb
+F:\Computer science\Programs\C#\11_2\Q9\obj\Debug\Q9.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\11_2\Q9\obj\Debug\Q9.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\11_2\Q9\obj\Debug\Q9.exe
+F:\Computer science\Programs\C#\11_2\Q9\obj\Debug\Q9.pdb

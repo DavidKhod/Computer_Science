@@ -1,0 +1,13 @@
+F:\Computer science\Programs\C#\P85_HM\Q41\bin\Debug\Q41.exe.config
+F:\Computer science\Programs\C#\P85_HM\Q41\bin\Debug\Q41.exe
+F:\Computer science\Programs\C#\P85_HM\Q41\bin\Debug\Q41.pdb
+F:\Computer science\Programs\C#\P85_HM\Q41\obj\Debug\Q41.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\P85_HM\Q41\obj\Debug\Q41.exe
+F:\Computer science\Programs\C#\P85_HM\Q41\obj\Debug\Q41.pdb
+D:\Computer science\Programs\C#\P85_HM\Q41\bin\Debug\Q41.exe.config
+D:\Computer science\Programs\C#\P85_HM\Q41\bin\Debug\Q41.exe
+D:\Computer science\Programs\C#\P85_HM\Q41\bin\Debug\Q41.pdb
+D:\Computer science\Programs\C#\P85_HM\Q41\obj\Debug\Q41.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\P85_HM\Q41\obj\Debug\Q41.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\P85_HM\Q41\obj\Debug\Q41.exe
+D:\Computer science\Programs\C#\P85_HM\Q41\obj\Debug\Q41.pdb

@@ -1,0 +1,14 @@
+F:\Computer science\Programs\C#\Codes\3_5B\P57Q32\bin\Debug\P57Q32.exe.config
+F:\Computer science\Programs\C#\Codes\3_5B\P57Q32\bin\Debug\P57Q32.exe
+F:\Computer science\Programs\C#\Codes\3_5B\P57Q32\bin\Debug\P57Q32.pdb
+F:\Computer science\Programs\C#\Codes\3_5B\P57Q32\obj\Debug\P57Q32.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\Codes\3_5B\P57Q32\obj\Debug\P57Q32.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\Codes\3_5B\P57Q32\obj\Debug\P57Q32.exe
+F:\Computer science\Programs\C#\Codes\3_5B\P57Q32\obj\Debug\P57Q32.pdb
+D:\Computer science\Programs\C#\Codes\3_5B\P57Q32\bin\Debug\P57Q32.exe.config
+D:\Computer science\Programs\C#\Codes\3_5B\P57Q32\bin\Debug\P57Q32.exe
+D:\Computer science\Programs\C#\Codes\3_5B\P57Q32\bin\Debug\P57Q32.pdb
+D:\Computer science\Programs\C#\Codes\3_5B\P57Q32\obj\Debug\P57Q32.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\Codes\3_5B\P57Q32\obj\Debug\P57Q32.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\Codes\3_5B\P57Q32\obj\Debug\P57Q32.exe
+D:\Computer science\Programs\C#\Codes\3_5B\P57Q32\obj\Debug\P57Q32.pdb

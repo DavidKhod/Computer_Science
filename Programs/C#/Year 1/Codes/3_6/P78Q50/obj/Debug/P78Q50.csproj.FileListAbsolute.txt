@@ -1,0 +1,7 @@
+F:\Computer science\Programs\C#\Codes\3_6\P78Q50\bin\Debug\P78Q50.exe.config
+F:\Computer science\Programs\C#\Codes\3_6\P78Q50\bin\Debug\P78Q50.exe
+F:\Computer science\Programs\C#\Codes\3_6\P78Q50\bin\Debug\P78Q50.pdb
+F:\Computer science\Programs\C#\Codes\3_6\P78Q50\obj\Debug\P78Q50.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\Codes\3_6\P78Q50\obj\Debug\P78Q50.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\Codes\3_6\P78Q50\obj\Debug\P78Q50.exe
+F:\Computer science\Programs\C#\Codes\3_6\P78Q50\obj\Debug\P78Q50.pdb

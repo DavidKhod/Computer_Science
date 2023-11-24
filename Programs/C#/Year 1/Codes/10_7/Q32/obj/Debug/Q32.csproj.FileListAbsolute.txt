@@ -1,0 +1,13 @@
+C:\Users\David\source\repos\10_7\Q32\bin\Debug\Q32.exe.config
+C:\Users\David\source\repos\10_7\Q32\bin\Debug\Q32.exe
+C:\Users\David\source\repos\10_7\Q32\bin\Debug\Q32.pdb
+C:\Users\David\source\repos\10_7\Q32\obj\Debug\Q32.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\10_7\Q32\obj\Debug\Q32.exe
+C:\Users\David\source\repos\10_7\Q32\obj\Debug\Q32.pdb
+F:\Computer science\Programs\C#\10_7\Q32\bin\Debug\Q32.exe.config
+F:\Computer science\Programs\C#\10_7\Q32\bin\Debug\Q32.exe
+F:\Computer science\Programs\C#\10_7\Q32\bin\Debug\Q32.pdb
+F:\Computer science\Programs\C#\10_7\Q32\obj\Debug\Q32.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\10_7\Q32\obj\Debug\Q32.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\10_7\Q32\obj\Debug\Q32.exe
+F:\Computer science\Programs\C#\10_7\Q32\obj\Debug\Q32.pdb

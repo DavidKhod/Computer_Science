@@ -1,0 +1,7 @@
+C:\Users\David\Computer_Science\Programs\C#\Codes\4_5\Q23\bin\Debug\Q23.exe.config
+C:\Users\David\Computer_Science\Programs\C#\Codes\4_5\Q23\bin\Debug\Q23.exe
+C:\Users\David\Computer_Science\Programs\C#\Codes\4_5\Q23\bin\Debug\Q23.pdb
+C:\Users\David\Computer_Science\Programs\C#\Codes\4_5\Q23\obj\Debug\Q23.csproj.AssemblyReference.cache
+C:\Users\David\Computer_Science\Programs\C#\Codes\4_5\Q23\obj\Debug\Q23.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_Science\Programs\C#\Codes\4_5\Q23\obj\Debug\Q23.exe
+C:\Users\David\Computer_Science\Programs\C#\Codes\4_5\Q23\obj\Debug\Q23.pdb

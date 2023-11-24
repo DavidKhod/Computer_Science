@@ -1,0 +1,10 @@
+C:\Users\David\Computer science\Programs\C#\VsCode Codes\7_3\PassportClass\obj\Debug\net7.0\PassportClass.csproj.AssemblyReference.cache
+C:\Users\David\Computer science\Programs\C#\VsCode Codes\7_3\PassportClass\obj\Debug\net7.0\PassportClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Computer science\Programs\C#\VsCode Codes\7_3\PassportClass\obj\Debug\net7.0\PassportClass.AssemblyInfoInputs.cache
+C:\Users\David\Computer science\Programs\C#\VsCode Codes\7_3\PassportClass\obj\Debug\net7.0\PassportClass.AssemblyInfo.cs
+C:\Users\David\Computer science\Programs\C#\VsCode Codes\7_3\PassportClass\obj\Debug\net7.0\PassportClass.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\7_3\PassportClass\obj\Debug\net7.0\PassportClass.csproj.AssemblyReference.cache
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\7_3\PassportClass\obj\Debug\net7.0\PassportClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\7_3\PassportClass\obj\Debug\net7.0\PassportClass.AssemblyInfoInputs.cache
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\7_3\PassportClass\obj\Debug\net7.0\PassportClass.AssemblyInfo.cs
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\7_3\PassportClass\obj\Debug\net7.0\PassportClass.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+D:\Computer science\Programs\C#\ClassWork_6_1_23\ClassWork_6_1_23\bin\Debug\ClassWork_6_1_23.exe.config
+D:\Computer science\Programs\C#\ClassWork_6_1_23\ClassWork_6_1_23\bin\Debug\ClassWork_6_1_23.exe
+D:\Computer science\Programs\C#\ClassWork_6_1_23\ClassWork_6_1_23\bin\Debug\ClassWork_6_1_23.pdb
+D:\Computer science\Programs\C#\ClassWork_6_1_23\ClassWork_6_1_23\obj\Debug\ClassWork_6_1_23.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\ClassWork_6_1_23\ClassWork_6_1_23\obj\Debug\ClassWork_6_1_23.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\ClassWork_6_1_23\ClassWork_6_1_23\obj\Debug\ClassWork_6_1_23.exe
+D:\Computer science\Programs\C#\ClassWork_6_1_23\ClassWork_6_1_23\obj\Debug\ClassWork_6_1_23.pdb

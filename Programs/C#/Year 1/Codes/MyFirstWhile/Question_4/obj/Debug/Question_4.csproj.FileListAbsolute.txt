@@ -1,0 +1,7 @@
+F:\Computer science\Programs\C#\MyFirstWhile\Question_4\bin\Debug\Question_4.exe.config
+F:\Computer science\Programs\C#\MyFirstWhile\Question_4\bin\Debug\Question_4.exe
+F:\Computer science\Programs\C#\MyFirstWhile\Question_4\bin\Debug\Question_4.pdb
+F:\Computer science\Programs\C#\MyFirstWhile\Question_4\obj\Debug\Question_4.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\MyFirstWhile\Question_4\obj\Debug\Question_4.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\MyFirstWhile\Question_4\obj\Debug\Question_4.exe
+F:\Computer science\Programs\C#\MyFirstWhile\Question_4\obj\Debug\Question_4.pdb

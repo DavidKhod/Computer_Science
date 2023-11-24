@@ -1,0 +1,15 @@
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\PracticeForExam_12_6\bin\Debug\net7.0\PracticeForExam_12_6.exe
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\PracticeForExam_12_6\bin\Debug\net7.0\PracticeForExam_12_6.deps.json
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\PracticeForExam_12_6\bin\Debug\net7.0\PracticeForExam_12_6.runtimeconfig.json
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\PracticeForExam_12_6\bin\Debug\net7.0\PracticeForExam_12_6.dll
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\PracticeForExam_12_6\bin\Debug\net7.0\PracticeForExam_12_6.pdb
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\PracticeForExam_12_6\obj\Debug\net7.0\PracticeForExam_12_6.csproj.AssemblyReference.cache
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\PracticeForExam_12_6\obj\Debug\net7.0\PracticeForExam_12_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\PracticeForExam_12_6\obj\Debug\net7.0\PracticeForExam_12_6.AssemblyInfoInputs.cache
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\PracticeForExam_12_6\obj\Debug\net7.0\PracticeForExam_12_6.AssemblyInfo.cs
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\PracticeForExam_12_6\obj\Debug\net7.0\PracticeForExam_12_6.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\PracticeForExam_12_6\obj\Debug\net7.0\PracticeForExam_12_6.dll
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\PracticeForExam_12_6\obj\Debug\net7.0\refint\PracticeForExam_12_6.dll
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\PracticeForExam_12_6\obj\Debug\net7.0\PracticeForExam_12_6.pdb
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\PracticeForExam_12_6\obj\Debug\net7.0\PracticeForExam_12_6.genruntimeconfig.cache
+C:\Users\David\Computer_science\Programs\C#\VsCode Codes\PracticeForExam_12_6\obj\Debug\net7.0\ref\PracticeForExam_12_6.dll

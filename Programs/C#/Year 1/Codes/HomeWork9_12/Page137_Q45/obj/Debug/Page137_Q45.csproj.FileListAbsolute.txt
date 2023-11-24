@@ -1,0 +1,6 @@
+F:\Computer science\Programs\C#\HomeWork9_12\Page137_Q45\bin\Debug\Page137_Q45.exe.config
+F:\Computer science\Programs\C#\HomeWork9_12\Page137_Q45\bin\Debug\Page137_Q45.exe
+F:\Computer science\Programs\C#\HomeWork9_12\Page137_Q45\bin\Debug\Page137_Q45.pdb
+F:\Computer science\Programs\C#\HomeWork9_12\Page137_Q45\obj\Debug\Page137_Q45.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\HomeWork9_12\Page137_Q45\obj\Debug\Page137_Q45.exe
+F:\Computer science\Programs\C#\HomeWork9_12\Page137_Q45\obj\Debug\Page137_Q45.pdb

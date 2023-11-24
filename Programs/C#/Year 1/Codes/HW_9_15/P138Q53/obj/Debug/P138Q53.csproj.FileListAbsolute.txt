@@ -1,0 +1,7 @@
+F:\Computer science\Programs\C#\HW_9_15\P138Q53\bin\Debug\P138Q53.exe.config
+F:\Computer science\Programs\C#\HW_9_15\P138Q53\bin\Debug\P138Q53.exe
+F:\Computer science\Programs\C#\HW_9_15\P138Q53\bin\Debug\P138Q53.pdb
+F:\Computer science\Programs\C#\HW_9_15\P138Q53\obj\Debug\P138Q53.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\HW_9_15\P138Q53\obj\Debug\P138Q53.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\HW_9_15\P138Q53\obj\Debug\P138Q53.exe
+F:\Computer science\Programs\C#\HW_9_15\P138Q53\obj\Debug\P138Q53.pdb

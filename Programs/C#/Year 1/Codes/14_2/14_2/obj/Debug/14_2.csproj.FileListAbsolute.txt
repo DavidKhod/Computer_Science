@@ -1,0 +1,7 @@
+D:\Computer science\Programs\C#\14_2\14_2\bin\Debug\14_2.exe.config
+D:\Computer science\Programs\C#\14_2\14_2\bin\Debug\14_2.exe
+D:\Computer science\Programs\C#\14_2\14_2\bin\Debug\14_2.pdb
+D:\Computer science\Programs\C#\14_2\14_2\obj\Debug\14_2.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\14_2\14_2\obj\Debug\14_2.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\14_2\14_2\obj\Debug\14_2.exe
+D:\Computer science\Programs\C#\14_2\14_2\obj\Debug\14_2.pdb

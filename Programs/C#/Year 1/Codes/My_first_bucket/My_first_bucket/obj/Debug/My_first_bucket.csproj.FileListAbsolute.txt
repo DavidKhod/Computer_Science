@@ -1,0 +1,9 @@
+D:\Computer science\Programs\C#\My_first_bucket\My_first_bucket\bin\Debug\My_first_bucket.exe.config
+D:\Computer science\Programs\C#\My_first_bucket\My_first_bucket\bin\Debug\My_first_bucket.exe
+D:\Computer science\Programs\C#\My_first_bucket\My_first_bucket\bin\Debug\My_first_bucket.pdb
+D:\Computer science\Programs\C#\My_first_bucket\My_first_bucket\bin\Debug\Unit4.dll
+D:\Computer science\Programs\C#\My_first_bucket\My_first_bucket\obj\Debug\My_first_bucket.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\My_first_bucket\My_first_bucket\obj\Debug\My_first_bucket.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\My_first_bucket\My_first_bucket\obj\Debug\My_first_bucket.csproj.CopyComplete
+D:\Computer science\Programs\C#\My_first_bucket\My_first_bucket\obj\Debug\My_first_bucket.exe
+D:\Computer science\Programs\C#\My_first_bucket\My_first_bucket\obj\Debug\My_first_bucket.pdb

@@ -1,0 +1,7 @@
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\Recurtion\Recurtion\obj\Debug\Recurtion.csproj.AssemblyReference.cache
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\Recurtion\Recurtion\obj\Debug\Recurtion.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\Recurtion\Recurtion\bin\Debug\Recurtion.exe.config
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\Recurtion\Recurtion\bin\Debug\Recurtion.exe
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\Recurtion\Recurtion\bin\Debug\Recurtion.pdb
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\Recurtion\Recurtion\obj\Debug\Recurtion.exe
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\Recurtion\Recurtion\obj\Debug\Recurtion.pdb

@@ -1,0 +1,6 @@
+F:\Computer science\Programs\C#\P85_HM\Q43\bin\Debug\Q43.exe.config
+F:\Computer science\Programs\C#\P85_HM\Q43\bin\Debug\Q43.exe
+F:\Computer science\Programs\C#\P85_HM\Q43\bin\Debug\Q43.pdb
+F:\Computer science\Programs\C#\P85_HM\Q43\obj\Debug\Q43.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\P85_HM\Q43\obj\Debug\Q43.exe
+F:\Computer science\Programs\C#\P85_HM\Q43\obj\Debug\Q43.pdb

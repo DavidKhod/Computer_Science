@@ -1,0 +1,7 @@
+D:\Computer science\Programs\C#\Assignment10_5\Q18\bin\Debug\Q18.exe.config
+D:\Computer science\Programs\C#\Assignment10_5\Q18\bin\Debug\Q18.exe
+D:\Computer science\Programs\C#\Assignment10_5\Q18\bin\Debug\Q18.pdb
+D:\Computer science\Programs\C#\Assignment10_5\Q18\obj\Debug\Q18.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\Assignment10_5\Q18\obj\Debug\Q18.exe
+D:\Computer science\Programs\C#\Assignment10_5\Q18\obj\Debug\Q18.pdb
+D:\Computer science\Programs\C#\Assignment10_5\Q18\obj\Debug\Q18.csproj.AssemblyReference.cache

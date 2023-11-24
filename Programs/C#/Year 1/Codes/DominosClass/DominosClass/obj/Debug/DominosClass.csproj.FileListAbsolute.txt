@@ -1,0 +1,14 @@
+F:\Computer science\Programs\C#\DominosClass\DominosClass\bin\Debug\DominosClass.exe.config
+F:\Computer science\Programs\C#\DominosClass\DominosClass\bin\Debug\DominosClass.exe
+F:\Computer science\Programs\C#\DominosClass\DominosClass\bin\Debug\DominosClass.pdb
+F:\Computer science\Programs\C#\DominosClass\DominosClass\obj\Debug\DominosClass.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\DominosClass\DominosClass\obj\Debug\DominosClass.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\DominosClass\DominosClass\obj\Debug\DominosClass.exe
+F:\Computer science\Programs\C#\DominosClass\DominosClass\obj\Debug\DominosClass.pdb
+D:\Computer science\Programs\C#\DominosClass\DominosClass\bin\Debug\DominosClass.exe.config
+D:\Computer science\Programs\C#\DominosClass\DominosClass\bin\Debug\DominosClass.exe
+D:\Computer science\Programs\C#\DominosClass\DominosClass\bin\Debug\DominosClass.pdb
+D:\Computer science\Programs\C#\DominosClass\DominosClass\obj\Debug\DominosClass.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\DominosClass\DominosClass\obj\Debug\DominosClass.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\DominosClass\DominosClass\obj\Debug\DominosClass.exe
+D:\Computer science\Programs\C#\DominosClass\DominosClass\obj\Debug\DominosClass.pdb

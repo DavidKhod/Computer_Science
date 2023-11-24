@@ -1,0 +1,8 @@
+D:\Computer science\Programs\C#\HomeWork_22_11_22\StudentAverageQ_22_11_22\bin\Debug\StudentAverageQ_22_11_22.exe.config
+D:\Computer science\Programs\C#\HomeWork_22_11_22\StudentAverageQ_22_11_22\bin\Debug\StudentAverageQ_22_11_22.exe
+D:\Computer science\Programs\C#\HomeWork_22_11_22\StudentAverageQ_22_11_22\bin\Debug\StudentAverageQ_22_11_22.pdb
+D:\Computer science\Programs\C#\HomeWork_22_11_22\StudentAverageQ_22_11_22\bin\Debug\ObjFirstMbt1.dll
+D:\Computer science\Programs\C#\HomeWork_22_11_22\StudentAverageQ_22_11_22\obj\Debug\StudentAverageQ_22_11_22.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\HomeWork_22_11_22\StudentAverageQ_22_11_22\obj\Debug\StudentAverageQ_22_11_22.csproj.CopyComplete
+D:\Computer science\Programs\C#\HomeWork_22_11_22\StudentAverageQ_22_11_22\obj\Debug\StudentAverageQ_22_11_22.exe
+D:\Computer science\Programs\C#\HomeWork_22_11_22\StudentAverageQ_22_11_22\obj\Debug\StudentAverageQ_22_11_22.pdb

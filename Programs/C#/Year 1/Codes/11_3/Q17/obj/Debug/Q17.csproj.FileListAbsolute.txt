@@ -1,0 +1,6 @@
+F:\Computer science\Programs\C#\11_3\Q17\bin\Debug\Q17.exe.config
+F:\Computer science\Programs\C#\11_3\Q17\bin\Debug\Q17.exe
+F:\Computer science\Programs\C#\11_3\Q17\bin\Debug\Q17.pdb
+F:\Computer science\Programs\C#\11_3\Q17\obj\Debug\Q17.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\11_3\Q17\obj\Debug\Q17.exe
+F:\Computer science\Programs\C#\11_3\Q17\obj\Debug\Q17.pdb

@@ -1,0 +1,7 @@
+D:\Computer science\Programs\C#\Assignment10_5\P157Q30\bin\Debug\P157Q30.exe.config
+D:\Computer science\Programs\C#\Assignment10_5\P157Q30\bin\Debug\P157Q30.exe
+D:\Computer science\Programs\C#\Assignment10_5\P157Q30\bin\Debug\P157Q30.pdb
+D:\Computer science\Programs\C#\Assignment10_5\P157Q30\obj\Debug\P157Q30.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\Assignment10_5\P157Q30\obj\Debug\P157Q30.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\Assignment10_5\P157Q30\obj\Debug\P157Q30.exe
+D:\Computer science\Programs\C#\Assignment10_5\P157Q30\obj\Debug\P157Q30.pdb

@@ -1,0 +1,12 @@
+F:\מדעי מחשב\עבודות\SelfExercise2\Q2\bin\Debug\Q2.exe
+F:\מדעי מחשב\עבודות\SelfExercise2\Q2\bin\Debug\Q2.pdb
+F:\מדעי מחשב\עבודות\SelfExercise2\Q2\obj\x86\Debug\Q2_ValExchange.csproj.AssemblyReference.cache
+F:\מדעי מחשב\עבודות\SelfExercise2\Q2\obj\x86\Debug\Q2_ValExchange.csproj.CoreCompileInputs.cache
+F:\מדעי מחשב\עבודות\SelfExercise2\Q2\obj\x86\Debug\Q2.exe
+F:\מדעי מחשב\עבודות\SelfExercise2\Q2\obj\x86\Debug\Q2.pdb
+F:\Computer science\Programs\C#\SelfExercise2\Q2\bin\Debug\Q2.exe
+F:\Computer science\Programs\C#\SelfExercise2\Q2\bin\Debug\Q2.pdb
+F:\Computer science\Programs\C#\SelfExercise2\Q2\obj\x86\Debug\Q2_ValExchange.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\SelfExercise2\Q2\obj\x86\Debug\Q2_ValExchange.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\SelfExercise2\Q2\obj\x86\Debug\Q2.exe
+F:\Computer science\Programs\C#\SelfExercise2\Q2\obj\x86\Debug\Q2.pdb

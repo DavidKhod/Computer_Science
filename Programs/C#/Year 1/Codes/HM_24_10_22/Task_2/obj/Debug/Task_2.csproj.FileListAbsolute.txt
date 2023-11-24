@@ -1,0 +1,7 @@
+F:\Computer science\Programs\C#\HM_24_10_22\Task_2\bin\Debug\Task_2.exe.config
+F:\Computer science\Programs\C#\HM_24_10_22\Task_2\bin\Debug\Task_2.exe
+F:\Computer science\Programs\C#\HM_24_10_22\Task_2\bin\Debug\Task_2.pdb
+F:\Computer science\Programs\C#\HM_24_10_22\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\HM_24_10_22\Task_2\obj\Debug\Task_2.exe
+F:\Computer science\Programs\C#\HM_24_10_22\Task_2\obj\Debug\Task_2.pdb
+F:\Computer science\Programs\C#\HM_24_10_22\Task_2\obj\Debug\Task_2.csproj.AssemblyReference.cache

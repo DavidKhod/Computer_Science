@@ -1,0 +1,7 @@
+D:\Computer science\Programs\C#\P146_147\P146_147\obj\Debug\P146_147.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\P146_147\P146_147\obj\Debug\P146_147.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\P146_147\P146_147\bin\Debug\P146_147.exe.config
+D:\Computer science\Programs\C#\P146_147\P146_147\bin\Debug\P146_147.exe
+D:\Computer science\Programs\C#\P146_147\P146_147\bin\Debug\P146_147.pdb
+D:\Computer science\Programs\C#\P146_147\P146_147\obj\Debug\P146_147.exe
+D:\Computer science\Programs\C#\P146_147\P146_147\obj\Debug\P146_147.pdb

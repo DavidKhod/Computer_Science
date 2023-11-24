@@ -1,0 +1,17 @@
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעו\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_intro\EX6\obj\x86\Release\EX6.exe
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעו\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_intro\EX6\obj\x86\Release\EX6.pdb
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעו\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_intro\EX6\bin\Release\EX6.exe
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעו\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_intro\EX6\bin\Release\EX6.pdb
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעו\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_intro\EX6\bin\Release\Games.dll
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעו\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_intro\EX6\obj\x86\Release\ResolveAssemblyReference.cache
+G:\0 - תשעז\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_intro\EX6\obj\x86\Release\EX6.exe
+G:\0 - תשעז\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_intro\EX6\obj\x86\Release\EX6.pdb
+F:\0 - תשעז\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_intro\EX6\obj\x86\Release\EX6.exe
+F:\0 - תשעז\מדעי המחשב\עצמים תחילה\יסודות 1\מערכי שיעור\פרק 8 - ביצוע חוזר\CH8_intro\EX6\obj\x86\Release\EX6.pdb
+D:\Computer science\CH9_intro\EX6\bin\Release\EX6.exe
+D:\Computer science\CH9_intro\EX6\bin\Release\EX6.pdb
+D:\Computer science\CH9_intro\EX6\obj\x86\Release\EX6_ext_i.csproj.AssemblyReference.cache
+D:\Computer science\CH9_intro\EX6\obj\x86\Release\EX6_ext_i.csproj.CoreCompileInputs.cache
+D:\Computer science\CH9_intro\EX6\obj\x86\Release\EX6_ext_i.csproj.CopyComplete
+D:\Computer science\CH9_intro\EX6\obj\x86\Release\EX6.exe
+D:\Computer science\CH9_intro\EX6\obj\x86\Release\EX6.pdb

@@ -1,0 +1,13 @@
+F:\Computer science\Programs\C#\Codes\3_5\P62Q37\bin\Debug\P62Q37.exe.config
+F:\Computer science\Programs\C#\Codes\3_5\P62Q37\bin\Debug\P62Q37.exe
+F:\Computer science\Programs\C#\Codes\3_5\P62Q37\bin\Debug\P62Q37.pdb
+F:\Computer science\Programs\C#\Codes\3_5\P62Q37\obj\Debug\P62Q37.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\Codes\3_5\P62Q37\obj\Debug\P62Q37.exe
+F:\Computer science\Programs\C#\Codes\3_5\P62Q37\obj\Debug\P62Q37.pdb
+D:\Computer science\Programs\C#\Codes\3_5\P62Q37\bin\Debug\P62Q37.exe.config
+D:\Computer science\Programs\C#\Codes\3_5\P62Q37\bin\Debug\P62Q37.exe
+D:\Computer science\Programs\C#\Codes\3_5\P62Q37\bin\Debug\P62Q37.pdb
+D:\Computer science\Programs\C#\Codes\3_5\P62Q37\obj\Debug\P62Q37.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\Codes\3_5\P62Q37\obj\Debug\P62Q37.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\Codes\3_5\P62Q37\obj\Debug\P62Q37.exe
+D:\Computer science\Programs\C#\Codes\3_5\P62Q37\obj\Debug\P62Q37.pdb

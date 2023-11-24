@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\Page132_Q34_36_38\Q36\bin\Debug\Q36.exe.config
+C:\Users\David\source\repos\Page132_Q34_36_38\Q36\bin\Debug\Q36.exe
+C:\Users\David\source\repos\Page132_Q34_36_38\Q36\bin\Debug\Q36.pdb
+C:\Users\David\source\repos\Page132_Q34_36_38\Q36\obj\Debug\Q36.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Page132_Q34_36_38\Q36\obj\Debug\Q36.exe
+C:\Users\David\source\repos\Page132_Q34_36_38\Q36\obj\Debug\Q36.pdb

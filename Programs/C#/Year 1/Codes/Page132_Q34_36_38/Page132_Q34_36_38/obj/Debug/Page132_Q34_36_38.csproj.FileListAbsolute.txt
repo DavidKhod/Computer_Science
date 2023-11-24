@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\Page132_Q34_36_38\Page132_Q34_36_38\bin\Debug\Page132_Q34_36_38.exe.config
+C:\Users\David\source\repos\Page132_Q34_36_38\Page132_Q34_36_38\bin\Debug\Page132_Q34_36_38.exe
+C:\Users\David\source\repos\Page132_Q34_36_38\Page132_Q34_36_38\bin\Debug\Page132_Q34_36_38.pdb
+C:\Users\David\source\repos\Page132_Q34_36_38\Page132_Q34_36_38\obj\Debug\Page132_Q34_36_38.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Page132_Q34_36_38\Page132_Q34_36_38\obj\Debug\Page132_Q34_36_38.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Page132_Q34_36_38\Page132_Q34_36_38\obj\Debug\Page132_Q34_36_38.exe
+C:\Users\David\source\repos\Page132_Q34_36_38\Page132_Q34_36_38\obj\Debug\Page132_Q34_36_38.pdb

@@ -1,0 +1,14 @@
+F:\Computer science\Programs\C#\Codes\3_7\P69Q43\bin\Debug\P69Q43.exe.config
+F:\Computer science\Programs\C#\Codes\3_7\P69Q43\bin\Debug\P69Q43.exe
+F:\Computer science\Programs\C#\Codes\3_7\P69Q43\bin\Debug\P69Q43.pdb
+F:\Computer science\Programs\C#\Codes\3_7\P69Q43\obj\Debug\P69Q43.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\Codes\3_7\P69Q43\obj\Debug\P69Q43.exe
+F:\Computer science\Programs\C#\Codes\3_7\P69Q43\obj\Debug\P69Q43.pdb
+F:\Computer science\Programs\C#\Codes\3_7\P69Q43\obj\Debug\P69Q43.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\Codes\3_7\P69Q43\bin\Debug\P69Q43.exe.config
+D:\Computer science\Programs\C#\Codes\3_7\P69Q43\bin\Debug\P69Q43.exe
+D:\Computer science\Programs\C#\Codes\3_7\P69Q43\bin\Debug\P69Q43.pdb
+D:\Computer science\Programs\C#\Codes\3_7\P69Q43\obj\Debug\P69Q43.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\Codes\3_7\P69Q43\obj\Debug\P69Q43.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\Codes\3_7\P69Q43\obj\Debug\P69Q43.exe
+D:\Computer science\Programs\C#\Codes\3_7\P69Q43\obj\Debug\P69Q43.pdb

@@ -1,0 +1,14 @@
+F:\Computer science\Programs\C#\DominosClass\MathSeriesClass\bin\Debug\MathSeriesClass.exe.config
+F:\Computer science\Programs\C#\DominosClass\MathSeriesClass\bin\Debug\MathSeriesClass.exe
+F:\Computer science\Programs\C#\DominosClass\MathSeriesClass\bin\Debug\MathSeriesClass.pdb
+F:\Computer science\Programs\C#\DominosClass\MathSeriesClass\obj\Debug\MathSeriesClass.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\DominosClass\MathSeriesClass\obj\Debug\MathSeriesClass.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\DominosClass\MathSeriesClass\obj\Debug\MathSeriesClass.exe
+F:\Computer science\Programs\C#\DominosClass\MathSeriesClass\obj\Debug\MathSeriesClass.pdb
+D:\Computer science\Programs\C#\DominosClass\MathSeriesClass\bin\Debug\MathSeriesClass.exe.config
+D:\Computer science\Programs\C#\DominosClass\MathSeriesClass\bin\Debug\MathSeriesClass.exe
+D:\Computer science\Programs\C#\DominosClass\MathSeriesClass\bin\Debug\MathSeriesClass.pdb
+D:\Computer science\Programs\C#\DominosClass\MathSeriesClass\obj\Debug\MathSeriesClass.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\DominosClass\MathSeriesClass\obj\Debug\MathSeriesClass.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\DominosClass\MathSeriesClass\obj\Debug\MathSeriesClass.exe
+D:\Computer science\Programs\C#\DominosClass\MathSeriesClass\obj\Debug\MathSeriesClass.pdb

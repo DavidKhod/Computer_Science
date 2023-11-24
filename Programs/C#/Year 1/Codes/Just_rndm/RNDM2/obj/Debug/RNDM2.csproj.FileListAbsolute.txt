@@ -1,0 +1,7 @@
+F:\Computer science\Programs\C#\Just_rndm\RNDM2\obj\Debug\RNDM2.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\Just_rndm\RNDM2\obj\Debug\RNDM2.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\Just_rndm\RNDM2\bin\Debug\RNDM2.exe.config
+F:\Computer science\Programs\C#\Just_rndm\RNDM2\bin\Debug\RNDM2.exe
+F:\Computer science\Programs\C#\Just_rndm\RNDM2\bin\Debug\RNDM2.pdb
+F:\Computer science\Programs\C#\Just_rndm\RNDM2\obj\Debug\RNDM2.exe
+F:\Computer science\Programs\C#\Just_rndm\RNDM2\obj\Debug\RNDM2.pdb

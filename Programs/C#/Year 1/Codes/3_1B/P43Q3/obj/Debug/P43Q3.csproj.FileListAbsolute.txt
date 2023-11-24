@@ -1,0 +1,14 @@
+F:\Computer science\Programs\C#\3_1B\P43Q3\bin\Debug\P43Q3.exe.config
+F:\Computer science\Programs\C#\3_1B\P43Q3\bin\Debug\P43Q3.exe
+F:\Computer science\Programs\C#\3_1B\P43Q3\bin\Debug\P43Q3.pdb
+F:\Computer science\Programs\C#\3_1B\P43Q3\obj\Debug\P43Q3.csproj.AssemblyReference.cache
+F:\Computer science\Programs\C#\3_1B\P43Q3\obj\Debug\P43Q3.csproj.CoreCompileInputs.cache
+F:\Computer science\Programs\C#\3_1B\P43Q3\obj\Debug\P43Q3.exe
+F:\Computer science\Programs\C#\3_1B\P43Q3\obj\Debug\P43Q3.pdb
+D:\Computer science\Programs\C#\3_1B\P43Q3\bin\Debug\P43Q3.exe.config
+D:\Computer science\Programs\C#\3_1B\P43Q3\bin\Debug\P43Q3.exe
+D:\Computer science\Programs\C#\3_1B\P43Q3\bin\Debug\P43Q3.pdb
+D:\Computer science\Programs\C#\3_1B\P43Q3\obj\Debug\P43Q3.csproj.AssemblyReference.cache
+D:\Computer science\Programs\C#\3_1B\P43Q3\obj\Debug\P43Q3.csproj.CoreCompileInputs.cache
+D:\Computer science\Programs\C#\3_1B\P43Q3\obj\Debug\P43Q3.exe
+D:\Computer science\Programs\C#\3_1B\P43Q3\obj\Debug\P43Q3.pdb

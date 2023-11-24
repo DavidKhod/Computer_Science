@@ -1,0 +1,7 @@
+C:\Users\David\Computer_science\Complex\Task4_5\P51Q8\P51Q8\bin\Debug\P51Q8.exe.config
+C:\Users\David\Computer_science\Complex\Task4_5\P51Q8\P51Q8\bin\Debug\P51Q8.exe
+C:\Users\David\Computer_science\Complex\Task4_5\P51Q8\P51Q8\bin\Debug\P51Q8.pdb
+C:\Users\David\Computer_science\Complex\Task4_5\P51Q8\P51Q8\obj\Debug\P51Q8.csproj.AssemblyReference.cache
+C:\Users\David\Computer_science\Complex\Task4_5\P51Q8\P51Q8\obj\Debug\P51Q8.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Complex\Task4_5\P51Q8\P51Q8\obj\Debug\P51Q8.exe
+C:\Users\David\Computer_science\Complex\Task4_5\P51Q8\P51Q8\obj\Debug\P51Q8.pdb

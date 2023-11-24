@@ -1,0 +1,7 @@
+C:\Documents and Settings\אודי.ORIT\Local Settings\Application Data\Temporary Projects\stringDemo\bin\Release\stringDemo.exe
+C:\Documents and Settings\אודי.ORIT\Local Settings\Application Data\Temporary Projects\stringDemo\bin\Release\stringDemo.pdb
+C:\Documents and Settings\אודי.ORIT\Local Settings\Application Data\Temporary Projects\stringDemo\bin\Release\stringMethodsDemo.dll
+C:\Documents and Settings\אודי.ORIT\Local Settings\Application Data\Temporary Projects\stringDemo\bin\Release\stringMethodsDemo.pdb
+C:\Documents and Settings\אודי.ORIT\Local Settings\Application Data\Temporary Projects\stringDemo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\אודי.ORIT\Local Settings\Application Data\Temporary Projects\stringDemo\obj\x86\Release\stringDemo.exe
+C:\Documents and Settings\אודי.ORIT\Local Settings\Application Data\Temporary Projects\stringDemo\obj\x86\Release\stringDemo.pdb

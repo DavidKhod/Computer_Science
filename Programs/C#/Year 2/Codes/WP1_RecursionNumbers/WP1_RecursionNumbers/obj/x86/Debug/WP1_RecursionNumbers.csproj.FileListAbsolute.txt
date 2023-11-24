@@ -1,0 +1,6 @@
+C:\Users\David\Downloads\WP1_RecursionNumbers\WP1_RecursionNumbers\bin\Debug\WP1_RecursionNumbers.exe
+C:\Users\David\Downloads\WP1_RecursionNumbers\WP1_RecursionNumbers\bin\Debug\WP1_RecursionNumbers.pdb
+C:\Users\David\Downloads\WP1_RecursionNumbers\WP1_RecursionNumbers\obj\x86\Debug\WP1_RecursionNumbers.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\WP1_RecursionNumbers\WP1_RecursionNumbers\obj\x86\Debug\WP1_RecursionNumbers.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\WP1_RecursionNumbers\WP1_RecursionNumbers\obj\x86\Debug\WP1_RecursionNumbers.exe
+C:\Users\David\Downloads\WP1_RecursionNumbers\WP1_RecursionNumbers\obj\x86\Debug\WP1_RecursionNumbers.pdb

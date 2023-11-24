@@ -1,0 +1,12 @@
+C:\הוראה\מקצועות\מבני נתונים\מערכי שיעור\פרק 1 - רקורסיה\דפי תרגילים\2020\ex2_TwoNumbers\wp3numbers\bin\Debug\wp3numbers.exe
+C:\הוראה\מקצועות\מבני נתונים\מערכי שיעור\פרק 1 - רקורסיה\דפי תרגילים\2020\ex2_TwoNumbers\wp3numbers\bin\Debug\wp3numbers.pdb
+C:\הוראה\מקצועות\מבני נתונים\מערכי שיעור\פרק 1 - רקורסיה\דפי תרגילים\2020\ex2_TwoNumbers\wp3numbers\obj\x86\Debug\wp3numbers.csprojAssemblyReference.cache
+C:\הוראה\מקצועות\מבני נתונים\מערכי שיעור\פרק 1 - רקורסיה\דפי תרגילים\2020\ex2_TwoNumbers\wp3numbers\obj\x86\Debug\wp3numbers.csproj.CoreCompileInputs.cache
+C:\הוראה\מקצועות\מבני נתונים\מערכי שיעור\פרק 1 - רקורסיה\דפי תרגילים\2020\ex2_TwoNumbers\wp3numbers\obj\x86\Debug\wp3numbers.exe
+C:\הוראה\מקצועות\מבני נתונים\מערכי שיעור\פרק 1 - רקורסיה\דפי תרגילים\2020\ex2_TwoNumbers\wp3numbers\obj\x86\Debug\wp3numbers.pdb
+C:\Users\David\Downloads\ex2_TwoNumbers\wp3numbers\obj\x86\Debug\wp3numbers.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\ex2_TwoNumbers\wp3numbers\obj\x86\Debug\wp3numbers.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\ex2_TwoNumbers\wp3numbers\obj\x86\Debug\wp3numbers.exe
+C:\Users\David\Downloads\ex2_TwoNumbers\wp3numbers\obj\x86\Debug\wp3numbers.pdb
+C:\Users\David\Downloads\ex2_TwoNumbers\wp3numbers\bin\Debug\wp3numbers.exe
+C:\Users\David\Downloads\ex2_TwoNumbers\wp3numbers\bin\Debug\wp3numbers.pdb

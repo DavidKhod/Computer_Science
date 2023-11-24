@@ -1,0 +1,7 @@
+C:\Users\David\Computer_science\Programs\C#\Codes\4_7\P116Q20\bin\Debug\P116Q20.exe.config
+C:\Users\David\Computer_science\Programs\C#\Codes\4_7\P116Q20\bin\Debug\P116Q20.exe
+C:\Users\David\Computer_science\Programs\C#\Codes\4_7\P116Q20\bin\Debug\P116Q20.pdb
+C:\Users\David\Computer_science\Programs\C#\Codes\4_7\P116Q20\obj\Debug\P116Q20.csproj.AssemblyReference.cache
+C:\Users\David\Computer_science\Programs\C#\Codes\4_7\P116Q20\obj\Debug\P116Q20.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Programs\C#\Codes\4_7\P116Q20\obj\Debug\P116Q20.exe
+C:\Users\David\Computer_science\Programs\C#\Codes\4_7\P116Q20\obj\Debug\P116Q20.pdb

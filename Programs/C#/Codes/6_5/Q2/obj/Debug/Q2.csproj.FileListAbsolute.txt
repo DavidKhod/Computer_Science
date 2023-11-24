@@ -1,0 +1,7 @@
+C:\Users\David\Computer_science\Programs\C#\Codes\6_5\Q2\bin\Debug\Q2.exe.config
+C:\Users\David\Computer_science\Programs\C#\Codes\6_5\Q2\bin\Debug\Q2.exe
+C:\Users\David\Computer_science\Programs\C#\Codes\6_5\Q2\bin\Debug\Q2.pdb
+C:\Users\David\Computer_science\Programs\C#\Codes\6_5\Q2\obj\Debug\Q2.csproj.AssemblyReference.cache
+C:\Users\David\Computer_science\Programs\C#\Codes\6_5\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Programs\C#\Codes\6_5\Q2\obj\Debug\Q2.exe
+C:\Users\David\Computer_science\Programs\C#\Codes\6_5\Q2\obj\Debug\Q2.pdb

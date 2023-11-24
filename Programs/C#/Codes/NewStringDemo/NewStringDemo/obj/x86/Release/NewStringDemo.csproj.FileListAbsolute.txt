@@ -1,0 +1,25 @@
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעז\מדעי המחשב\עצמים תחילה\יסודות 2\מערכי שיעור\פרק 3 - מחרוזת\דמו\NewStringDemo\NewStringDemo\bin\Release\NewStringDemo.exe
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעז\מדעי המחשב\עצמים תחילה\יסודות 2\מערכי שיעור\פרק 3 - מחרוזת\דמו\NewStringDemo\NewStringDemo\bin\Release\NewStringDemo.pdb
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעז\מדעי המחשב\עצמים תחילה\יסודות 2\מערכי שיעור\פרק 3 - מחרוזת\דמו\NewStringDemo\NewStringDemo\bin\Release\stringMethodsDemo.dll
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעז\מדעי המחשב\עצמים תחילה\יסודות 2\מערכי שיעור\פרק 3 - מחרוזת\דמו\NewStringDemo\NewStringDemo\bin\Release\stringMethodsDemo.pdb
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעז\מדעי המחשב\עצמים תחילה\יסודות 2\מערכי שיעור\פרק 3 - מחרוזת\דמו\NewStringDemo\NewStringDemo\obj\x86\Release\ResolveAssemblyReference.cache
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעז\מדעי המחשב\עצמים תחילה\יסודות 2\מערכי שיעור\פרק 3 - מחרוזת\דמו\NewStringDemo\NewStringDemo\obj\x86\Release\NewStringDemo.exe
+D:\backupC\udi\הוראה\מקיף יב המעין\תשעז\מדעי המחשב\עצמים תחילה\יסודות 2\מערכי שיעור\פרק 3 - מחרוזת\דמו\NewStringDemo\NewStringDemo\obj\x86\Release\NewStringDemo.pdb
+D:\backupC\udi\הוראה\מקיף יג נבון\תשפא\מדעי המחשב\יסודות 2\מערכי שיעור\פרק 2 - מחרוזת\תוכנית הדגמה\NewStringDemo\NewStringDemo\obj\x86\Release\NewStringDemo.exe
+D:\backupC\udi\הוראה\מקיף יג נבון\תשפא\מדעי המחשב\יסודות 2\מערכי שיעור\פרק 2 - מחרוזת\תוכנית הדגמה\NewStringDemo\NewStringDemo\obj\x86\Release\NewStringDemo.pdb
+C:\הוראה\מקצועות\יסודות מדעי המחשב\משולב עצמים\יסודות 2\מערכי שיעור\פרק 2 - מחרוזת\תוכנית הדגמה\NewStringDemo\NewStringDemo\bin\Release\NewStringDemo.exe
+C:\הוראה\מקצועות\יסודות מדעי המחשב\משולב עצמים\יסודות 2\מערכי שיעור\פרק 2 - מחרוזת\תוכנית הדגמה\NewStringDemo\NewStringDemo\bin\Release\NewStringDemo.pdb
+C:\הוראה\מקצועות\יסודות מדעי המחשב\משולב עצמים\יסודות 2\מערכי שיעור\פרק 2 - מחרוזת\תוכנית הדגמה\NewStringDemo\NewStringDemo\bin\Release\stringMethodsDemo.pdb
+C:\הוראה\מקצועות\יסודות מדעי המחשב\משולב עצמים\יסודות 2\מערכי שיעור\פרק 2 - מחרוזת\תוכנית הדגמה\NewStringDemo\NewStringDemo\obj\x86\Release\NewStringDemo.csprojAssemblyReference.cache
+C:\הוראה\מקצועות\יסודות מדעי המחשב\משולב עצמים\יסודות 2\מערכי שיעור\פרק 2 - מחרוזת\תוכנית הדגמה\NewStringDemo\NewStringDemo\obj\x86\Release\NewStringDemo.csproj.CoreCompileInputs.cache
+C:\הוראה\מקצועות\יסודות מדעי המחשב\משולב עצמים\יסודות 2\מערכי שיעור\פרק 2 - מחרוזת\תוכנית הדגמה\NewStringDemo\NewStringDemo\obj\x86\Release\NewStringDemo.csproj.CopyComplete
+C:\הוראה\מקצועות\יסודות מדעי המחשב\משולב עצמים\יסודות 2\מערכי שיעור\פרק 2 - מחרוזת\תוכנית הדגמה\NewStringDemo\NewStringDemo\obj\x86\Release\NewStringDemo.exe
+C:\הוראה\מקצועות\יסודות מדעי המחשב\משולב עצמים\יסודות 2\מערכי שיעור\פרק 2 - מחרוזת\תוכנית הדגמה\NewStringDemo\NewStringDemo\obj\x86\Release\NewStringDemo.pdb
+C:\Users\David\Computer_science\Programs\C#\Codes\NewStringDemo\NewStringDemo\bin\Release\NewStringDemo.exe
+C:\Users\David\Computer_science\Programs\C#\Codes\NewStringDemo\NewStringDemo\bin\Release\NewStringDemo.pdb
+C:\Users\David\Computer_science\Programs\C#\Codes\NewStringDemo\NewStringDemo\bin\Release\stringMethodsDemo.pdb
+C:\Users\David\Computer_science\Programs\C#\Codes\NewStringDemo\NewStringDemo\obj\x86\Release\NewStringDemo.csproj.AssemblyReference.cache
+C:\Users\David\Computer_science\Programs\C#\Codes\NewStringDemo\NewStringDemo\obj\x86\Release\NewStringDemo.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Programs\C#\Codes\NewStringDemo\NewStringDemo\obj\x86\Release\NewStringDemo.csproj.CopyComplete
+C:\Users\David\Computer_science\Programs\C#\Codes\NewStringDemo\NewStringDemo\obj\x86\Release\NewStringDemo.exe
+C:\Users\David\Computer_science\Programs\C#\Codes\NewStringDemo\NewStringDemo\obj\x86\Release\NewStringDemo.pdb

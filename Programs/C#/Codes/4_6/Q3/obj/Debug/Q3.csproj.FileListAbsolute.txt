@@ -1,0 +1,6 @@
+C:\Users\David\Computer_science\Programs\C#\Codes\4_6\Q3\bin\Debug\Q3.exe.config
+C:\Users\David\Computer_science\Programs\C#\Codes\4_6\Q3\bin\Debug\Q3.exe
+C:\Users\David\Computer_science\Programs\C#\Codes\4_6\Q3\bin\Debug\Q3.pdb
+C:\Users\David\Computer_science\Programs\C#\Codes\4_6\Q3\obj\Debug\Q3.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Programs\C#\Codes\4_6\Q3\obj\Debug\Q3.exe
+C:\Users\David\Computer_science\Programs\C#\Codes\4_6\Q3\obj\Debug\Q3.pdb

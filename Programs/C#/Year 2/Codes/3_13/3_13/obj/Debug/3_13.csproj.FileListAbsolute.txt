@@ -1,0 +1,7 @@
+C:\Users\David\Computer_science\Programs\C#\Year 2\Codes\3_13\3_13\bin\Debug\3_13.exe.config
+C:\Users\David\Computer_science\Programs\C#\Year 2\Codes\3_13\3_13\bin\Debug\3_13.exe
+C:\Users\David\Computer_science\Programs\C#\Year 2\Codes\3_13\3_13\bin\Debug\3_13.pdb
+C:\Users\David\Computer_science\Programs\C#\Year 2\Codes\3_13\3_13\obj\Debug\3_13.csproj.AssemblyReference.cache
+C:\Users\David\Computer_science\Programs\C#\Year 2\Codes\3_13\3_13\obj\Debug\3_13.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Programs\C#\Year 2\Codes\3_13\3_13\obj\Debug\3_13.exe
+C:\Users\David\Computer_science\Programs\C#\Year 2\Codes\3_13\3_13\obj\Debug\3_13.pdb

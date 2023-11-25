@@ -1,0 +1,10 @@
+static bool Exist(IntNode list,int num)
+        {
+            while (list != null)
+            {
+                if (num == list.GetValue())
+                    return true;
+                list = list.GetNext();
+            }
+            return false;
+        }

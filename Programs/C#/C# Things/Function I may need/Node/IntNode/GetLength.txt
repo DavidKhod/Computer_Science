@@ -1,0 +1,10 @@
+static int GetLength(IntNode list)
+        {
+            int count = 0;
+            while (list != null)
+            {
+                count++;
+                list = list.GetNext();//Points the pointer onto the next pointer
+            }
+            return count;
+        }

@@ -1,0 +1,14 @@
+static Random rnd = new Random();
+static IntNode CreateRandomIntNode(int length,int from,int until)
+        {
+            IntNode list = new IntNode(rnd.Next(from, until + 1));
+            IntNode rtnlist = list;
+            int cnt = 1;
+            while (cnt <= length)
+            {
+                list.SetNext(new IntNode(rnd.Next(from, until + 1)));
+                list = list.GetNext();
+                cnt++;
+            }
+            return rtnlist;
+        }

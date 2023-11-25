@@ -1,5 +1,4 @@
-using System;
-//The class IntNode presents a node with integers only
+﻿//The class IntNode presents a node with integers only
 public class IntNode
 {
     private int value;//The value
@@ -10,12 +9,12 @@ public class IntNode
     /// </summary>
     /// <param name="value">The value this.value is set to</param>
     /// <param name="next">The IntNode this.next becomes the pointer of</param>
-    public IntNode(int value,IntNode next)
+    public IntNode(int value, IntNode next)
     {
         this.value = value;
-        this.next = next;   
+        this.next = next;
     }
-    
+
     /// <summary>
     /// Build Function that inputs only an integer and sets its value as this.value and this.next as null
     /// </summary>
@@ -52,6 +51,10 @@ public class IntNode
     public void SetNext(IntNode next)
     {
         this.next = next;
+    }
+    public bool HasNext()
+    {
+        return this.GetNext() != null;
     }
 
     public override string ToString()

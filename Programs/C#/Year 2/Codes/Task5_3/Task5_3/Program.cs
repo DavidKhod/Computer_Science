@@ -176,6 +176,7 @@ namespace Task5_3
             Console.WriteLine($"PrintListFromTo: ");
             PrintListFromTo(list, 4, 8);
             PrintListFromTo(list, 2, 4);
+
             Console.WriteLine($"IsInList: ");
             int num1 = rnd.Next(FROM, UNTIl + 10);
             int num2 = rnd.Next(FROM, UNTIl + 10);
@@ -183,19 +184,23 @@ namespace Task5_3
             bool Exits2 = IsInList(list, num2);
             Console.WriteLine($"For {num1} it: {Exits1}");
             Console.WriteLine($"For {num2} it: {Exits2}");
+
             Console.WriteLine($"Average: {Average(list)}");
             Console.WriteLine($"PrintEvenOrOddBigger: {PrintEvenOrOddBigger(list)}");
             Console.WriteLine($"List is sorted: {IsRaisingOrder(list)}");
             Console.Write($"All numbers that are bigger then the next: ");
             PrintNumBiggerThenNext(list);
+
             int num = rnd.Next(FROM, UNTIl + 1);
             Console.WriteLine($"The amount of sequances of {num} is: {SequanceOfNumberAmount(list, num)}");
             Console.WriteLine($"The Node is balanced: {IsBalanced(list)}");
             Console.WriteLine($"The last node is: {GetLast(list)}");
+
             IntNode example = null;
             if (rnd.Next(1, 3) == 1)
                 example = list.GetNext().GetNext().GetNext();
             Console.WriteLine($"The previus to {example.ToString()} is: {GetPrev(list, example).ToString()}");
+
             int pos = rnd.Next(FROM, UNTIl + 1);
             Console.WriteLine($"{pos} is in position: {GetPos(list, pos).ToString()}");
         }

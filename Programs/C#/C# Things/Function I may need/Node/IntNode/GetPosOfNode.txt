@@ -1,0 +1,10 @@
+static IntNode GetPosOfNode(IntNode list,IntNode node)
+{
+	while(list.HasNext())
+	{
+		if(list == node)
+			return list;
+		list = list.GetNext();
+	}
+	return null;
+}

@@ -1,0 +1,10 @@
+static IntNode GetPosOfNum(IntNode list, int num)//Q11
+        {
+            while (list.HasNext())
+            {
+                if (list.GetValue() == num)
+                    return list;
+                list = list.GetNext();
+            }
+            return null;
+        }

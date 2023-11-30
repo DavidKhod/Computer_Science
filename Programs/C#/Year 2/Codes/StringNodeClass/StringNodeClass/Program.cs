@@ -10,7 +10,7 @@ namespace StringNodeClass
     {
         static void Main(string[] args)
         {
-            new StringNode = ("Noam", new StringNode("Noam", new StringNode("David", new StringNode("Ori"))));
+            
         }
     }
 }

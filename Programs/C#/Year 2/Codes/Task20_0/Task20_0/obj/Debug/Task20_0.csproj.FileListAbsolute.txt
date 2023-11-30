@@ -1,0 +1,7 @@
+C:\Users\David\Computer_science\Programs\C#\Year 2\Codes\Task20_0\Task20_0\bin\Debug\Task20_0.exe.config
+C:\Users\David\Computer_science\Programs\C#\Year 2\Codes\Task20_0\Task20_0\bin\Debug\Task20_0.exe
+C:\Users\David\Computer_science\Programs\C#\Year 2\Codes\Task20_0\Task20_0\bin\Debug\Task20_0.pdb
+C:\Users\David\Computer_science\Programs\C#\Year 2\Codes\Task20_0\Task20_0\obj\Debug\Task20_0.csproj.AssemblyReference.cache
+C:\Users\David\Computer_science\Programs\C#\Year 2\Codes\Task20_0\Task20_0\obj\Debug\Task20_0.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Programs\C#\Year 2\Codes\Task20_0\Task20_0\obj\Debug\Task20_0.exe
+C:\Users\David\Computer_science\Programs\C#\Year 2\Codes\Task20_0\Task20_0\obj\Debug\Task20_0.pdb

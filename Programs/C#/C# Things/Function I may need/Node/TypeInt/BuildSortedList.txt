@@ -1,0 +1,25 @@
+static Node<int> BuildSortedList(int n)
+        {
+            Console.Write($"Enter an integer: ");
+            Node<int> list = new Node<int>(int.Parse(Console.ReadLine()));
+            Node<int> startOfList = list;
+            for (int i = 1; i < n; i++)
+            {
+                Console.Write($"Enter an integer: ");
+                int num = int.Parse(Console.ReadLine());
+                if (num <= startOfList.Value)
+                {
+                    startOfList = new Node<int>(num, startOfList);
+                }
+                else
+                {
+                    list = startOfList;
+                    while (list.HasNext() && num > list.Next.Value)
+                    {
+                        list = list.Next;
+                    }
+                    list.Next = new Node<int>(num, list.Next);
+                }
+            }
+            return startOfList;
+        }

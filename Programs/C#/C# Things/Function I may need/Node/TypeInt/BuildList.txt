@@ -1,0 +1,13 @@
+static Node<int> BuildList(int n)
+        {
+            Console.Write($"Enter an integer: ");
+            Node<int> list = new Node<int>(int.Parse(Console.ReadLine()));
+            Node<int> tempList = list;
+            for (int i = 1; i < n; i++)
+            {
+                Console.Write($"Enter an integer: ");
+                list.Next = new Node<int>(int.Parse(Console.ReadLine()));
+                list = list.Next;
+            }
+            return tempList;
+        }

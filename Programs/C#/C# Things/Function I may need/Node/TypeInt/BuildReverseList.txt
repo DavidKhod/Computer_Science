@@ -1,0 +1,11 @@
+static Node<int> BuildReverseList(int n)
+        {
+            Console.Write($"Enter an integer: ");
+            Node<int> list = new Node<int>(int.Parse(Console.ReadLine()));
+            for (int i = 1; i < n; i++)
+            {
+                Console.Write($"Enter an integer: ");
+                list = new Node<int>(int.Parse(Console.ReadLine()), list);
+            }
+            return list;
+        }

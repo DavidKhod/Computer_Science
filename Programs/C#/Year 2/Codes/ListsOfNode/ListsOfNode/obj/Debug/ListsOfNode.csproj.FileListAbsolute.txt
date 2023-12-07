@@ -1,0 +1,7 @@
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\ListsOfNode\ListsOfNode\bin\Debug\ListsOfNode.exe.config
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\ListsOfNode\ListsOfNode\bin\Debug\ListsOfNode.exe
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\ListsOfNode\ListsOfNode\bin\Debug\ListsOfNode.pdb
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\ListsOfNode\ListsOfNode\obj\Debug\ListsOfNode.csproj.AssemblyReference.cache
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\ListsOfNode\ListsOfNode\obj\Debug\ListsOfNode.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\ListsOfNode\ListsOfNode\obj\Debug\ListsOfNode.exe
+C:\Users\David\Computer_Science\Programs\C#\Year 2\Codes\ListsOfNode\ListsOfNode\obj\Debug\ListsOfNode.pdb

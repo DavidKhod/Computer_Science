@@ -1,0 +1,58 @@
+﻿
+using System;
+
+public class Node<T>
+{
+    private T value;//The value
+    private Node<T> next;//points onto the next node
+
+    /// <summary>
+    /// The Function sets the this.value To the type and its value inputed and this.next into the T Node inputed
+    /// </summary>
+    /// <param name="value">The value this.value is set to</param>
+    /// <param name="next">The T Node this.next becomes the pointer of</param>
+    public Node(T value, Node<T> next)
+    {
+        this.value = value;
+        this.next = next;
+    }
+
+    /// <summary>
+    /// Build Function that inputs only a T and sets its value as this.value and this.next as null
+    /// </summary>
+    /// <param name="value">The value inputed</param>
+    public Node(T value)
+    {
+        this.value = value;
+        this.next = null;
+    }
+
+
+    public T Value
+    {
+        get { return this.value; }
+        set { this.value = value; }
+    }
+
+    public Node<T> Next
+    {
+        get { return this.next; }
+        set
+        {
+            if (value != null && value.GetType() == typeof(Node<T>))
+            {
+                next = value;
+            }
+            else
+            {
+                throw new ArgumentException("Value type does not equal to Node");
+            }
+        }
+    }
+
+    public override string ToString()
+    {
+        return $"{this.value} -> {this.next}";
+    }
+}
+

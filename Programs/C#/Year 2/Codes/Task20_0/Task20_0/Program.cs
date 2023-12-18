@@ -3,7 +3,7 @@ namespace Task20_0
 {
     class Program
     {
-        static bool exist(StringNode list, string name)
+        static bool exist(Node<string> list, string name)
         {
             if (list == null)
             {
@@ -17,7 +17,9 @@ namespace Task20_0
             }
         }
 
-        static string ShortestName(StringNode list)
+        //Entry: The function inputs a pointer to the first string Node
+        //Exis: The function return the shortest name/string in linked list
+        static string ShortestName(Node<string> list)
         {
             if (!list.HasNext())
             {
@@ -34,7 +36,9 @@ namespace Task20_0
             }
         }
 
-        static bool AscendingOrderByABC(StringNode list)
+        //Entry: The function inputs a pointer to the first node in a string linked list
+        //Exit: The function returns True if the string are in an asceing order, False if not
+        static bool AscendingOrderByABC(Node<string> list)
         {
             while (list.HasNext())
             {
@@ -45,15 +49,17 @@ namespace Task20_0
             return true;
         }
 
-        static void AllLetterThatListDontAppear(StringNode list)
+        //Entry: The function inputs a pointer to the first node in a string linked list
+        //Exit: The function prints all of the letters that don't appear in any of the string in the linked list
+        static void AllLetterThatListDontAppear(Node<string> list)
         {
             for (char i = 'a'; i <= 'z'; i++)
             {
                 bool contains = false;
-                StringNode temp = list;
-                while (temp.HasNext() && !contains)//looks through all of the words in the list if the letter exist in them
+                Node<string> temp = list;
+                while (temp.HasNext() && !contains)
                 {
-                    if (temp.GetValue().Contains(i.ToString()))//if the letter exist in the world
+                    if (temp.GetValue().Contains(i.ToString()))
                         contains = true;
                     temp = temp.GetNext();
                 }
@@ -65,14 +71,14 @@ namespace Task20_0
 
         static void Main(string[] args)
         {
-            StringNode list =
-            new StringNode("alice",
-            new StringNode("bob",
-            new StringNode("charlie",
-            new StringNode("david",
-            new StringNode("eva",
-            new StringNode("frank",
-            new StringNode("grace")))))));
+            Node<string> list =
+            new Node<string>("alice",
+            new Node<string>("bob",
+            new Node<string>("charlie",
+            new Node<string>("david",
+            new Node<string>("eva",
+            new Node<string>("frank",
+            new Node<string>("grace")))))));
 
             // Check if a name exists in the list
             string nameToFind = "david";

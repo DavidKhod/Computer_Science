@@ -27,6 +27,8 @@ namespace recArray
         {
             return SumOfAllPositive(arr, 0);
         }
+        //Entry: The function inputs an array of integers
+        //Exit the function return the sum of all the positive numbers in the array
         static int SumOfAllPositive(int[] arr, int i)
         {
             if (i == arr.Length - 1)
@@ -38,7 +40,6 @@ namespace recArray
             if (arr[i] > 0)
                 return SumOfAllPositive(arr, i + 1) + arr[i];
             return SumOfAllPositive(arr, i + 1);
-
         }
 
 
@@ -49,6 +50,9 @@ namespace recArray
         {
             return IsThereNegative(arr, 0);
         }
+
+        //Entry: the function input an array of integers
+        //Exit: the function returns True if there is a negative number in the array, False if not
         static bool IsThereNegative(int[] arr, int i)
         {
             if (i == arr.Length - 1)
@@ -71,6 +75,8 @@ namespace recArray
             return MaxNumber(arr, 0);
         }
 
+        //Entry: The function inputs an array
+        //Exit: The function returns the biggest number in the array
         static int MaxNumber(int[] arr, int i)
         {
             if (i == arr.Length - 1)

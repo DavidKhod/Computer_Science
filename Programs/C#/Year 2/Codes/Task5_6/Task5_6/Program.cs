@@ -19,15 +19,15 @@ namespace Task5_6
         static Node<int> BuildList(int n)
         {
             Console.Write($"Enter an integer: ");
-            Node<int> list = new Node<int>(int.Parse(Console.ReadLine()));
-            Node<int> tempList = list;
+            Node<int> last = new Node<int>(int.Parse(Console.ReadLine()));
+            Node<int> startOfList = last;
             for (int i = 1; i < n; i++)
             {
                 Console.Write($"Enter an integer: ");
-                list.Next = new Node<int>(int.Parse(Console.ReadLine()));
-                list = list.Next;
+                last.Next = new Node<int>(int.Parse(Console.ReadLine()));
+                last = last.Next;
             }
-            return tempList;
+            return startOfList;
         }
 
 

@@ -1,0 +1,7 @@
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_5\Task5_5\bin\Debug\Task5_5.exe.config
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_5\Task5_5\bin\Debug\Task5_5.exe
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_5\Task5_5\bin\Debug\Task5_5.pdb
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_5\Task5_5\obj\Debug\Task5_5.csproj.AssemblyReference.cache
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_5\Task5_5\obj\Debug\Task5_5.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_5\Task5_5\obj\Debug\Task5_5.exe
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_5\Task5_5\obj\Debug\Task5_5.pdb

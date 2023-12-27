@@ -5,3 +5,10 @@ C:\Users\David\Computer_science\Programs\C#\Year 2\Codes\Task5_4\Task5_4\obj\Deb
 C:\Users\David\Computer_science\Programs\C#\Year 2\Codes\Task5_4\Task5_4\obj\Debug\Task5_4.csproj.CoreCompileInputs.cache
 C:\Users\David\Computer_science\Programs\C#\Year 2\Codes\Task5_4\Task5_4\obj\Debug\Task5_4.exe
 C:\Users\David\Computer_science\Programs\C#\Year 2\Codes\Task5_4\Task5_4\obj\Debug\Task5_4.pdb
+C:\Users\David\Computer_Science\Programs\C#\Year_2\Codes\Task5_4\Task5_4\bin\Debug\Task5_4.exe.config
+C:\Users\David\Computer_Science\Programs\C#\Year_2\Codes\Task5_4\Task5_4\bin\Debug\Task5_4.exe
+C:\Users\David\Computer_Science\Programs\C#\Year_2\Codes\Task5_4\Task5_4\bin\Debug\Task5_4.pdb
+C:\Users\David\Computer_Science\Programs\C#\Year_2\Codes\Task5_4\Task5_4\obj\Debug\Task5_4.csproj.AssemblyReference.cache
+C:\Users\David\Computer_Science\Programs\C#\Year_2\Codes\Task5_4\Task5_4\obj\Debug\Task5_4.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_Science\Programs\C#\Year_2\Codes\Task5_4\Task5_4\obj\Debug\Task5_4.exe
+C:\Users\David\Computer_Science\Programs\C#\Year_2\Codes\Task5_4\Task5_4\obj\Debug\Task5_4.pdb

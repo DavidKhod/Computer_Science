@@ -1,0 +1,27 @@
+static Node<int> RemoveNum(Node<int> list, int num)
+        {
+            Node<int> previous;
+            Node<int> pos;
+            while (list != null && list.Value == num)
+            {
+                list = list.Next;
+            }
+            if (list == null)
+                return list;
+            previous = list;
+            pos = list.Next;
+            while (pos != null)
+            {
+                if (pos.Value == num)
+                {
+                    pos = pos.Next;
+                    previous.Next = pos;
+                }
+                else
+                {
+                    previous = pos;
+                    pos = pos.Next;
+                }
+            }
+            return list;
+        }

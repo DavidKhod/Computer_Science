@@ -139,20 +139,22 @@ namespace Task5_4
 
         static void RemoveNum(Node<int> list, int num)//Q6 Working but not if the list is full of num
         {
-            Node<int> previous = null;
-            Node<int> pos = list;
-            if (list.Value == num)
+            Node<int> previous;
+            Node<int> pos;
+            while (list != null && list.Value == num)
             {
                 list = list.Next;
-                previous = pos;
-                pos = pos.Next;
             }
+            if (list == null)
+                return;
+            previous = list;
+            pos = list.Next;
             while (pos != null)
             {
                 if (pos.Value == num)
                 {
-                    previous.Next = pos.Next;
                     pos = pos.Next;
+                    previous.Next = pos;
                 }
                 else
                 {

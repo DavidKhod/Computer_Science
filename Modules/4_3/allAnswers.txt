@@ -1,0 +1,22 @@
+1 -> L2 * R(L2) = {(ab)^x * b^y * b^k * (ba)^i | x,y,k,i >= 0}
+
+2 -> ab because if in L2 y would be equal to 0 and x would be equal to 1, it would be: (ab)^1 * b^0,
+     and in L5 if y is equal to zero and x is equal to 1 (1 != 0) it would be also: (ab)^1 * c^0.
+
+3 -> L2^2 = {(ab)^x * b^y * (ab)^k * b^t | x,y,k,t >= 0} -> ab * b which is abb
+
+4 -> R(L2) * L5 = {b^k * (ba)^i * (ab)^x * c^y | k,i >= 0, x!= y}
+
+5 -> does L4 = R(L4)? yes, because for example: 
+     L4 = {abb,abba,abbab,bb}
+     R(L4) = {bba,abba,babba,bb}
+     both are ecceptable for the language so the 
+     answer is yes
+
+6-> {bb * aa^0 * bb * aa^0 } 
+    contains the sequance bb twice and doesn't contain the sequance aa.
+    a word that is ecceptable for example is: {bbbb,bbabba,bbabbab}.
+
+6.2 -> yes,because if it inputs at least one time the sequance bb then its in the language,on both.
+
+7 -> L1^2 = {a^n * b * c^((n % 2) + 1) * a^k * b * c^((k % 2) + 1) | n,k >= 0}

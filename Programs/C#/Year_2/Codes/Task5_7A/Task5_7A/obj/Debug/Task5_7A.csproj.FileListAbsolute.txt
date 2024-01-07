@@ -1,0 +1,2 @@
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_7A\Task5_7A\obj\Debug\Task5_7A.csproj.AssemblyReference.cache
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_7A\Task5_7A\obj\Debug\Task5_7A.csproj.CoreCompileInputs.cache

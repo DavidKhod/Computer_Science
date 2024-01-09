@@ -13,12 +13,6 @@
         this.next = null;
     }
 
-    public Node(T value, Node<T> next)
-    {
-        this.value = value;
-        this.next = next;
-    }
-
     /// <summary>
     /// Gets the pointer to the next Node.
     /// </summary>

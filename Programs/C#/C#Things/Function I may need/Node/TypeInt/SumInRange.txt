@@ -1,0 +1,6 @@
+static int sumInRange(Node<int> list,Node<int> p,Node<int> d)
+        {
+            if (p == d)
+                return p.Value;
+            return SuminRange(list,p.Next,d) + p.Value;
+        }

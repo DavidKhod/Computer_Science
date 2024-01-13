@@ -1,7 +1,7 @@
 ﻿using System;
 namespace MyLib
 {
-    class Point
+    public class Point
     {
         private double x;//The x axis of the point
         private double y;//The y axis of the point

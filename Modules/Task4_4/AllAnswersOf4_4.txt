@@ -1,0 +1,17 @@
+1 -> L2 * L3 = {a^n * c^m * a^n+2i * b^2k * a^i | 0 <= m <= 3, n >= 0, i > 0,k >= 0}
+
+2 -> L1^2 = {(ab)^n * c^m * ab^k * c^i | n,m,k,i >= 0, i,m % 3 = 0}
+
+3 -> aaaaaa because if in L2 m = 0,n = 3 it will be a^3 * a^3 which is a^6, and in L3 if k = 0, n = 2 
+     it will be a^(2*2) * a^2 -> a^4 * a^2 -> a^6 which is the same.
+
+4 -> L2 because n and m can be both 0
+     L1 because n and m can be both 0
+	 
+5 -> L2 because a^n * c^m * a^n is a polindrom(R(xyx) = xyx)
+     and the word that is equal to its reverse is aca also a polindrom
+	 
+	 L4 because its a polindrom but only when w is also a polindrom
+	 the word that is equal to its reverse is aa, because c and b can be 0 times so w will not exist
+	 
+6 -> L4^2 = {a * w * a^2 * w2 * a | w,w2 the amount of c is equal to the amount of b}

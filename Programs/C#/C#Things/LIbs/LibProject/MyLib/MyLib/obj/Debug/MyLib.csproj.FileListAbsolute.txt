@@ -4,3 +4,8 @@ C:\Users\David\Computer_science\Programs\C#\C#Things\LIbs\MyLib\MyLib\obj\Debug\
 C:\Users\David\Computer_science\Programs\C#\C#Things\LIbs\MyLib\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
 C:\Users\David\Computer_science\Programs\C#\C#Things\LIbs\MyLib\MyLib\obj\Debug\MyLib.dll
 C:\Users\David\Computer_science\Programs\C#\C#Things\LIbs\MyLib\MyLib\obj\Debug\MyLib.pdb
+C:\Users\David\Computer_science\Programs\C#\C#Things\LIbs\LibProject\MyLib\MyLib\bin\Debug\MyLib.dll
+C:\Users\David\Computer_science\Programs\C#\C#Things\LIbs\LibProject\MyLib\MyLib\bin\Debug\MyLib.pdb
+C:\Users\David\Computer_science\Programs\C#\C#Things\LIbs\LibProject\MyLib\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Programs\C#\C#Things\LIbs\LibProject\MyLib\MyLib\obj\Debug\MyLib.dll
+C:\Users\David\Computer_science\Programs\C#\C#Things\LIbs\LibProject\MyLib\MyLib\obj\Debug\MyLib.pdb

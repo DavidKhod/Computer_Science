@@ -4,6 +4,7 @@ namespace Task5_9
 {
     class Program
     {
+        //Q1
         static void CreateListOfBox()
         {
             Node<Box> listOfBox = new Node<Box>(CreateABox());
@@ -35,7 +36,7 @@ namespace Task5_9
             return new Box(length, width, height);
         }
 
-
+        //Q2A
         static Node<Circle> AddCircleToList(Node<Circle> list, Circle cir)
         {
             if (cir.R <= list.Value.R)
@@ -51,7 +52,7 @@ namespace Task5_9
             }
             return list;
         }
-
+        //Q2B
         static Node<Circle> BuildSortedList(int n)
         {
             Node<Circle> list = new Node<Circle>(CreateCircle());
@@ -84,7 +85,7 @@ namespace Task5_9
             return new Circle(R, color);
 
         }
-
+        //Q47P99
         static int MostRolled(Node<SheshBesh> list)
         {
             int[] arr = new int[6];
@@ -106,8 +107,8 @@ namespace Task5_9
             }
             return maxIndex;
         }
-
-        static bool CanConnectToList(Node<Domino> list,Domino dom)
+        //Q48P99
+        static bool CanConnectToList(Node<Domino> list, Domino dom)
         {
             while (list != null && !list.Value.IsConnectable(dom))
             {
@@ -117,12 +118,12 @@ namespace Task5_9
                 return false;
             return true;
         }
-
-        static Node<Monomial> AddPolindroms(Node<Monomial> list1,Node<Monomial> list2)
+        //Q56P102
+        static Node<Monomial> AddPolindroms(Node<Monomial> list1, Node<Monomial> list2)
         {
             Node<Monomial> pos1 = list1;
             Node<Monomial> pos2 = list2;
-            Node<Monomial> rtnList = new Node<Monomial>(new Monomial(0,0));
+            Node<Monomial> rtnList = new Node<Monomial>(new Monomial(0, 0));
             Node<Monomial> pos = rtnList;
             int sum;
             while (list1 != null)
@@ -143,14 +144,112 @@ namespace Task5_9
             return rtnList.Next;
         }
 
+        //Q54P101
+        static Node<int[]> Loto(Node<int[]> list)
+        {
+            Node<int[]> listOfNotQulified = null;
+            Node<int[]> pos = listOfNotQulified;
+            while (list != null)
+            {
+                if (Max(list.Value) - Min(list.Value) < 20)
+                    pos = new Node<int[]>(list.Value);
+                list = list.Next;
+            }
+            return listOfNotQulified;
+        }
+        static int Max(int[] arr)
+        {
+            int max = arr[0];
+            for (int i = 1; i < arr.Length; i++)
+            {
+                if (arr[i] > max)
+                    max = arr[i];
+            }
+            return max;
+        }
+        static int Min(int[] arr)
+        {
+            int min = arr[0];
+            for (int i = 1; i < arr.Length; i++)
+            {
+                if (arr[i] < min)
+                    min = arr[i];
+            }
+            return min;
+        }
 
+        //Q53P100
+        static Node<int> LastEvenNum(Node<int> list)
+        {
+            if (list.HasNext())
+            {
+                if (list.Next.Value % 2 != 0)
+                    return list;
+                LastEvenNum(list.Next);
+            }
+            return null;
+        }
+
+        //Q21P286
+        static double SumExpressions(Node<Expr> list)
+        {
+            double sum = 0;
+            while (list != null)
+            {
+                sum += list.Value.Calculate();
+                list = list.Next;
+            }
+            return sum;
+        }
+
+        static Node<ZipInfo> Zip(Node<char> list)
+        {
+            Node<ZipInfo> listOfZips = new Node<ZipInfo>(new ZipInfo(list.Value, 1));
+            list = list.Next;
+            Node<ZipInfo> pos = listOfZips;
+            while (list != null && list.Value == pos.Value.Ch)
+            {
+                pos.Value.Times++;
+                list = list.Next;
+            }
+            pos = pos.Next;
+            while (list != null)
+            {
+                pos = new Node<ZipInfo>(new ZipInfo(list.Value, 1));
+                while (list != null && list.Value == pos.Value.Ch)
+                {
+                    pos.Value.Times++;
+                    list = list.Next;
+                }
+                pos = pos.Next;
+            }
+            return listOfZips;
+        }
+
+        static Node<char> UnZip(Node<ZipInfo> list)
+        {
+            Node<char> rtnList = new Node<char>(list.Value.Ch);
+            list.Value.Times--;
+            Node<char> pos = rtnList;
+            while (list != null)
+            {
+                while (list.Value.Times > 0)
+                {
+                    pos = new Node<char>(list.Value.Ch);
+                    list.Value.Times--;
+                    pos = pos.Next;
+                }
+                list = list.Next;
+            }
+            return rtnList;
+        }
         static void Main(string[] args)
         {
             Node<int> lis = new Node<int>(1, new Node<int>(5));
-            Node<Monomial> list1 = 
+            Node<Monomial> list1 =
                 new Node<Monomial>(new Monomial(1, 5),
-                new Node<Monomial>(new Monomial(5,3),
-                new Node<Monomial>(new Monomial(4,1))));
+                new Node<Monomial>(new Monomial(5, 3),
+                new Node<Monomial>(new Monomial(4, 1))));
 
             Console.WriteLine(list1);
             Node<Monomial> list2 =
@@ -158,7 +257,7 @@ namespace Task5_9
                 new Node<Monomial>(new Monomial(3, 3),
                 new Node<Monomial>(new Monomial(6, 1))));
             Console.WriteLine(list2);
-            Console.WriteLine(AddPolindroms(list1,list2));
+            Console.WriteLine(AddPolindroms(list1, list2));
         }
     }
 }

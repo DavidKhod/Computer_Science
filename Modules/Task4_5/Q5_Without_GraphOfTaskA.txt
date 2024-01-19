@@ -1,0 +1,16 @@
+B-> { W1 * W2 | W1,W2 3-L2}
+    { a^i * b^j * a^k * b^m * a^n | p,i,j,m >= 0, k = 2i + 3j + p,n = 2p + 3m}
+
+C -> L2 = {W = a^i * b^j * a^k | i,j >= 0,k = 2i + 3j}
+   R(L2)= {W = a^k * b^j * a^i | i,j >= 0,k = 2i + 3j}
+   abaaaaa is a word in L2,aaaaaba is a word in R(L2),aaaaaba != abaaaaa -> L2 != R(L2)
+   
+D -> {aa}
+
+E -> abcbbb, n = 1,m = 1, n + 2m = 3
+
+F -> L2,L3,L4
+
+G -> ?
+
+H -> { }

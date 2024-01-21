@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Exam17_12_2023
 {
@@ -10,7 +6,7 @@ namespace Exam17_12_2023
     {
         static Node<int> BuildPairsPalindrom(Node<int> list)
         {
-            while (list != null && !ispair(list,list.Value))
+            while (list != null && !ispair(list, list.Value))
             {
                 list = list.Next;
             }
@@ -19,7 +15,7 @@ namespace Exam17_12_2023
             Node<int> pairs = new Node<int>(list.Value);
             pairs.Next = new Node<int>(list.Value / 10 + (list.Value % 10) * 10);
             Node<int> midOfPairs = pairs;
-            while (list.HasNext())
+            while (list != null)
             {
                 if (!Exist(pairs, list.Value) && ispair(list, list.Value))
                 {
@@ -31,6 +27,7 @@ namespace Exam17_12_2023
             }
             return pairs;
         }
+
         static bool Exist(Node<int> list, int num)
         {
             while (list != null)
@@ -41,6 +38,7 @@ namespace Exam17_12_2023
             }
             return false;
         }
+
         static bool ispair(Node<int> list, int num)
         {
             int opNum = num / 10 + (num % 10) * 10;

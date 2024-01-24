@@ -4,16 +4,17 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{39DE9D69-C639-4EC7-8543-3BA4A2DAC647}</ProjectGuid>
-    <OutputType>Library</OutputType>
-    <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MyLib</RootNamespace>
-    <AssemblyName>MyLib</AssemblyName>
+    <ProjectGuid>{94FAAF5D-EDC7-4BE0-B918-DC69EE949DC7}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Task5_10</RootNamespace>
+    <AssemblyName>Task5_10</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -23,6 +24,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -41,19 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Box.cs" />
     <Compile Include="BPlayer.cs" />
     <Compile Include="BTeam.cs" />
     <Compile Include="BUnion.cs" />
-    <Compile Include="Circle.cs" />
-    <Compile Include="Class1.cs" />
-    <Compile Include="Domino.cs" />
-    <Compile Include="Expr.cs" />
-    <Compile Include="Monomial.cs" />
-    <Compile Include="Point.cs" />
+    <Compile Include="Node.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SheshBesh.cs" />
-    <Compile Include="ZipInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

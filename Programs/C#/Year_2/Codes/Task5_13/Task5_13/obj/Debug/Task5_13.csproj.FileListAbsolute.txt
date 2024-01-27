@@ -1,0 +1,10 @@
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_13\Task5_13\bin\Debug\Task5_13.exe.config
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_13\Task5_13\bin\Debug\Task5_13.exe
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_13\Task5_13\bin\Debug\Task5_13.pdb
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_13\Task5_13\bin\Debug\MyLib.dll
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_13\Task5_13\bin\Debug\MyLib.pdb
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_13\Task5_13\obj\Debug\Task5_13.csproj.AssemblyReference.cache
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_13\Task5_13\obj\Debug\Task5_13.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_13\Task5_13\obj\Debug\Task5_13.csproj.CopyComplete
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_13\Task5_13\obj\Debug\Task5_13.exe
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\Task5_13\Task5_13\obj\Debug\Task5_13.pdb

@@ -1,0 +1,10 @@
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\IntSortedCollectionClass\IntSortedCollectionClass\bin\Debug\IntSortedCollectionClass.exe.config
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\IntSortedCollectionClass\IntSortedCollectionClass\bin\Debug\IntSortedCollectionClass.exe
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\IntSortedCollectionClass\IntSortedCollectionClass\bin\Debug\IntSortedCollectionClass.pdb
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\IntSortedCollectionClass\IntSortedCollectionClass\bin\Debug\MyLib.dll
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\IntSortedCollectionClass\IntSortedCollectionClass\bin\Debug\MyLib.pdb
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\IntSortedCollectionClass\IntSortedCollectionClass\obj\Debug\IntSortedCollectionClass.csproj.AssemblyReference.cache
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\IntSortedCollectionClass\IntSortedCollectionClass\obj\Debug\IntSortedCollectionClass.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\IntSortedCollectionClass\IntSortedCollectionClass\obj\Debug\IntSortedCollectionClass.csproj.CopyComplete
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\IntSortedCollectionClass\IntSortedCollectionClass\obj\Debug\IntSortedCollectionClass.exe
+C:\Users\David\Computer_science\Programs\C#\Year_2\Codes\IntSortedCollectionClass\IntSortedCollectionClass\obj\Debug\IntSortedCollectionClass.pdb

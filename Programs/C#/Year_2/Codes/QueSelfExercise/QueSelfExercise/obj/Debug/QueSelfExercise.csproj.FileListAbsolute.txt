@@ -1,0 +1,10 @@
+C:\Users\David\Downloads\QueSelfExercise\QueSelfExercise\bin\Debug\QueSelfExercise.exe.config
+C:\Users\David\Downloads\QueSelfExercise\QueSelfExercise\bin\Debug\QueSelfExercise.exe
+C:\Users\David\Downloads\QueSelfExercise\QueSelfExercise\bin\Debug\QueSelfExercise.pdb
+C:\Users\David\Downloads\QueSelfExercise\QueSelfExercise\bin\Debug\MyLib.dll
+C:\Users\David\Downloads\QueSelfExercise\QueSelfExercise\bin\Debug\MyLib.pdb
+C:\Users\David\Downloads\QueSelfExercise\QueSelfExercise\obj\Debug\QueSelfExercise.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\QueSelfExercise\QueSelfExercise\obj\Debug\QueSelfExercise.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\QueSelfExercise\QueSelfExercise\obj\Debug\QueSelfExercise.csproj.CopyComplete
+C:\Users\David\Downloads\QueSelfExercise\QueSelfExercise\obj\Debug\QueSelfExercise.exe
+C:\Users\David\Downloads\QueSelfExercise\QueSelfExercise\obj\Debug\QueSelfExercise.pdb

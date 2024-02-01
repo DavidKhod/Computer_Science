@@ -1,0 +1,8 @@
+static void SortLoweringOrder(Queue<int> que)
+        {
+            Queue<int> sorted = new Queue<int>();
+            while (!que.IsEmpty())//O(n)(Inovice series)
+                sorted.Insert(MaxNumAndDelete(que));//O(n)
+            while (!sorted.IsEmpty())//O(n)
+                que.Insert(sorted.Remove());
+        }

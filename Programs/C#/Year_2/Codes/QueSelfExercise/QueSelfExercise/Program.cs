@@ -44,14 +44,15 @@ class Program
     // אחרת הפעולה תחזיר שקר
     static bool IsSorted(Queue<int> que)
     {
-        int prev = que.Head();
-        que.Remove();
-        for (Queue<int> pos = que; !pos.IsEmpty(); pos.Remove())
-        {
-            if (prev > pos.Head())
+        Queue<int> copy = Duplicate(que);
+        int prev = copy.Head();
+        copy.Remove();
+        while(!copy.IsEmpty())
+        { 
+            if (prev > copy.Head())
                 return false;
             else
-                prev = pos.Head();
+                prev = copy.Remove();
         }
         return true;
     }

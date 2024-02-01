@@ -1,0 +1,11 @@
+static Random rnd = new Random();
+        static Queue<int> CreateRandomQueue(int n,int from,int to)
+        {
+            to++;
+            Queue<int> que = new Queue<int>();
+            for (int i = 0; i < n; i++)
+            {
+                que.Insert(rnd.Next(from, to));
+            }
+            return que;
+        }

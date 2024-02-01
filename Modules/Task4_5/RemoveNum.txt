@@ -1,0 +1,12 @@
+static void RemoveNum(Queue<int> que, int num)
+        {
+            Queue<int> newQue = new Queue<int>();
+            while (!que.IsEmpty())//O(n)
+            {
+                if (que.Head() != num)
+                    newQue.Insert(que.Head());
+                que.Remove();
+            }
+            while (!newQue.IsEmpty())//O(n)
+                que.Insert(newQue.Remove());
+        }

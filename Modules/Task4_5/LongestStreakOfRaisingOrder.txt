@@ -1,0 +1,20 @@
+static int LongestStreakOfRaisingOrder(Queue<int> que)
+        {
+            Queue<int> copy = Duplicate(que);
+            int streak = 0;
+            int longestStreak = 0;
+            int prev = copy.Remove();
+            while (!copy.IsEmpty())
+            {
+                if (prev < copy.Head())
+                    streak++;
+                else
+                {
+                    if (streak > longestStreak)
+                        longestStreak = streak;
+                    streak = 0;
+                }
+                prev = copy.Remove();
+            }
+            return longestStreak;
+        }

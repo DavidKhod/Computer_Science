@@ -1,0 +1,12 @@
+static int TimesAppears(Queue<int> que,int num)
+        {
+            Queue<int> copy = Duplicate(que);
+            int cnt = 0;
+            while (!copy.IsEmpty())
+            {
+                if (copy.Head() == num)
+                    cnt++;
+                copy.Remove();
+            }
+            return cnt; 
+        }

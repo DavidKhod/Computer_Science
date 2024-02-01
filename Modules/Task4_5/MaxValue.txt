@@ -1,0 +1,13 @@
+static int MaxValue(Queue<int> que)
+        {
+            Queue<int> copy = Duplicate(que);
+            int max = copy.Head();
+            copy.Remove();
+            while (!copy.IsEmpty())
+            {
+                if (copy.Head() > max)
+                    max = copy.Head();
+                copy.Remove();
+            }
+            return max;
+        }

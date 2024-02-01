@@ -1,0 +1,11 @@
+static int Length(Queue<int> que)
+        {
+            int cnt = 0;
+            Queue<int> copy = Duplicate(que);
+            while (!copy.IsEmpty())
+            {
+                cnt++;
+                copy.Remove();
+            }
+            return cnt;
+        }

@@ -1,0 +1,8 @@
+static bool Exist(Queue<int> que, int num)
+        {
+            Queue<int> copy = Duplicate(que);
+            while (!copy.IsEmpty())
+                if (copy.Remove() == num)
+                    return true;
+            return false;
+        }

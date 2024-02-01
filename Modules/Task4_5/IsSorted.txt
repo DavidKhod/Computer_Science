@@ -1,0 +1,14 @@
+static bool IsSorted(Queue<int> que)
+    {
+        Queue<int> copy = Duplicate(que);
+        int prev = copy.Head();
+        copy.Remove();
+        while(!copy.IsEmpty())
+        { 
+            if (prev > copy.Head())
+                return false;
+            else
+                prev = copy.Remove();
+        }
+        return true;
+    }

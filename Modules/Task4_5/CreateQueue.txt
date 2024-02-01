@@ -1,0 +1,11 @@
+static Queue<int> CreateQueue(int n)
+    {
+        Queue<int> que = new Queue<int>();
+        for (int i = 0; i < n; i++)
+        {
+            Console.Write($"{i + 1}-Enter an integer:");
+            que.Insert(int.Parse(Console.ReadLine()));
+            Console.WriteLine(que);
+        }
+        return que;
+    }

@@ -1,0 +1,15 @@
+	static Queue<int> Duplicate(Queue<int> current)
+        {
+            Queue<int> copy = new Queue<int>();
+            Queue<int> temp = new Queue<int>();
+            while (!current.IsEmpty())
+            {
+                temp.Insert(current.Remove());
+            }
+            while (!temp.IsEmpty())
+            {
+                current.Insert(temp.Head());
+                copy.Insert(temp.Remove());
+            }
+            return copy;
+        }

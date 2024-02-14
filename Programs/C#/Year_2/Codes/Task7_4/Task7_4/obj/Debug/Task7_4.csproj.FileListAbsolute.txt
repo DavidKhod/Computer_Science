@@ -1,0 +1,10 @@
+C:\Users\David\Computer_Science\Programs\C#\Year_2\Codes\Task7_4\Task7_4\bin\Debug\Task7_4.exe.config
+C:\Users\David\Computer_Science\Programs\C#\Year_2\Codes\Task7_4\Task7_4\bin\Debug\Task7_4.exe
+C:\Users\David\Computer_Science\Programs\C#\Year_2\Codes\Task7_4\Task7_4\bin\Debug\Task7_4.pdb
+C:\Users\David\Computer_Science\Programs\C#\Year_2\Codes\Task7_4\Task7_4\bin\Debug\MyLib.dll
+C:\Users\David\Computer_Science\Programs\C#\Year_2\Codes\Task7_4\Task7_4\bin\Debug\MyLib.pdb
+C:\Users\David\Computer_Science\Programs\C#\Year_2\Codes\Task7_4\Task7_4\obj\Debug\Task7_4.csproj.AssemblyReference.cache
+C:\Users\David\Computer_Science\Programs\C#\Year_2\Codes\Task7_4\Task7_4\obj\Debug\Task7_4.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_Science\Programs\C#\Year_2\Codes\Task7_4\Task7_4\obj\Debug\Task7_4.csproj.CopyComplete
+C:\Users\David\Computer_Science\Programs\C#\Year_2\Codes\Task7_4\Task7_4\obj\Debug\Task7_4.exe
+C:\Users\David\Computer_Science\Programs\C#\Year_2\Codes\Task7_4\Task7_4\obj\Debug\Task7_4.pdb

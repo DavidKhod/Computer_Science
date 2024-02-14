@@ -60,6 +60,8 @@ namespace Task7_3
                 }
                 prev = copy.Remove();
             }
+            if (streak > longestStreak)
+                longestStreak = streak;
             return longestStreak;
         }
 

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\3_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5EDB86-CC8C-4A98-984F-7732E496BC55}|P46Q16\\P46Q16.csproj|c:\\users\\david\\computer_science\\programs\\c#\\year_1\\codes\\3_3\\p46q16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5EDB86-CC8C-4A98-984F-7732E496BC55}|P46Q16\\P46Q16.csproj|solutionrelative:p46q16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D997A4C-7C68-467D-AE89-E3372BCEAA16}|P46Q17\\P46Q17.csproj|c:\\users\\david\\computer_science\\programs\\c#\\year_1\\codes\\3_3\\p46q17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D997A4C-7C68-467D-AE89-E3372BCEAA16}|P46Q17\\P46Q17.csproj|solutionrelative:p46q17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453D214F-9E43-464D-BF46-692251FD86E8}|P46Q18\\P46Q18.csproj|c:\\users\\david\\computer_science\\programs\\c#\\year_1\\codes\\3_3\\p46q18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453D214F-9E43-464D-BF46-692251FD86E8}|P46Q18\\P46Q18.csproj|solutionrelative:p46q18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B0EAC0-BF81-4BC1-9B49-C78C4AA4F80F}|P47Q20\\P47Q20.csproj|c:\\users\\david\\computer_science\\programs\\c#\\year_1\\codes\\3_3\\p47q20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B0EAC0-BF81-4BC1-9B49-C78C4AA4F80F}|P47Q20\\P47Q20.csproj|solutionrelative:p47q20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE02D7B-5A51-4918-B880-ABAC1663AC5F}|P47Q19\\P47Q19.csproj|c:\\users\\david\\computer_science\\programs\\c#\\year_1\\codes\\3_3\\p47q19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE02D7B-5A51-4918-B880-ABAC1663AC5F}|P47Q19\\P47Q19.csproj|solutionrelative:p47q19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978E3F11-AF1F-41E7-8D7F-C5B7C921841D}|P47Q21\\P47Q21.csproj|c:\\users\\david\\computer_science\\programs\\c#\\year_1\\codes\\3_3\\p47q21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978E3F11-AF1F-41E7-8D7F-C5B7C921841D}|P47Q21\\P47Q21.csproj|solutionrelative:p47q21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\3_3\\P46Q16\\Program.cs",
+              "RelativeDocumentMoniker": "P46Q16\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\3_3\\P46Q16\\Program.cs",
+              "RelativeToolTip": "P46Q16\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:26:13.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\3_3\\P46Q17\\Program.cs",
+              "RelativeDocumentMoniker": "P46Q17\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\3_3\\P46Q17\\Program.cs",
+              "RelativeToolTip": "P46Q17\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:26:05.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\3_3\\P46Q18\\Program.cs",
+              "RelativeDocumentMoniker": "P46Q18\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\3_3\\P46Q18\\Program.cs",
+              "RelativeToolTip": "P46Q18\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:25:59.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\3_3\\P47Q20\\Program.cs",
+              "RelativeDocumentMoniker": "P47Q20\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\3_3\\P47Q20\\Program.cs",
+              "RelativeToolTip": "P47Q20\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:25:55.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\3_3\\P47Q19\\Program.cs",
+              "RelativeDocumentMoniker": "P47Q19\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\3_3\\P47Q19\\Program.cs",
+              "RelativeToolTip": "P47Q19\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:25:50.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\3_3\\P47Q21\\Program.cs",
+              "RelativeDocumentMoniker": "P47Q21\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\3_3\\P47Q21\\Program.cs",
+              "RelativeToolTip": "P47Q21\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:25:45.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

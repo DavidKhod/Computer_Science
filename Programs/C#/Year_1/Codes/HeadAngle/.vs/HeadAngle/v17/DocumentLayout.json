@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\HeadAngle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29AAB54D-DCEA-4FB3-84D0-B46596566421}|HeadAngle\\HeadAngle.csproj|c:\\users\\david\\computer_science\\programs\\c#\\year_1\\codes\\headangle\\headangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AAB54D-DCEA-4FB3-84D0-B46596566421}|HeadAngle\\HeadAngle.csproj|solutionrelative:headangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\HeadAngle\\HeadAngle\\Program.cs",
+              "RelativeDocumentMoniker": "HeadAngle\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\HeadAngle\\HeadAngle\\Program.cs",
+              "RelativeToolTip": "HeadAngle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:21:56.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

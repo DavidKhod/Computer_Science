@@ -1,0 +1,40 @@
+//Enrty: Inputs a linked list.
+//Exit: Returns the same list sorted.
+//Complexity:If n is length of the list, the the complexity will be O(n^2), because the base step is O(n), and n*(n) = n^2.
+static Node<int> Sort(Node<int> chain)
+{
+    Node<int> rtnList = null;
+    while (chain != null)
+    {
+        rtnList = InputIntoSortedList(rtnList, chain.GetValue());
+        chain = chain.GetNext();
+    }
+    return rtnList;
+}
+
+//Entry: Inputs a sorted linked list and an integer.
+//Exit: Returns a sorted linked list with the integer in it.
+//Complexity: If n is the length of the list,then the complexity will be O(n), because the base step is O(1) and n*O(1) = n
+static Node<int> InputIntoSortedList(Node<int> list, int num)
+{
+    Node<int> startOfList = list;
+    if (list == null)
+    {
+        list = new Node<int>(num);
+        return list;
+    }
+    if (num <= startOfList.GetValue())
+    {
+        startOfList = new Node<int>(num, startOfList);
+    }
+    else
+    {
+        list = startOfList;
+        while (list.HasNext() && num > list.GetNext().GetValue())
+        {
+            list = list.GetNext();
+        }
+        list.SetNext(new Node<int>(num, list.GetNext()));
+    }
+    return startOfList;
+}

@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\David\\Computer_Science\\Programs\\C#\\Year_2\\Codes\\Task7_6\\Exam899205_2010\\",
+  "WorkspaceRootPath": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_2\\Codes\\Task7_6\\Exam899205_2010\\",
   "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A6BCA355-52C3-4036-A340-659F879CE143}|Exam899205_2010.csproj|c:\\users\\david\\computer_science\\programs\\c#\\year_2\\codes\\task7_6\\exam899205_2010\\messagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6BCA355-52C3-4036-A340-659F879CE143}|Exam899205_2010.csproj|solutionrelative:messagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
     {
       "AbsoluteMoniker": "D:0:0:{A6BCA355-52C3-4036-A340-659F879CE143}|Exam899205_2010.csproj|c:\\users\\david\\computer_science\\programs\\c#\\year_2\\codes\\task7_6\\exam899205_2010\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6BCA355-52C3-4036-A340-659F879CE143}|Exam899205_2010.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6BCA355-52C3-4036-A340-659F879CE143}|Exam899205_2010.csproj|c:\\users\\david\\computer_science\\programs\\c#\\year_2\\codes\\task7_6\\exam899205_2010\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6BCA355-52C3-4036-A340-659F879CE143}|Exam899205_2010.csproj|solutionrelative:message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6BCA355-52C3-4036-A340-659F879CE143}|Exam899205_2010.csproj|C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_2\\Codes\\Task7_6\\Exam899205_2010\\messagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BCA355-52C3-4036-A340-659F879CE143}|Exam899205_2010.csproj|solutionrelative:messagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Users\\David\\Computer_Science\\Programs\\C#\\Year_2\\Codes\\Task7_6\\Exam899205_2010\\Message.cs",
-              "RelativeDocumentMoniker": "Message.cs",
-              "ToolTip": "C:\\Users\\David\\Computer_Science\\Programs\\C#\\Year_2\\Codes\\Task7_6\\Exam899205_2010\\Message.cs",
-              "RelativeToolTip": "Message.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T11:30:32.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MessageBox.cs",
-              "DocumentMoniker": "C:\\Users\\David\\Computer_Science\\Programs\\C#\\Year_2\\Codes\\Task7_6\\Exam899205_2010\\MessageBox.cs",
-              "RelativeDocumentMoniker": "MessageBox.cs",
-              "ToolTip": "C:\\Users\\David\\Computer_Science\\Programs\\C#\\Year_2\\Codes\\Task7_6\\Exam899205_2010\\MessageBox.cs",
-              "RelativeToolTip": "MessageBox.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAqwDsAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_2\\Codes\\Task7_6\\Exam899205_2010\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_2\\Codes\\Task7_6\\Exam899205_2010\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T11:26:52.958Z",
+              "WhenOpened": "2024-03-13T17:03:28.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\David\\Computer_Science\\Programs\\C#\\Year_2\\Codes\\Task7_6\\Exam899205_2010\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\David\\Computer_Science\\Programs\\C#\\Year_2\\Codes\\Task7_6\\Exam899205_2010\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Title": "MessageBox.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_2\\Codes\\Task7_6\\Exam899205_2010\\MessageBox.cs",
+              "RelativeDocumentMoniker": "MessageBox.cs",
+              "ToolTip": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_2\\Codes\\Task7_6\\Exam899205_2010\\MessageBox.cs",
+              "RelativeToolTip": "MessageBox.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwFAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T11:25:32.704Z",
+              "WhenOpened": "2024-03-13T17:02:10.442Z",
               "EditorCaption": ""
             }
           ]

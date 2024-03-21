@@ -6,7 +6,7 @@
     public int max_capacity { get; set; }
     private int activeCap;
     private int binCap;
-    private int currentCap;
+    public int currentCap { get; set; }
 
 
     public MessageBox(string owner)

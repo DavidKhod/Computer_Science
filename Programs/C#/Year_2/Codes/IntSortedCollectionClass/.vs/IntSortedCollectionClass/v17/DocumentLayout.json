@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_2\\Codes\\IntSortedCollectionClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D81C3A9-14FD-46FD-B6C9-B052C637126E}|IntSortedCollectionClass\\IntSortedCollectionClass.csproj|c:\\users\\david\\computer_science\\programs\\c#\\year_2\\codes\\intsortedcollectionclass\\intsortedcollectionclass\\intsortedcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D81C3A9-14FD-46FD-B6C9-B052C637126E}|IntSortedCollectionClass\\IntSortedCollectionClass.csproj|solutionrelative:intsortedcollectionclass\\intsortedcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D81C3A9-14FD-46FD-B6C9-B052C637126E}|IntSortedCollectionClass\\IntSortedCollectionClass.csproj|c:\\users\\david\\computer_science\\programs\\c#\\year_2\\codes\\intsortedcollectionclass\\intsortedcollectionclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D81C3A9-14FD-46FD-B6C9-B052C637126E}|IntSortedCollectionClass\\IntSortedCollectionClass.csproj|solutionrelative:intsortedcollectionclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntSortedCollection.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_2\\Codes\\IntSortedCollectionClass\\IntSortedCollectionClass\\IntSortedCollection.cs",
+              "RelativeDocumentMoniker": "IntSortedCollectionClass\\IntSortedCollection.cs",
+              "ToolTip": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_2\\Codes\\IntSortedCollectionClass\\IntSortedCollectionClass\\IntSortedCollection.cs",
+              "RelativeToolTip": "IntSortedCollectionClass\\IntSortedCollection.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T22:35:34.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_2\\Codes\\IntSortedCollectionClass\\IntSortedCollectionClass\\Program.cs",
+              "RelativeDocumentMoniker": "IntSortedCollectionClass\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_2\\Codes\\IntSortedCollectionClass\\IntSortedCollectionClass\\Program.cs",
+              "RelativeToolTip": "IntSortedCollectionClass\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T22:35:30.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

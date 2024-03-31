@@ -5,3 +5,10 @@ F:\Computer science\Programs\C#\HM_24_10_22\HM_24_10_22\obj\Debug\HM_24_10_22.cs
 F:\Computer science\Programs\C#\HM_24_10_22\HM_24_10_22\obj\Debug\HM_24_10_22.csproj.CoreCompileInputs.cache
 F:\Computer science\Programs\C#\HM_24_10_22\HM_24_10_22\obj\Debug\HM_24_10_22.exe
 F:\Computer science\Programs\C#\HM_24_10_22\HM_24_10_22\obj\Debug\HM_24_10_22.pdb
+C:\Users\David\Computer_science\Programs\C#\Year_1\Codes\HM_24_10_22\HM_24_10_22\bin\Debug\HM_24_10_22.exe.config
+C:\Users\David\Computer_science\Programs\C#\Year_1\Codes\HM_24_10_22\HM_24_10_22\bin\Debug\HM_24_10_22.exe
+C:\Users\David\Computer_science\Programs\C#\Year_1\Codes\HM_24_10_22\HM_24_10_22\bin\Debug\HM_24_10_22.pdb
+C:\Users\David\Computer_science\Programs\C#\Year_1\Codes\HM_24_10_22\HM_24_10_22\obj\Debug\HM_24_10_22.csproj.AssemblyReference.cache
+C:\Users\David\Computer_science\Programs\C#\Year_1\Codes\HM_24_10_22\HM_24_10_22\obj\Debug\HM_24_10_22.csproj.CoreCompileInputs.cache
+C:\Users\David\Computer_science\Programs\C#\Year_1\Codes\HM_24_10_22\HM_24_10_22\obj\Debug\HM_24_10_22.exe
+C:\Users\David\Computer_science\Programs\C#\Year_1\Codes\HM_24_10_22\HM_24_10_22\obj\Debug\HM_24_10_22.pdb

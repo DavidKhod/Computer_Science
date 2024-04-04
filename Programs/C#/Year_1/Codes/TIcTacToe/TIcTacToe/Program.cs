@@ -65,7 +65,7 @@ namespace TIcTacToe
                 desicion = char.Parse(Console.ReadLine());
             } while (desicion == 'y' || desicion == 'Y');
             Console.WriteLine($"X won {cntX} times");
-            Console.WriteLine($"O won {cntX} times");
+            Console.WriteLine($"O won {cntO} times");
         }
     }
 }

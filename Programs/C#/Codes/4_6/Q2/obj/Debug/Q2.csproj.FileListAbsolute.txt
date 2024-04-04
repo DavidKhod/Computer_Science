@@ -1,6 +1,0 @@
-C:\Users\David\Computer_science\Programs\C#\Codes\4_6\Q2\bin\Debug\Q2.exe.config
-C:\Users\David\Computer_science\Programs\C#\Codes\4_6\Q2\bin\Debug\Q2.exe
-C:\Users\David\Computer_science\Programs\C#\Codes\4_6\Q2\bin\Debug\Q2.pdb
-C:\Users\David\Computer_science\Programs\C#\Codes\4_6\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
-C:\Users\David\Computer_science\Programs\C#\Codes\4_6\Q2\obj\Debug\Q2.exe
-C:\Users\David\Computer_science\Programs\C#\Codes\4_6\Q2\obj\Debug\Q2.pdb

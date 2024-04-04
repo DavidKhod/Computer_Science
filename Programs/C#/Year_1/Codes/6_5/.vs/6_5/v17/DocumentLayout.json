@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\6_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{263F6551-6FC2-4D68-97B1-FCB0A21B51DA}|Q1\\Q1.csproj|c:\\users\\david\\computer_science\\programs\\c#\\year_1\\codes\\6_5\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263F6551-6FC2-4D68-97B1-FCB0A21B51DA}|Q1\\Q1.csproj|solutionrelative:q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\6_5\\Q1\\Program.cs",
+              "RelativeDocumentMoniker": "Q1\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_1\\Codes\\6_5\\Q1\\Program.cs",
+              "RelativeToolTip": "Q1\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:20:04.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,0 @@
-C:\Users\David\Computer_science\Programs\C#\Codes\5_5\P141Q18\bin\Debug\P141Q18.exe.config
-C:\Users\David\Computer_science\Programs\C#\Codes\5_5\P141Q18\bin\Debug\P141Q18.exe
-C:\Users\David\Computer_science\Programs\C#\Codes\5_5\P141Q18\bin\Debug\P141Q18.pdb
-C:\Users\David\Computer_science\Programs\C#\Codes\5_5\P141Q18\obj\Debug\P141Q18.csproj.CoreCompileInputs.cache
-C:\Users\David\Computer_science\Programs\C#\Codes\5_5\P141Q18\obj\Debug\P141Q18.exe
-C:\Users\David\Computer_science\Programs\C#\Codes\5_5\P141Q18\obj\Debug\P141Q18.pdb

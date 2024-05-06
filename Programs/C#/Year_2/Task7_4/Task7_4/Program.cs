@@ -53,6 +53,10 @@
         }
 
         //Q1
+        //Entry: Inpust a queue type int.
+        //Exit: Returns the integer at the end of the queue.
+
+        //Compexity: if n is the length of q, the complexity is O(n), becuase the base step is 1, and n * O(1) = O(n).
         public static int GetLast(Queue<int> q)
         {
             Queue<int> que = Duplicate(q);
@@ -63,6 +67,10 @@
         }
 
         //Q2
+        //Entry: Inputs a Queue type int, and an integer that symbolizes an index.
+        //Exit: Removes the value at the index inputed in the queue, and returs it, if index is out of range return -1.
+
+        //Comlexity: if n is the length of q, the complexity is O(n), because the base step is 3, and n * O(1) = O(n)
         static int RemoveItemAt(Queue<int> q, int index)
         {
             Queue<int> removed = new Queue<int>();
@@ -83,6 +91,9 @@
         }
 
         //Q3
+
+        //Entry: Inputs a Queue type int.
+        //Exit: Removes all duplicates in q.
         static void DeleteDuplicates(Queue<int> q)
         {
             Queue<int> noDups = new Queue<int>();//No duplicates
@@ -95,6 +106,8 @@
                 q.Insert(noDups.Remove());
         }
 
+        //Entry: Inputs a Queue type int, and an intger.
+        //Exit: Removes all appearances of the integer inputed in q.
         static void RemoveNum(Queue<int> que, int num)
         {
             Queue<int> newQue = new Queue<int>();

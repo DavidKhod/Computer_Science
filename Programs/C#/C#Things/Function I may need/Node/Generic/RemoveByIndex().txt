@@ -1,0 +1,24 @@
+static Node<T> RemoveByIndex<T>(Node<T> list, int i)
+{
+    Node<T> start = list;
+    int cnt = 0;
+    if (i != 0)
+    {
+        while (list.HasNext())
+        {
+            if (cnt + 1 != i)
+            {
+                list = list.GetNext();
+                cnt++;
+            }
+            else
+            {
+                list.SetNext(list.GetNext().GetNext());
+                cnt++;
+            }
+        }
+    }
+    else if(i == 0)
+        start = start.GetNext();
+    return start;
+}

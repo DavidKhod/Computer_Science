@@ -1,0 +1,12 @@
+static Node<T> Remove<T>(Node<T> list, T val)
+{
+    while (list.GetValue().Equals(val))
+        list = list.GetNext();
+    Node<T> start = list;
+    while (list.HasNext())
+    {
+        if (list.GetNext().GetValue().Equals(val))
+            list.SetNext(list.GetNext().GetNext());
+    }
+    return start;
+}

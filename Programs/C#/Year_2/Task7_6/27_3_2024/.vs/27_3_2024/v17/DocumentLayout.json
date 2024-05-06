@@ -1,37 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\David\\Computer_Science\\Programs\\C#\\Year_2\\Codes\\Task7_6\\27_3_2024\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{62D3AB2C-3FBF-4028-8F30-70715CE0DA16}|27_3_2024.csproj|c:\\users\\david\\computer_science\\programs\\c#\\year_2\\codes\\task7_6\\27_3_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62D3AB2C-3FBF-4028-8F30-70715CE0DA16}|27_3_2024.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\David\\Computer_science\\Programs\\C#\\Year_2\\Task7_6\\27_3_2024\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\David\\Computer_Science\\Programs\\C#\\Year_2\\Codes\\Task7_6\\27_3_2024\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\David\\Computer_Science\\Programs\\C#\\Year_2\\Codes\\Task7_6\\27_3_2024\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T09:59:22.064Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

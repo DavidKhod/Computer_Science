@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\David\\Computer_science\\Programs\\C#\\C#Things\\LIbs\\LibProject\\MyLib\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39DE9D69-C639-4EC7-8543-3BA4A2DAC647}|MyLib\\MyLib.csproj|c:\\users\\david\\computer_science\\programs\\c#\\c#things\\libs\\libproject\\mylib\\mylib\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39DE9D69-C639-4EC7-8543-3BA4A2DAC647}|MyLib\\MyLib.csproj|solutionrelative:mylib\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{39DE9D69-C639-4EC7-8543-3BA4A2DAC647}|MyLib\\MyLib.csproj|C:\\Users\\David\\Computer_science\\Programs\\C#\\C#Things\\LIbs\\LibProject\\MyLib\\mylib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39DE9D69-C639-4EC7-8543-3BA4A2DAC647}|MyLib\\MyLib.csproj|solutionrelative:mylib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DE9D69-C639-4EC7-8543-3BA4A2DAC647}|MyLib\\MyLib.csproj|c:\\users\\david\\computer_science\\programs\\c#\\c#things\\libs\\libproject\\mylib\\mylib\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DE9D69-C639-4EC7-8543-3BA4A2DAC647}|MyLib\\MyLib.csproj|solutionrelative:mylib\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Queue.cs",
               "DocumentMoniker": "C:\\Users\\David\\Computer_science\\Programs\\C#\\C#Things\\LIbs\\LibProject\\MyLib\\MyLib\\Queue.cs",
               "RelativeDocumentMoniker": "MyLib\\Queue.cs",
               "ToolTip": "C:\\Users\\David\\Computer_science\\Programs\\C#\\C#Things\\LIbs\\LibProject\\MyLib\\MyLib\\Queue.cs",
               "RelativeToolTip": "MyLib\\Queue.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAABkAAAAnAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBkAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T21:33:15.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\David\\Computer_science\\Programs\\C#\\C#Things\\LIbs\\LibProject\\MyLib\\MyLib\\Class1.cs",
               "RelativeDocumentMoniker": "MyLib\\Class1.cs",
               "ToolTip": "C:\\Users\\David\\Computer_science\\Programs\\C#\\C#Things\\LIbs\\LibProject\\MyLib\\MyLib\\Class1.cs",
               "RelativeToolTip": "MyLib\\Class1.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T12:10:26.117Z"
+              "WhenOpened": "2024-02-27T12:10:26.117Z",
+              "EditorCaption": ""
             }
           ]
         }
